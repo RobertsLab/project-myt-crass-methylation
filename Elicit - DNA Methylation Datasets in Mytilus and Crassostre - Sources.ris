@@ -1,0 +1,491 @@
+﻿TY  - JOUR
+AB  - Characterization of DNA methylation patterns in the Pacific oyster,
+Crassostrea gigas, indicates that this epigenetic mechanism plays an
+important functional role in gene regulation and may be involved in
+the regulation of developmental processes and environmental responses.
+However, previous studies have been limited to in silico analyses or
+characterization of DNA methylation at the single gene level. Here, we
+have employed a genome-wide approach to gain insight into how DNA
+methylation supports the regulation of the genome in C. gigas. Using a
+combination of methylation enrichment and high-throughput bisulfite
+sequencing, we have been able to map methylation at over 2.5 million
+individual CpG loci. This is the first high-resolution methylome
+generated for a molluscan species. Results indicate that methylation
+varies spatially across the genome with a majority of the methylated
+sites mapping to intra genic regions. The bisulfite sequencing data
+was combined with RNA-seq data to examine genome-wide relationships
+between gene body methylation and gene expression, where it was shown
+that methylated genes are associated with high transcript abundance
+and low variation in expression between tissue types. The combined
+data suggest DNA methylation plays a complex role in regulating genome
+activity in bivalves.
+AU  - Gavery, Mackenzie R.
+AU  - Roberts, Steven B.
+DA  - 2013/11/21/
+PY  - 2013
+DB  - Crossref
+DO  - 10.7717/peerj.215
+ID  - temp_id_644051184859
+LA  - en
+SN  - 2167-8359
+SP  - e215
+T2  - PeerJ
+TI  - Predominant intragenic methylation is associated with gene expression
+characteristics in a bivalve mollusc
+UR  - http://dx.doi.org/10.7717/peerj.215
+VL  - 1
+ER  - 
+TY  - JOUR
+AB  - DNA methylation patterns and functions are variable across
+invertebrate taxa. In order to provide a better understanding of DNA
+methylation in the Pacific oyster (Crassostrea gigas), we
+characterized the genome-wide DNA methylation profile in male gamete
+cells using whole-genome bisulfite sequencing. RNA-Seq analysis was
+performed to examine the relationship between DNA methylation and
+transcript expression. Methylation status of over 7.6 million CpG
+dinucleotides was described with a majority of methylated regions
+occurring among intragenic regions. Overall, 15% of the CpG
+dinucleotides were determined to be methylated and the mitochondrial
+genome lacked DNA methylation. Integrative analysis of DNA methylation
+and RNA-Seq data revealed a positive association between methylation
+status, both in gene bodies and putative promoter regions, and
+expression. This study provides a comprehensive characterization of
+the distribution of DNA methylation in the oyster male gamete tissue
+and suggests that DNA methylation is involved in gene regulatory
+activity.
+AU  - Olson, Claire E.
+AU  - Roberts, Steven B.
+DA  - 2014/6/17/
+PY  - 2014
+DB  - Crossref
+DO  - 10.3389/fphys.2014.00224
+ID  - temp_id_882460266462
+J2  - Front. Physiol.
+SN  - 1664-042X
+T2  - Frontiers in Physiology
+TI  - Genome-wide profiling of DNA methylation and gene expression in
+Crassostrea gigas male gametes
+UR  - http://dx.doi.org/10.3389/fphys.2014.00224
+VL  - 5
+ER  - 
+TY  - JOUR
+AB  - Background DNA methylation is an epigenetic modification that is
+ubiquitous across many eukaryotes, with variable patterns and
+functions across taxa. The roles of DNA methylation during
+invertebrate development remain enigmatic, especially regarding the
+inheritance and ontogenetic dynamics of methylation. In order to
+better understand to what degree DNA methylation patterns are
+heritable, variable between individuals, and changing during
+Crassostrea gigas development, we characterized the genome-wide
+methylome of Crassostrea gigas sperm and larvae from two full-sib
+families nested within a maternal half-sib family across developmental
+stages. Results Bisulfite treated DNA sequencing of Crassostrea gigas
+sperm and larvae at 72 hours post fertilization and 120 hours post
+fertilization revealed DNA methylation ranges from 15-18%. Our data
+suggest that DNA methylation patterns are inherited, as methylation
+patterns were more similar between the two sires and their offspring
+compared to methylations pattern differences among developmental
+stages. Loci differing between the two paternal full-sib families
+(189) were found throughout the genome but were concentrated in
+transposable elements. The proportion of differentially methylated
+loci among developmental stages was not significantly greater in any
+genomic region. Conclusions This study provides the first single-base
+pair resolution DNA methylomes for both oyster sperm and larval
+samples from multiple crosses. Assuming DNA methylation is introduced
+randomly, the predominance of differentially methylated loci between
+families within transposable elements could be associated with
+selection against altering methylation in gene bodies. For instance,
+differentially methylated loci in gene bodies could be lethal or
+deleterious, as they would alter gene expression. Another possibility
+is that differentially methylated loci may provide advantageous
+phenotypic variation by increasing transposable element mobility.
+Future research should focus on the relationship between epigenetic
+and genetic variation, and explore the possible relationship of DNA
+methylation and transposable element activity.
+AU  - Olson, Claire E.
+AU  - Roberts, Steven B.
+DA  - 2014/12/16/
+PY  - 2014
+DB  - Crossref
+DO  - 10.1101/012831
+ID  - temp_id_419141199381
+T2  - bioRxiv
+TI  - Indication of family-specific DNA methylation patterns in developing
+oysters
+UR  - http://dx.doi.org/10.1101/012831
+ER  - 
+TY  - JOUR
+AB  - Fast growth is one of the most important breeding goals for all
+economic species such as the Pacific oyster (Crassostrea gigas), an
+aquaculture mollusk with top global production. Although the genetic
+basis and molecular mechanisms of growth-related traits have been
+widely investigated in the oyster, the role of DNA methylation
+involved in growth regulation remains largely unexplored. In this
+study, we performed a comparative DNA methylome analysis of two
+selectively bred C. gigas strains with contrasted phenotypes in growth
+and shell color based on whole-genome bisulfite sequencing (WGBS).
+Genome-wide profiling of DNA methylation at the single-base resolution
+revealed that DNA methylations were widely spread across the genome
+with obvious hotspots, coinciding with the distribution of genes and
+repetitive elements. Higher methylation levels were observed within
+genic regions compared with intergenic and promoter regions.
+Comparative analysis of DNA methylation allowed the identification of
+339,604 differentially methylated CpG sites (DMCs) clustering in
+27,600 differentially methylated regions (DMRs). Functional annotation
+analysis identified 11,033 genes from DMRs which were enriched in
+biological processes including cytoskeleton system, cell cycle, signal
+transduction, and protein biosynthesis. Integrative analysis of
+methylome and transcriptome profiles revealed a positive correlation
+between gene expression and DNA methylation within gene-body regions.
+Protein-protein interaction (PPI) analysis of differentially expressed
+and methylated genes allowed for the identification of integrin beta-6
+(homolog of human ITGB3) as a hub modulator of the PI3K/Akt signaling
+pathway that was involved in various growth-related processes. This
+work provided insights into epigenetic regulation of growth in oysters
+and will be valuable resources for studying DNA methylation in
+invertebrates.
+
+© 2022. The Author(s), under exclusive licence to Springer
+Science+Business Media, LLC, part of Springer Nature.
+AU  - Tan, Chao
+AU  - Shi, Chenyu
+AU  - Li, Yin
+AU  - Teng, Wen
+AU  - Li, Yongjing
+AU  - Fu, Huiru
+AU  - Ren, Liting
+AU  - Yu, Hong
+AU  - Li, Qi
+AU  - Liu, Shikai
+DA  - 2022/9/10/
+PY  - 2022
+DB  - Crossref
+DO  - 10.1007/s10126-022-10154-8
+ID  - temp_id_603851776991
+IS  - 5
+J2  - Mar Biotechnol
+LA  - en
+SN  - 1436-2228
+SP  - 911-926
+T2  - Marine Biotechnology
+TI  - Comparative Methylome Analysis Reveals Epigenetic Signatures
+Associated with Growth and Shell Color in the Pacific Oyster,
+Crassostrea gigas
+UR  - http://dx.doi.org/10.1007/s10126-022-10154-8
+VL  - 24
+ER  - 
+TY  - JOUR
+AB  - Abstract Environmental epigenetic is an emerging field that studies
+the cause–effect relationship between environmental factors and
+heritable trait via an alteration in epigenetic marks. This field has
+received much attentions since the impact of environmental factors on
+different epigenetic marks have been shown to be associated with a
+broad range of phenotypic disorders in natural ecosystems. Chemical
+pollutants have been shown to affect immediate epigenetic information
+carriers of several aquatic species but the heritability of the
+chromatin marks and the consequences for long term adaptation remain
+open questions. In this work, we investigated the impact of the diuron
+herbicide on the DNA methylation pattern of spat from exposed
+Crassotrea gigas genitors. This oyster is one of the most important
+mollusk species produced worldwide and a key coastal economic resource
+in France. The whole genome bisulfite sequencing (WGBS, BS-Seq) was
+applied to obtain a methylome at single nucleotide resolution on DNA
+extracted from spat issued from diuron exposed genitors comparatively
+to control spat. We showed that the parental diuron exposure has an
+impact on the DNA methylation pattern of its progeny. Most of the
+differentially methylated regions occurred within coding sequences and
+we showed that this change in methylation level correlates with RNA
+level only in a very small group of genes. Although the DNA
+methylation profile is variable between individuals, we showed
+conserved DNA methylation patterns in response to parental diuron
+exposure. This relevant result opens perspectives for the setting of
+new markers based on epimutations as early indicators of marine
+pollutions.
+AU  - Rondon, Rodolfo
+AU  - Grunau, Christoph
+AU  - Fallet, Manon
+AU  - Charlemagne, Nicolas
+AU  - Sussarellu, Rossana
+AU  - Chaparro, Cristian
+AU  - Montagnani, Caroline
+AU  - Mitta, Guillaume
+AU  - Bachère, Evelyne
+AU  - Akcha, Farida
+AU  - Cosseau, Céline
+DA  - 2017/1/1/
+PY  - 2017
+DB  - Crossref
+DO  - 10.1093/eep/dvx004
+ID  - temp_id_907188614824
+IS  - 1
+LA  - en
+SN  - 2058-5888
+T2  - Environmental Epigenetics
+TI  - Effects of a parental exposure to diuron on Pacific oyster spat
+methylome
+UR  - http://dx.doi.org/10.1093/eep/dvx004
+VL  - 3
+ER  - 
+TY  - JOUR
+AB  - Apart from DNA-sequence-based inheritance, inheritance of epigenetic
+marks such as DNA methylation is controversial across the tree of
+life. In mammals, post-fertilization and primordial germ cell
+reprogramming processes erased most parental DNA methylation
+information. In nonmammalian vertebrates and insects, it has been
+proposed that DNA methylation is an essential hereditary carrier.
+However, how and to what extent general DNA methylation reprogramming
+affects intergenerational inheritance in molluscs remains unclear.
+Here, we investigated genome-wide DNA methylation in a mollusc model,
+the Pacific oyster (Crassostrea gigas), to test how epigenetic
+information transfers from parents to offspring. Analysis of global
+methylome revealed that the DNA methylation patterns are highly
+conserved within families. Almost half of the differentially
+methylated CpG dinucleotides (DMCs) between families in parents could
+transfer to offspring. These results provided the direct evidence for
+the hypothesis that the Pacific oyster DNA methylation patterns are
+inherited in generations. Moreover, distinct DNA methylation
+differences between male and female somatic tissues in C. gigas are
+revealed in this study. These sex-differential methylated genes
+significantly enriched in the regulation of Rho protein signal
+transduction process, which indicated that DNA methylation might have
+an essential role in the sexual differentiation of somatic tissues in
+C. gigas. Author Summary Transgenerational inheritance of DNA
+methylation marks varies across the tree of life. In mammals,
+post-fertilization and primordial germ cell reprogramming processes
+obstructed the DNA methylation transmission from parents to child, and
+only some CpG dinucleotides retain gamete-inherited methylation.
+However, the DNA methylation inheritance seems apparent in
+nonmammalian vertebrates and insects. As one of the essential mollusc
+models, the Pacific oyster Crassostrea gigas have received the most
+substantial epigenetic studies, mainly focusing on the DNA methylation
+profiles. While a previous study suggested the existence of paternal
+inheritance of DNA methylation patterns in C. gigas, more data are
+needed to confirm this hypothesis. In this study, genome-wide DNA
+methylation analysis was performed to investigate the epigenetic
+inheritance in C. gigas. Almost half of the DNA methylation
+differences between families in parents were found to be transferred
+to children, indicating the absence of global DNA methylation
+reprogramming in C. gigas. Besides, extensive hypomethylation in C.
+gigas females compared with males were also unveiled. These
+hypomethylated genes were significantly enriched in the regulation of
+Rho protein signal transduction process. For example, guanine
+nucleotide exchange factors, including KALRN, FGD1, and FGD6, were
+hypomethylated in C. gigas females, and the corresponding
+transcriptions were significantly upregulated. Our findings provided
+insights into the evolution of DNA methylation patterns,
+transgenerational epigenetic inheritance, and sexual differentiation
+in molluscs.
+AU  - Li, Yongguo
+AU  - Teng, Wen
+AU  - Xu, Chengxun
+AU  - Yu, Hong
+AU  - Kong, Lingfeng
+AU  - Liu, Shikai
+AU  - Li, Qi
+DA  - 2022/2/23/
+PY  - 2022
+DB  - Crossref
+DO  - 10.1101/2022.02.22.481396
+ID  - temp_id_717805144439
+T2  - bioRxiv
+TI  - Intergenerational transfer and sex differences of DNA methylation
+patterns in the Pacific oyster (<i>Crassostrea gigas</i>)
+UR  - http://dx.doi.org/10.1101/2022.02.22.481396
+ER  - 
+TY  - JOUR
+AB  - Populations may respond to environmental heterogeneity via
+evolutionary divergence or phenotypic plasticity. While evolutionary
+divergence occurs through DNA sequence differences among populations,
+plastic divergence among populations may be generated by changes in
+the epigenome. Here, we present the results of a genome‐wide
+comparison of DNA methylation patterns and genetic structure among
+four populations of Eastern oyster (Crassostrea virginica) in the
+northern Gulf of Mexico. We used a combination of restriction
+site‐associated DNA sequencing (RADseq) and reduced representation
+bisulfite sequencing (RRBS) to explore population structure, gene‐wide
+averages of FST, and DNA methylation differences between oysters
+inhabiting four estuaries with unique salinity profiles. This approach
+identified significant population structure despite a moderately low
+FST (0.02) across the freshwater boundary of the Mississippi river, a
+finding that may reflect recent efforts to restore oyster stock
+populations. Divergence between populations in CpG methylation was
+greater than for divergence in FST, likely reflecting environmental
+effects on DNA methylation patterns. Assessment of CpG methylation
+patterns across all populations identified that only 26% of methylated
+DNA was intergenic; and, only 17% of all differentially methylated
+regions (DMRs) were within these same regions. DMRs within gene bodies
+between sites were associated with genes known to be involved in DNA
+damage repair, ion transport, and reproductive timing. Finally, when
+assessing the correlation between genomic variation and DNA
+methylation between these populations, we observed population‐specific
+DNA methylation profiles that were not directly associated with single
+nucleotide polymorphisms or broader gene‐body mean FST trends. Our
+results suggest that C. virginica may use DNA methylation to generate
+environmentally responsive plastic phenotypes and that there is more
+divergence in methylation than divergence in allele frequencies.
+AU  - Johnson, Kevin M.
+AU  - Kelly, Morgan W.
+DA  - 2020/1/7/
+PY  - 2020
+DB  - Crossref
+DO  - 10.1111/eva.12912
+ID  - temp_id_219892622439
+IS  - 5
+J2  - Evolutionary Applications
+LA  - en
+SN  - 1752-4571
+SP  - 945-959
+T2  - Evolutionary Applications
+TI  - Population epigenetic divergence exceeds genetic divergence in the
+Eastern oyster <i>Crassostrea virginica</i> in the Northern Gulf of
+Mexico
+UR  - http://dx.doi.org/10.1111/eva.12912
+VL  - 13
+ER  - 
+TY  - JOUR
+AB  - There is a need to investigate mechanisms of phenotypic plasticity in
+marine invertebrates as negative effects of climate change, like ocean
+acidification, are experienced by coastal ecosystems.
+Environmentally-induced changes to the methylome may regulate gene
+expression, but methylome responses can be species- and
+tissue-specific. Tissue-specificity has implications for gonad tissue,
+as gonad-specific methylation patterns may be inherited by offspring.
+We used the Pacific oyster (Crassostrea gigas) - a model for
+understanding pH impacts on bivalve molecular physiology due to its
+genomic resources and importance in global aquaculture- to assess how
+low pH could impact the gonad methylome. Oysters were exposed to
+either low pH (7.31 ± 0.02) or ambient pH (7.82 ± 0.02) conditions for
+7 weeks. Whole genome bisulfite sequencing was used to identify
+methylated regions in female oyster gonad samples. C- > T single
+nucleotide polymorphisms were identified and removed to ensure
+accurate methylation characterization.
+AU  - Venkataraman, Yaamini R.
+AU  - White, Samuel J.
+AU  - Roberts, Steven B.
+DA  - 2022/8/4/
+PY  - 2022
+DB  - Crossref
+DO  - 10.1186/s12864-022-08781-5
+ID  - temp_id_696380290689
+IS  - 1
+J2  - BMC Genomics
+LA  - en
+SN  - 1471-2164
+T2  - BMC Genomics
+TI  - Differential DNA methylation in Pacific oyster reproductive tissue in
+response to ocean acidification
+UR  - http://dx.doi.org/10.1186/s12864-022-08781-5
+VL  - 23
+ER  - 
+TY  - JOUR
+AB  - Eastern oysters in the northern Gulf of Mexico are routinely infected
+with the protistan parasite Perkinsus marinus, the cause of the
+disease commonly known as dermo. Recent experimental challenges among
+Atlantic coast populations have identified both resistant and
+susceptible genotypes using comparative transcriptomics. While
+controlled experimental challenges are essential first assessments,
+expanding this analysis to field reared individuals provides an
+opportunity to identify key genomic signatures of infection that
+appear both in the laboratory and in the field. In this study we
+combined reduced representation bisulfite sequencing with 3′ RNA
+sequencing (Tag-seq) to describe two molecular phenotypes associated
+with infection in oysters outplanted at a common garden field site.
+These combined approaches allowed us to examine changes in DNA
+methylation and gene expression for a large number of individuals (n =
+40) that developed infections during the course of a common garden
+outplant experiment. Our epigenetic analysis of DNA methylation
+identified significant changes in gene body methylation associated
+with increasing infection intensity, across genes associated with
+immune responses. There was a smaller transcriptomic response to
+increasing infection intensities with 32 genes showing differential
+expression; however, only 40% of these genes were found to also be
+differentially methylated. While there was no clear pattern between
+direction of differential methylation and gene expression, there was a
+significant effect of percent methylation on gene-by-gene expression
+levels and the coefficient of variation in gene body methylation
+between treatments. These results show that in C. virginica, heavily
+methylated genes have high levels of gene expression with low levels
+of variation. Comparing our differential expression results with
+previously published experimental P. marinus challenges identified
+overlapping expression patterns for genes associated with
+C1q-domain-containing and V-type proton ATPase proteins. Through our
+comparative transcriptomic approach using field reared individuals and
+co-expression network analysis we have also been able to identify a
+network of genes that change in expression in response to infection.
+These combined analyses provide evidence for a conserved response to
+P. marinus infections across infection intensities and suggest that
+DNA methylation may not be a reliable predictor of differential gene
+expression in long-term infections.
+AU  - Johnson, Kevin M.
+AU  - Sirovy, K. A.
+AU  - Casas, Sandra M.
+AU  - La Peyre, Jerome F.
+AU  - Kelly, Morgan W.
+DA  - 2020/8/11/
+PY  - 2020
+DB  - Crossref
+DO  - 10.3389/fmars.2020.00598
+ID  - temp_id_373038302903
+J2  - Front. Mar. Sci.
+SN  - 2296-7745
+T2  - Frontiers in Marine Science
+TI  - Characterizing the Epigenetic and Transcriptomic Responses to
+Perkinsus marinus Infection in the Eastern Oyster Crassostrea
+virginica
+UR  - http://dx.doi.org/10.3389/fmars.2020.00598
+VL  - 7
+ER  - 
+TY  - JOUR
+AB  - DNA methylation is instrumental in vertebrate sex reversal. However,
+the mechanism of DNA methylation regulation regarding sex reversal in
+invertebrates is unclear. In this study, we used whole genome
+bisulfite sequencing (WGBS) to map single-base resolution methylation
+profiles of the Pacific oyster, including female-to-male (FMa-to-FMb)
+and male-to-female (MFa-to-MFb) sex reversal, as well as sex
+non-reversed males and females (MMa-to-MMb and FFa-to-FFb). The
+results showed that global DNA methylation levels increase during
+female-to-male sex reversals, with a particular increase in the
+proportion of high methylation levels (mCGs >0.75) and a decrease in
+the proportion of intermediate methylation levels (0.25 < mCGs <0.75).
+This increase in DNA methylation was mainly associated with the
+elevated expression of DNA methylase genes. Genome-wide methylation
+patterns of females were accurately remodeled to those of males after
+sex reversal, while the opposite was true for the male-to-female
+reversal. Those findings directly indicate that alterations in DNA
+methylation play a significant role in sex reversal in Pacific
+oysters. Comparative analysis of the DNA methylomes of pre- and post-
+sex reversal gonadal tissues (FMb-vs-FMa or MFb-vs-MFa) revealed that
+differentially methylated genes were mainly involved in the biological
+processes of sex determination or gonadal development. However
+critical genes such as Dmrt1, Foxl2 and Sox-like, which are involved
+in the putative sex determination pathway in Pacific oysters, showed
+almost an absence of methylation modifications, varying greatly from
+vertebrates. Additionally, comparative analysis of the DNA methylomes
+of sexual reversal and sex non-reversal (FMa-vs-FFa or MFa-vs-MMa)
+revealed that heat shock protein genes, such as Hsp68-like and Hsp70B,
+were important for the occurrence of sex reversal. These findings shed
+light on the epigenetic mechanisms underlying the maintenance of
+gonadal plasticity and the reversal of organ architecture in oysters.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+AU  - Sun, Dongfang
+AU  - Yu, Hong
+AU  - Kong, Lingfeng
+AU  - Liu, Shikai
+AU  - Xu, Chengxun
+AU  - Li, Qi
+DA  - 2024/2//
+PY  - 2024
+DB  - Crossref
+DO  - 10.1016/j.ijbiomac.2023.128964
+ID  - temp_id_899450610420
+J2  - International Journal of Biological Macromolecules
+LA  - en
+SN  - 0141-8130
+SP  - 128964
+T2  - International Journal of Biological Macromolecules
+TI  - The role of DNA methylation reprogramming during sex determination and
+sex reversal in the Pacific oyster Crassostrea gigas
+UR  - http://dx.doi.org/10.1016/j.ijbiomac.2023.128964
+VL  - 259
+ER  - 
