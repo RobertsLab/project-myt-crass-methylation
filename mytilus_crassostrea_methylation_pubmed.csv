@@ -1,0 +1,1691 @@
+PMID,Title,Abstract,Journal,Authors,Publication Date,DOI,PMC ID,URL,References,Grants
+39534877,DNA methylation correlates with transcriptional noise in response to elevated pCO,"Ocean acidification significantly affects marine calcifiers like oysters, warranting the study of molecular mechanisms like DNA methylation that contribute to adaptive plasticity in response to environmental change. However, a consensus has not been reached on the extent to which methylation modules gene expression, and in turn plasticity, in marine invertebrates. In this study, we investigated the impact of pCO",Environmental epigenetics,"Venkataraman, Huffmyer, White, Downey-Wall, Ashey, Becker, Bengtsson, Putnam, Strand, Rodríguez-Casariego, Wanamaker, Lotterhos, Roberts",2024,10.1093/eep/dvae018,PMC11556341,https://pubmed.ncbi.nlm.nih.gov/39534877,"Calvin  K, Dasgupta  D, Krinner  G  et al.  IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland. Arias P, Bustamante M, Elgizouli I et al. (eds.). Intergovernmental Panel on Climate Change (IPCC), 2023.
+
+Gazeau  F, Parker  LM, Comeau  S  et al.  Impacts of ocean acidification on marine shelled molluscs. Mar Biol  2013;160:2207–45. doi: 10.1007/s00227-013-2219-3
+
+Ducker  J, Falkenberg  LJ. How the Pacific oyster responds to ocean acidification: development and application of a meta-analysis based adverse outcome pathway. Front Mar Sci  2020;7:597441. doi: 10.3389/fmars.2020.597441
+
+Parker  LM, Ross  PM, O’Connor  WA  et al.  Predicting the response of molluscs to the impact of ocean acidification. Biology  2013;2:651–92. doi: 10.3390/biology2020651
+
+Lemasson  AJ, Fletcher  S, Hall-Spencer  JM  et al.  Linking the biological impacts of ocean acidification on oysters to changes in ecosystem services: a review. J Exp Mar Biol Ecol  2017;492:49–62. doi: 10.1016/j.jembe.2017.01.019
+
+Gazeau  F, Quiblier  C, Jansen  JM  et al.  Impact of elevated CO2 on shellfish calcification. Geophys Res Lett  2007;34:L07603. doi: 10.1029/2006GL028554
+
+Kurihara  H, Kato  S, Ishimatsu  A. Effects of increased seawater pCO2 on early development of the oyster Crassostrea gigas. Aquat Biol  2007;1:91–98. doi: 10.3354/ab00009
+
+Beniash  E, Ivanina  A, Lieb  NS  et al.  Elevated level of carbon dioxide affects metabolism and shell formation in oysters Crassostrea virginica. Mar Ecol Prog Ser  2010;419:95–108. doi: 10.3354/meps08841
+
+Ries  JB. A physicochemical framework for interpreting the biological calcification response to CO2-induced ocean acidification. Geochim Cosmochim Acta  2011;75:4053–64. doi: 10.1016/j.gca.2011.04.025
+
+Tomanek  L, Zuzow  MJ, Ivanina  AV  et al.  Proteomic response to elevated pCO2 level in eastern oysters, Crassostrea virginica: evidence for oxidative stress. J Exp Biol  2011;214:1836–44. doi: 10.1242/jeb.055475
+
+Timmins-Schiffman  E, Coffey  WD, Hua  W  et al.  Shotgun proteomics reveals physiological response to ocean acidification in Crassostrea gigas. BMC Genom  2014;15:951. doi: 10.1186/1471-2164-15-951
+
+Dineshram  R, Chandramouli  K, Ko  GWK  et al.  Quantitative analysis of oyster larval proteome provides new insights into the effects of multiple climate change stressors. Global Chang Biol  2016;22:2054–68. doi: 10.1111/gcb.13249
+
+Boulais  M, Chenevert  KJ, Demey  AT  et al.  Oyster reproduction is compromised by acidification experienced seasonally in coastal regions. Sci Rep  2017;7:13276. doi: 10.1038/s41598-017-13480-3
+
+Omoregie  E, Mwatilifange  NSI, Liswaniso  G. Futuristic ocean acidification levels reduce growth and reproductive viability in the pacific oyster (Crassostrea gigas). J Appl Sci Environ Manage  2019;23:1747–54.
+
+Coen  LD, Brumbaugh  RD, Bushek  D  et al.  Ecosystem services related to oyster restoration. Mar Ecol Prog Ser  2007;341:303–07. doi: 10.3354/meps341303
+
+Smith  RS, Cheng  SL, Castorani  MCN. Meta-analysis of ecosystem services associated with oyster restoration. Conserv Biol  2023;37:e13966. doi: 10.1111/cobi.13966
+
+Grabowski  JH, Brumbaugh  RD, Conrad  RF  et al.  Economic valuation of ecosystem services provided by oyster reefs. Bioscience  2012;62:900–09. doi: 10.1525/bio.2012.62.10.10
+
+Kroeker  KJ, Kordas  RL, Crim  RN  et al.  Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms. Ecol Lett  2010;13:1419–34. doi: 10.1111/j.1461-0248.2010.01518.x
+
+Melzner  F, Mark  FC, Seibel  BA  et al.  Ocean acidification and coastal marine invertebrates: tracking CO2 effects from seawater to the cell. Ann Rev Mar Sci  2019;12:499–523. doi: 10.1146/annurev-marine-010419-010658
+
+Strader  ME, Wong  JM, Hofmann  GE. Ocean acidification promotes broad transcriptomic responses in marine metazoans: a literature survey. Front Zool  2020;17:7. doi: 10.1186/s12983-020-0350-9
+
+Padilla-Gamiño  JL, Alma  L, Spencer  LH  et al.  Ocean acidification does not overlook sex: review of understudied effects and implications of low pH on marine invertebrate sexual reproduction. Front Mar Sci  2022;9:977754. doi: 10.3389/fmars.2022.977754
+
+Gienapp  P, Teplitsky  C, Alho  JS  et al.  Climate change and evolution: disentangling environmental and genetic responses. Mol Ecol  2008;17:167–78. doi: 10.1111/j.1365-294X.2007.03413.x
+
+Byrne  M, Foo  SA, Ross  PM  et al.  Limitations of cross- and multigenerational plasticity for marine invertebrates faced with global climate change. Global Chang Biol  2020;26:80–102. doi: 10.1111/gcb.14882
+
+Parker  LM, Ross  PM, O’Connor  WA  et al.  Adult exposure influences offspring response to ocean acidification in oysters. Global Chang Biol  2012;18:82–92. doi: 10.1111/j.1365-2486.2011.02520.x
+
+Parker  LM, O’Connor  WA, Raftos  DA  et al.  Persistence of positive carryover effects in the oyster, Saccostrea glomerata, following transgenerational exposure to ocean acidification. PLoS One  2015;10:e0132276. doi: 10.1371/journal.pone.0132276
+
+Spencer  LH, Venkataraman  YR, Crim  R  et al.  Carryover effects of temperature and pCO2 across multiple Olympia oyster populations. Ecol Appl  2019;30:e02060.
+
+McNally  EM, Downey-Wall  AM, Titmuss  FD  et al.  Parental exposure of Eastern oysters (Crassostrea virginica) to elevated pCO2 mitigates its negative effects on early larval shell growth and morphology. Limnol Oceanogr  2022;67:1732–45. doi: 10.1002/lno.12162
+
+Griffith  AW, Gobler  CJ. Transgenerational exposure of North Atlantic bivalves to ocean acidification renders offspring more vulnerable to low pH and additional stressors. Sci Rep  2017;7:11394. doi: 10.1038/s41598-017-11442-3
+
+Venkataraman  YR, Spencer  LH, Roberts  SB. Larval response to parental low pH exposure in the pacific oyster Crassostrea gigas. J Shellfish Res  2019;38:743. doi: 10.2983/035.038.0325
+
+Deans  C, Maggert  KA. What do you mean, “Epigenetic”?  Genetics  2015;199:887–96. doi: 10.1534/genetics.114.173492
+
+Bird  A. DNA methylation patterns and epigenetic memory. Genes Dev  2002;16:6–21. doi: 10.1101/gad.947102
+
+Eirin-Lopez  JM, Putnam  HM. Marine environmental epigenetics. Ann Rev Mar Sci  2018;11:335–68. doi: 10.1146/annurev-marine-010318-095114
+
+Bogan  SN, Yi  SV, Hoffmann  F. Potential role of DNA methylation as a driver of plastic responses to the environment across cells, organisms, and populations. Genome Biol Evol  2024;16:evae022. doi: 10.1093/gbe/evae022
+
+Rondon  R, Grunau  C, Fallet  M  et al.  Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environ Epigenet  2017;3:dvx004. doi: 10.1093/eep/dvx004
+
+Liew  YJ, Howells  EJ, Wang  X  et al.  Intergenerational epigenetic inheritance in reef-building corals. Nat Clim Chang  2020;10:254–59. doi: 10.1038/s41558-019-0687-2
+
+Lee  YH, Kim  M-S, Wang  M  et al.  Epigenetic plasticity enables copepods to cope with ocean acidification. Nat Clim Chang  2022;12:918–27. doi: 10.1038/s41558-022-01477-4
+
+Brennan  RS, deMayo  JA, Finiguerra  M  et al.  Epigenetic and evolutionary mechanisms uniquely contribute to rescue from global change. bioRxiv  2024:2024-03.
+
+Peterson  CR, Scott  CB, Ghaffari  R  et al.  Mixed patterns of intergenerational DNA methylation inheritance in Acropora. Mol Biol Evol  2024;41:msae008. doi: 10.1093/molbev/msae008
+
+Bogan  SN, Johnson  KM, Hofmann  GE. Changes in genome-wide methylation and gene expression in response to future pCO2 extremes in the antarctic pteropod Limacina helicina antarctica. Front Mar Sci  2020;6:788. doi: 10.3389/fmars.2019.00788
+
+Liew  YJ, Zoccola  D, Li  Y  et al.  Epigenome-associated phenotypic acclimatization to ocean acidification in a reef-building coral. Sci Adv  2018;4:eaar8028. doi: 10.1126/sciadv.aar8028
+
+Strader  ME, Kozal  LC, Leach  TS  et al.  Examining the role of DNA methylation in transcriptomic plasticity of early stage sea urchins: developmental and maternal effects in a kelp forest herbivore. Front Mar Sci  2020;7:205. doi: 10.3389/fmars.2020.00205
+
+Downey-Wall  AM, Cameron  LP, Ford  BM  et al.  Ocean acidification induces subtle shifts in gene expression and DNA methylation in mantle tissue of the eastern oyster (Crassostrea virginica). Front Mar Sci  2020;7:828. doi: 10.3389/fmars.2020.566419
+
+Lim  Y-K, Cheung  K, Dang  X  et al.  DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, Crassostrea hongkongensis. Mar Environ Res  2020;163:105214. doi: 10.1016/j.marenvres.2020.105214
+
+Venkataraman  YR, Downey-Wall  AM, Ries  J  et al.  General DNA methylation patterns and environmentally-induced differential methylation in the eastern oyster (Crassostrea virginica). Front Mar Sci  2020;7:225. doi: 10.3389/fmars.2020.00225
+
+Chandra Rajan  K, Yuan  M, Yu  Z  et al.  Oyster biomineralisation under ocean acidification: from genes to shell. Global Chang Biol  2021;27:3779–97. doi: 10.1111/gcb.15675
+
+Venkataraman  YR, White  SJ, Roberts  SB. Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification. BMC Genom  2022;23:556. doi: 10.1186/s12864-022-08781-5
+
+Dang  X, Lim  Y-K, Li  Y  et al.  Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment. Mol Ecol  2023;32:412–27. doi: 10.1111/mec.16751
+
+Johnson  KM, Sirovy  KA, Casas  SM  et al.  Characterizing the epigenetic and transcriptomic responses to Perkinsus marinus infection in the eastern oyster Crassostrea virginica. Front Mar Sci  2020;7:598. doi: 10.3389/fmars.2020.00598
+
+Johnson  KM, Sirovy  KA, Kelly  MW. Differential DNA methylation across environments has no effect on gene expression in the eastern oyster. J Anim Ecol  2021;91:1135–47. doi: 10.1111/1365-2656.13645
+
+Sun  D, Li  Q, Yu  H. DNA methylation differences between male and female gonads of the oyster reveal the role of epigenetics in sex determination. Gene  2022;820:146260. doi: 10.1016/j.gene.2022.146260
+
+Sun  D, Yu  H, Kong  L  et al.  The role of DNA methylation reprogramming during sex determination and sex reversal in the Pacific oyster Crassostrea gigas. Int J Biol Macromol  2024;259:128964. doi: 10.1016/j.ijbiomac.2023.128964
+
+Teng  W, Xu  C, Liu  S  et al.  DNA methylation in oysters is influenced by genetics and sex. Res Square  2024. doi: 10.21203/rs.3.rs-3866716/v1
+
+Broquard  C, Saowaros  S-A, Lepoittevin  M  et al.  Gonadal transcriptomes associated with sex phenotypes provide potential male and female candidate genes of sex determination or early differentiation in Crassostrea gigas, a sequential hermaphrodite mollusc. BMC Genom  2021;22:609. doi: 10.1186/s12864-021-07838-1
+
+Bertinetto  C, Engel  J, Jansen  J. ANOVA simultaneous component analysis: a tutorial review. Anal Chim Acta X  2020;6:100061. doi: 10.1016/j.acax.2020.100061
+
+Sarda  S, Zeng  J, Hunt  BG  et al.  The evolution of invertebrate gene body methylation. Mol Biol Evol  2012;29:1907–16. doi: 10.1093/molbev/mss062
+
+Dixon  G, Matz  M. Changes in gene body methylation do not correlate with changes in gene expression in Anthozoa or Hexapoda. BMC Genom  2022;23:234. doi: 10.1186/s12864-022-08474-z
+
+Feil  R, Fraga  MF. Epigenetics and the environment: emerging patterns and implications. Nat Rev Genet  2012;13:97–109. doi: 10.1038/nrg3142
+
+Yi  SV, Makova  K. Insights into epigenome evolution from animal and plant methylomes. Genome Biol Evol  2017;9:3189–201. doi: 10.1093/gbe/evx203
+
+Jablonka  E, Lamb  MJ. The changing concept of epigenetics. Ann N Y Acad Sci  2002;981:82–96. doi: 10.1111/j.1749-6632.2002.tb04913.x
+
+Weber  M, Hellmann  I, Stadler  MB  et al.  Distribution, silencing potential and evolutionary impact of promoter DNA methylation in the human genome. Nat Genet  2007;39:457–66. doi: 10.1038/ng1990
+
+Sol Dourdin  T, Guyomard  K, Rabiller  M  et al.  Ancestors’ gift: parental early exposure to the environmentally realistic pesticide mixture drives offspring phenotype in a larger extent than direct exposure in the pacific oyster, Crassostrea gigas. Environ Sci Technol  2024;58:1865–76. doi: 10.1021/acs.est.3c08201
+
+Gavery  MR, Roberts  SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ  2013;1:e215. doi: 10.7717/peerj.215
+
+Gavery  M, Roberts  S. Genetics & epigenetics in life history and reproduction: oysters. In: Skinner  MK (ed.), Encyclopedia of Reproduction, 2nd edn. Oxford: Academic Press, 2018, 736–42.
+
+Belardin  LB, Antoniassi  MP, Camargo  M  et al.  Semen levels of matrix metalloproteinase (MMP) and tissue inhibitor of metallorproteinases (TIMP) protein families members in men with high and low sperm DNA fragmentation. Sci Rep  2019;9:903. doi: 10.1038/s41598-018-37122-4
+
+Cabral-Pacheco  GA, Garza-Veloz  I, Castruita-de la Rosa  C  et al.  The roles of matrix metalloproteinases and their inhibitors in human diseases. Int J Mol Sci  2020;21:9739. doi: 10.3390/ijms21249739
+
+Riviere  G, Fellous  A, Franco  A  et al.  A crucial role in fertility for the oyster angiotensin-converting enzyme orthologue CgACE. PLoS One  2011;6:e27833. doi: 10.1371/journal.pone.0027833
+
+Roberts  SB, Gavery  MR. Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?  Front Physiol  2012;2:116. doi: 10.3389/fphys.2012.00116/abstract
+
+Song  K, Li  L, Zhang  G. The association between DNA methylation and exon expression in the Pacific oyster Crassostrea gigas. PLoS One  2017;12:e0185224. doi: 10.1371/journal.pone.0185224
+
+Bogan  SN, Strader  ME, Hofmann  GE. Associations between DNA methylation and gene regulation depend on chromatin accessibility during transgenerational plasticity. BMC Biol  2023;21:149. doi: 10.1186/s12915-023-01645-8
+
+Feely  RA, Alin  SR, Newton  J  et al.  The combined effects of ocean acidification, mixing, and respiration on pH and carbonate saturation in an urbanized estuary. Estuarine Coastal Shelf Sci  2010;88:442–49. doi: 10.1016/j.ecss.2010.05.004
+
+Whitlock  MC, Schluter  D. The Analysis of Biological Data. London: Macmillan Higher Education, 2019.
+
+Helm  MM, Bourne  N. Hatchery Culture of Bivalves: A Practical Manual. Rome: Food and Agriculture Organization of the United Nations, 2004.
+
+Bogdanova  EA, Barsova  EV, Shagina  IA  et al.  Normalization of full-length-enriched cDNA. Methods Mol Biol  2011;729:85–98.
+
+Gómez-Chiarri  M, Warren  WC, Guo  X  et al.  Developing tools for the study of molluscan immunity: the sequencing of the genome of the eastern oyster, Crassostrea virginica. Fish Shellfish Immunol  2015;46:2–4. doi: 10.1016/j.fsi.2015.05.004
+
+Quinlan  AR, Hall  IM. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics  2010;26:841–42. doi: 10.1093/bioinformatics/btq033
+
+Tarailo-Graovac  M, Chen  N. Using RepeatMasker to identify repetitive elements in genomic sequences. Curr Protoc Bioinf  2009;25:4–10. doi: 10.1002/0471250953.bi0410s25
+
+Smit  AFA, Hubley  R, Green  P. RepeatMasker Open-4.0 2013–2015. 2013.
+
+White  S, Roberts  S. C.virginica methylation and gene expression. 2022. doi: 10.17605/OSF.IO/XUY2F
+
+Di Tommaso  P, Chatzou  M, Floden  EW  et al.  Nextflow enables reproducible computational workflows. Nat Biotechnol  2017;35:316–19. doi: 10.1038/nbt.3820
+
+Nunn  A, Can  SN, Otto  C  et al.  EpiDiverse toolkit: a pipeline suite for the analysis of bisulfite sequencing data in ecological plant epigenetics. NAR Genom Bioinform  2021;3:lqab106. doi: 10.1093/nargab/lqab106
+
+Krueger  F, Andrews  SR. Bismark: a flexible aligner and methylation caller for bisulfite-seq applications. Bioinformatics  2011;27:1571–72. doi: 10.1093/bioinformatics/btr167
+
+Korneliussen  TS, Moltke  I. NgsRelate: a software tool for estimating pairwise relatedness from next-generation sequencing data. Bioinformatics  2015;31:4009–11. doi: 10.1093/bioinformatics/btv509
+
+Silliman  K, Spencer  LH, White  SJ  et al.  Epigenetic and genetic population structure is coupled in a marine invertebrate. Genome Biol Evol  2023;15:evad013. doi: 10.1093/gbe/evad013
+
+Love  MI, Huber  W, Anders  S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol  2014;15:550. doi: 10.1186/s13059-014-0550-8
+
+Chen  S, Zhou  Y, Chen  Y  et al.  fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics  2018;34:i884–90. doi: 10.1093/bioinformatics/bty560
+
+Ewels  P. MultiQC. GitHub.
+
+Kim  D, Paggi  JM, Park  C  et al.  Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype. Nat Biotechnol  2019;37:907–15. doi: 10.1038/s41587-019-0201-4
+
+Pertea  M, Kim  D, Pertea  GM  et al.  Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown. Nat Protoc  2016;11:1650–67. doi: 10.1038/nprot.2016.095
+
+Pertea  M, Pertea  GM, Antonescu  CM  et al.  StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. Nat Biotechnol  2015;33:290–95. doi: 10.1038/nbt.3122
+
+R Core Team . R: A Language and Environment for Statistical Computing. 2021.
+
+Fu  J, Frazee  AC, Collado-Torres  L  et al.  ballgown: flexible, isoform-level differential expression analysis. 2021.
+
+Wickham  H, Averick  M, Bryan  J  et al.  Welcome to the tidyverse. J Open Source Software  2019;4:1686. doi: 10.21105/joss.01686
+
+Alexa  A, Rahnenfuhrer  J. topGO: enrichment analysis for gene ontology. R Package Version 2010;2:2010.
+
+Jarmund  AH, Madssen  TS, Giskeødegård  GF. ALASCA: an R package for longitudinal and cross-sectional analysis of multivariate data by ASCA-based methods. Front Mol Biosci  2022;9:962431. doi: 10.3389/fmolb.2022.962431
+
+Pattengale  ND, Alipour  M, Bininda-Emonds  ORP  et al.  How many bootstrap replicates are necessary?  J Comput Biol  2010;17:337–54. doi: 10.1089/cmb.2009.0179
+
+Gao  S, Zou  D, Mao  L  et al.  BS-SNPer: SNP calling in bisulfite-seq data. Bioinformatics  2015;31:4006–08. doi: 10.1093/bioinformatics/btv507
+
+Akalin  A, Kormaksson  M, Li  S  et al.  methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles. Genome Biol  2012;13:R87. doi: 10.1186/gb-2012-13-10-r87
+
+Wu  X, Lindsey  ARI, Chatterjee  P  et al.  Distinct epigenomic and transcriptomic modifications associated with Wolbachia-mediated asexuality. PLoS Pathog  2020;16:e1008397. doi: 10.1371/journal.ppat.1008397",No grants available
+38219938,The role of DNA methylation reprogramming during sex determination and sex reversal in the Pacific oyster Crassostrea gigas.,"DNA methylation is instrumental in vertebrate sex reversal. However, the mechanism of DNA methylation regulation regarding sex reversal in invertebrates is unclear. In this study, we used whole genome bisulfite sequencing (WGBS) to map single-base resolution methylation profiles of the Pacific oyster, including female-to-male (FMa-to-FMb) and male-to-female (MFa-to-MFb) sex reversal, as well as sex non-reversed males and females (MMa-to-MMb and FFa-to-FFb). The results showed that global DNA methylation levels increase during female-to-male sex reversals, with a particular increase in the proportion of high methylation levels (mCGs >0.75) and a decrease in the proportion of intermediate methylation levels (0.25 < mCGs <0.75). This increase in DNA methylation was mainly associated with the elevated expression of DNA methylase genes. Genome-wide methylation patterns of females were accurately remodeled to those of males after sex reversal, while the opposite was true for the male-to-female reversal. Those findings directly indicate that alterations in DNA methylation play a significant role in sex reversal in Pacific oysters. Comparative analysis of the DNA methylomes of pre- and post- sex reversal gonadal tissues (FMb-vs-FMa or MFb-vs-MFa) revealed that differentially methylated genes were mainly involved in the biological processes of sex determination or gonadal development. However critical genes such as Dmrt1, Foxl2 and Sox-like, which are involved in the putative sex determination pathway in Pacific oysters, showed almost an absence of methylation modifications, varying greatly from vertebrates. Additionally, comparative analysis of the DNA methylomes of sexual reversal and sex non-reversal (FMa-vs-FFa or MFa-vs-MMa) revealed that heat shock protein genes, such as Hsp68-like and Hsp70B, were important for the occurrence of sex reversal. These findings shed light on the epigenetic mechanisms underlying the maintenance of gonadal plasticity and the reversal of organ architecture in oysters.",International journal of biological macromolecules,"Sun, Yu, Kong, Liu, Xu, Li",2024,10.1016/j.ijbiomac.2023.128964,,https://pubmed.ncbi.nlm.nih.gov/38219938,No references available,No grants available
+36314404,Epigenetic-associated phenotypic plasticity of the ocean acidification-acclimated edible oyster in the mariculture environment.,"For marine invertebrates with a pelagic-benthic life cycle, larval exposure to ocean acidification (OA) can affect adult performance in response to another environmental stressor. This carry-over effect has the potential to alter phenotypic traits. However, the molecular mechanisms that mediate ""OA""-triggered carry-over effects have not been explored despite such information being key to improving species fitness and management strategies for aquafarming. This study integrated the genome-wide DNA methylome and transcriptome to examine epigenetic modification-mediated carry-over OA impacts on phenotypic traits of the ecologically and commercially important oyster species Crassostrea hongkongensis under field conditions. Larvae of C. hongkongensis were exposed to control pH 8.0 and low pH 7.4 conditions, mimicking near future OA scenario in their habitat, before being outplanted as post-metamorphic juveniles at two mariculture field sites with contrasting environmental stressors for 9 months. The larval carry-over OA effect was found to have persistent impacts on the growth and survival trade-off traits on the outplanted juveniles, although the beneficial or adverse effect depended on the environmental conditions at the outplanted sites. Site-specific plasticity was demonstrated with a diverse DNA methylation-associated gene expression profile, with signal transduction and the endocrine system being the most common and highly enriched functions. Highly methylated exons prevailed in the key genes related to general metabolic and endocytic responses and these genes are evolutionarily conserved in various marine invertebrates in response to OA. These results suggest that oysters with prior larval exposure history to OA had the ability to trigger rapid local adaptive responses via epigenetic modification to cope with multiple stressors in the field.",Molecular ecology,"Dang, Lim, Li, Roberts, Li, Thiyagarajan",2023,10.1111/mec.16751,,https://pubmed.ncbi.nlm.nih.gov/36314404,"Bauer, J. E., Cai, W.-J., Raymond, P. A., Bianchi, T. S., Hopkinson, C. S., & Regnier, P. A. (2013). The changing carbon cycle of the coastal ocean. Nature, 504, 61-70. https://doi.org/10.1038/nature12857
+
+Beal, A., Rodriguez-Casariego, J., Rivera-Casas, C., Suarez-Ulloa, V., & Eirin-Lopez, J. M. (2018). Environmental epigenomics and its applications in marine organisms. In M. Oleksiak & O. Rajora (Eds.), Population genomics: Marine organisms. Population genomics. Springer. https://doi.org/10.1007/13836_2018_28
+
+Bogan, S. N., Johnson, K. M., & Hofmann, G. E. (2020). Changes in genome-wide methylation and gene expression in response to future pCO2 extremes in the Antarctic pteropod Limacina helicina antarctica. Frontiers in Marine Science, 6, 788. https://doi.org/10.3389/fmars.2019.00788
+
+Bryne, M., Foo, S. A., Ross, P. M., & Putnam, H. M. (2019). Limitations of cross- and multigenerational plasticity for marine invertebrates faced with global climate change. Global Change Biology, 26(1), 80-102. https://doi.org/10.1111/gcb.14882
+
+Byrne, M., & Przeslawski, R. (2013). Multistressor impacts of warming and acidification of the ocean on marine invertebrates' life histories. Integrative and Comparative Biology, 53(4), 582-596. https://doi.org/10.1093/icb/ict049
+
+Caldeira, K., & Wickett, M. E. (2003). Oceanography: Anthropogenic carbon and ocean pH. Nature, 425, 365. https://doi.org/10.1038/425365a
+
+Chandra Rajan, K., Meng, Y., Yu, Z., Roberts, S. B., & Thiyagarajan, V. (2021). Oyster biomineralization under ocean acidification: From genes to shell. Global Change Biology, 27(16), 3779-3797. https://doi.org/10.1111/gcb.15675
+
+Cornwall, C. E., & Hurd, C. L. (2016). Experimental design in ocean acidification research: Problems and solutions. ICES Journal of Marine Science, 73(3), 572-581. https://doi.org/10.1093/icesjms/fsv118
+
+Covelo-Soto, L., Saura, M., & Moran, P. (2015). Does DNA methylation regulate metamorphosis? The case of the sea lamphrey (Petromyzon marinus) as an example. Comparative Biochemistry and Physiology. Part B, Biochemistry & Molecular Biology, 185, 42-46. https://doi.org/10.1016/j.cbpb.2015.03.007
+
+Crona, B., Wassenius, E., Troell, M., Barclay, K., Mallory, T., Fabinyi, M., Zhang, W., Lam, V. W. Y., Cao, L., Henriksson, P. J. G., & Eriksson, H. (2020). China at a crossroads: An analysis of China's changing seafood production and consumption. One Earth, 3(1), 32-44. https://doi.org/10.1016/j.oneear.2020.06.013
+
+Dang, X., Noor, Z., He, Y.-Q., Lim, Y.-K., Zhang, Y., Yu, Z.-N., & Thiyagarajan, V. (2022). Internal controls for quantitative RT-PCR analysis of gene expression in response to ocean acidification in edible oysters. Journal of Experimental Marine Biology and Ecology, 548, 151683. https://doi.org/10.1016/j.jembe.2021.151683
+
+Dimond, J. L., & Roberts, S. B. (2016). Germline DNA methylation in reef corals: Patterns and potential roles in response to environmental change. Molecular Ecology, 25, 1895-1904. https://doi.org/10.1111/mec.13414
+
+Dineshram, R., Quan, Q., Sharma, R., Chandramouli, K., Yalamanchili, H. K., Chu, I., & Thiyagarajan, V. (2015). Comparative and quantitative proteomics reveal the adaptive strategies of oyster larvae to ocean acidification. Proteomics, 15, 4129-4134. https://doi.org/10.1002/pmic.201500198
+
+Dineshram, R., Thiyagarajan, V., Lane, A., Ziniu, Y., Xiao, S., & Leung, P. T. Y. (2013). Elevated CO2 alters larval proteome and its phosphorylation status in the commercial oyster, Crassostrea hongkongensis. Marine Biology, 160(8), 2189-2205. https://doi.org/10.1007/s00227-013-2176-x
+
+Downey-Wall, A. M., Cameron, L. P., Ford, B. M., McNally, E. M., Venkataraman, Y. R., Roberts, S. B., Ries, J. B., & Lotterhos, K. E. (2020). Ocean acidification induces subtle shifts in gene expression and DNA methylation in mantle tissue of the eastern oyster (Crassostrea virginica). Frontiers in Marine Science, 7, 828. https://doi.org/10.3389/fmars.2020.566419
+
+Duncan, E. J., Gluckman, P. D., & Dearden, P. K. (2014). Epigenetics, plasticity, and evolution: How do we link epigenetic change to phenotype? Journal of Experimental Zoology - Molecular and Developmental Evolution, 322(4), 208-220. https://doi.org/10.1002/jez.b.22571
+
+Espinel-Velasco, N., Agüera, A., & Lamare, M. (2020). Sea urchin larvae show resilience to ocean acidification at the time of settlement and metamorphosis. Marine Environmental Research, 159, 104977. https://doi.org/10.1016/j.marenvres.2020.104977
+
+Filgueira, R., Guyondet, T., Comeau, L. A., & Tremblay, R. (2016). Bivalve aquaculture-environment interactions in the context of climate change. Global Change Biology, 22(12), 3901-3913. https://doi.org/10.1111/gcb.13346
+
+Flores, K. B., Wolschin, F., & Amdam, G. V. (2013). The role of methylation of DNA in environmental adaptation. Integrative and Comparative Biology, 53, 359-372. https://doi.org/10.1093/icb/ict019
+
+Gavery, M. R., & Roberts, S. B. (2010). DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas). BMC Genomics, 11, 483. https://doi.org/10.1186/1471-2164-11-483
+
+Gavery, M. R., & Roberts, S. B. (2013). Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ, 1, e215. https://doi.org/10.7717/peerj.215
+
+Ghalambor, C. K., Hoke, K. L., Ruell, E. W., Fischer, E. K., Reznick, D. N., & Hughes, K. A. (2015). Non-adaptive plasticity potentiates rapid adaptive evolution of gene expression in nature. Nature, 525(7569), 372-375. https://doi.org/10.1038/nature15256
+
+Ghalambor, C. K., Mckay, J. K., Carroll, S. P., & Reznick, D. N. (2007). Adaptive versus nonadaptive phenotypic plasticity and the potential for contemporary adaptation in new environments. Functional Ecology, 21(3), 394-407. https://doi.org/10.1111/j.1365-2435.2007.01283.x
+
+Gobler, C. J., & Talmage, S. C. (2014). Physiological response and resilience of early life-stage eastern 568 oysters (Crassostrea virginica) to past, present and future ocean acidification. Conservation Physiology, 2(1), cou004. https://doi.org/10.1093/conphys/cou004
+
+Goncalves, P., Anderson, K., Thompson, E. L., Melwani, A., Parker, L. M., Ross, P. M., & Raftos, D. A. (2016). Rapid transcriptional acclimation following transgenerational exposure of oysters to ocean acidification. Molecular Ecology, 25(19), 4836-4849. https://doi.org/10.1111/mec.13808
+
+Goncalves, P., Jones, D. B., Thompson, E. L., Parker, L. M., Ross, P. M., & Raftos, D. A. (2017). Transcriptomic profiling of adaptive responses to ocean acidification. Molecular Ecology, 26(21), 5974-5988. https://doi.org/10.1111/mec.14333
+
+Goncalves, P., Thompson, E. L., & Raftos, D. A. (2017). Contrasting impacts of ocean acidification and warming on the molecular responses of CO2-resilient oysters. BMC Genomics, 18, 431. https://doi.org/10.1186/s12864-017-3818-z
+
+González-Romero, R., Suarez-Ulloa, V., Rodriguez-Casariego, J., Garcia-Souto, D., Diaz, G., Smith, A., Pasantes, J. J., Rand, G., & Eirin-Lopez, J. M. (2017). Effects of Florida red tides on histone variant expression and DNA methylation in the eastern oyster Crassostrea virginica. Aquatic Toxicology, 186, 196-204. https://doi.org/10.1016/j.aquatox.2017.03.006
+
+Greenberg, M. V. C., & Bourc'his, D. (2019). The diverse roles of DNA methylation in mammalian development and disease. Nature Reviews Molecular Cell Biology, 20, 590-607. https://doi.org/10.1038/s41580-019-0159-6
+
+Gunderson, A. R., Armstrong, E. J., & Stillman, J. H. (2016). Multiple stressors in a changing world: The need for an improved perspective on physiological responses to the dynamic marine environment. Annual Review of Marine Science, 8(1), 357-378. https://doi.org/10.1146/annurev-marine-122414-033953
+
+Hettinger, A., Sanford, E., Hill, T. M., Lenz, E. A., Russell, A. D., & Gaylord, B. (2013). Larval carry-over effects from ocean acidification persist in the natural environment. Global Change Biology, 19, 3317-3326. https://doi.org/10.1111/gcb.12307
+
+Hettinger, A., Sanford, E., Hill, T. M., Russell, A. D., Sato, K. N., Hoey, J., Forsch, M., Page, H. N., & Gaylord, B. (2012). Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology, 93(12), 2758-2768. https://doi.org/10.1890/12-0567.1
+
+Hofmann, G. E. (2017). Ecological epigenetics in marine metazoans. Frontiers in Marine Science, 4, 4. https://doi.org/10.3389/fmars.2017.00004
+
+Hofmann, G. E., Barry, J. P., Edmund, P. J., Gates, R. D., Hutchins, D. A., Klinger, T., & Sewell, M. A. (2010). The effects of ocean acidification on calcifying organisms in marine ecosystems: An organism to ecosystem perspective. The Annual Review of Ecology, Evolution, and Systematics, 41, 127-147. https://doi.org/10.1146/ANNUREV.ECOLSYS.110308.120227
+
+Johnson, K. D., & Smee, D. L. (2012). Size matters for risk assessment and resource allocation in bivalves. Marine Ecology Progress Series, 462, 103-110. https://doi.org/10.3354/meps09804
+
+Johnson, K. M., & Hofmann, G. E. (2017). Transcriptomic response of the Antarctic pteropod Limacina helicina Antarctica to ocean acidification. BMC Genomics, 18, 812. https://doi.org/10.1186/s12864-017-4161-0
+
+Kaniewska, P., Campbell, P. R., Kline, D. I., Rodriguez-Lanetty, M., Miller, D. J., Dove, S., & Hoegh-Guldberg, O. (2012). Major cellular and physiological impacts of ocean acidification on a reef building coral. PLoS One, 7(4), e34659. https://doi.org/10.1371/journal.pone.0034659
+
+Kenkel, C. D., Moya, A., Strahl, J., Humphrey, C., & Bay, L. K. (2017). Functional genomic analysis of corals from natural CO2-seeps reveals core molecular responses involved in acclimatization to ocean acidification. Global Change Biology, 24(1), 158-171. https://doi.org/10.1111/gcb.13833
+
+Kim, D.-W., Sung, H., Shin, D., Shen, H., Ahnn, J., Lee, S.-K., & Lee, S. (2011). Differential physiological roles of ESCRT complexes in Caenorhabditis elegans. Molecules and Cells, 31(6), 585-592. https://doi.org/10.1007/s10059-011-1045-z
+
+Ko, G. W. K., Dineshram, R., Campanati, C., Chan, V. B. S., Havenhand, J., & Thiyagarajan, V. (2014). Interactive effects of ocean acidification, elevated temperature, and reduced salinity on early-life stages of the pacific oyster. Environmental Science & Technology, 48(17), 10079-10088. https://doi.org/10.1021/es501611u
+
+Ko, W. K. G., Vera, C. B. S., Dineshram, R., Dennis, C. K. S., Adela, L. J., Yu, Z., & Thiyagarajan, V. (2013). Larval and post-larval stages of pacific oyster (Crassostrea gigas) are resistant to elevated CO2. PLoS One, 8(5), e64147. https://doi.org/10.1371/journal.pone.0064147
+
+Li, H., Zhang, B., Fan, S., Liu, B., Su, J., & Yu, D. (2017). Identification and differential expression of biomineralization genes in the mantle of pearl oyster Pinctada fucata. Marine Biotechnology, 19(3), 266-276. https://doi.org/10.1007/s10126-017-9748-6
+
+Li, S., Liu, C., Huang, J., Liu, Y., Zhang, S., Zheng, G., Xie, L., & Zhang, R. (2016). Transcriptome and biomineralization responses of the pearl oyster Pinctada fucata to elevated CO2 and temperature. Scientific Reports, 6, 18943. https://doi.org/10.1038/srep18943
+
+Li, Y., Nong, W., Baril, T., Yip, H. Y., Swale, T., Hayward, A., Ferrier, D. E. K., & Hui, J. H. K. (2020). Reconstruction of ancient homeobox gene linkages inferred from a new high-quality assembly of the Hong Kong oyster (Magallana hongkongensis) genome. BMC Genomics, 21(1), 713. https://doi.org/10.1186/s12864-020-07027-6
+
+Liew, Y. J., Howells, E. J., Wang, X., Michell, C. T., Burt, J. A., Idaghdour, Y., & Aranda, M. (2020). Intergenerational epigenetic inheritance in reef-building corals. Nature Climate Change, 10(3), 254-259. https://doi.org/10.1038/s41558-019-0687-2
+
+Liew, Y. J., Zoccola, D., Li, Y., Tambutté, E., Venn, A. A., Michell, C. T., Cui, G., Deutekom, E. S., Kaandorp, J. A., Voolstra, C. R., Forêt, S., Allemand, D., Tambutté, S., & Aranda, M. (2018). Epigenome-associated phenotypic acclimatization to ocean acidification in a reef-building coral. Science Advances, 4(6), eaar8028. https://doi.org/10.1126/sciadv.aar8028
+
+Lim, Y.-K., Cheung, K., Dang, X., Roberts, S. B., Wang, X., & Thiyagarajan, V. (2020). DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, Crassostrea hongkongensis. Marine Environmental Research, 163, 105217. https://doi.org/10.1016/j.marenvres.2020.105217
+
+Lim, Y.-K., Dang, X., & Thiyagarajan, V. (2021). Transgenerational responses to seawater pH in the edible oyster, with implications for the mariculture of the species under future ocean acidification. Science of the Total Environment, 782, 146704. https://doi.org/10.1016/j.scitotenv.2021.146704
+
+Longa, V. M. (2019). Adaptive plasticity. In T. K. Shackelford & V. A. Weekes-Shackelford (Eds.), Encyclopedia of evolutionary psychological science (pp. 1-4). Springer International Publishing. https://doi.org/10.1007/978-3-319-16999-6_2122-1
+
+Marsh, A. G., & Pasqualone, A. A. (2014). DNA methylation and temperature stress in an Antarctic polychaete, Spiophanes tcherniai. Frontiers in Physiology, 5, 173. https://doi.org/10.3389/fphys.2014.00173
+
+Meng, Y., Guo, Z., Yao, H., Yeung, K. W. K., & Thiyagarajan, V. (2019). Calcium carbonate unit realignment under acidification: A potential compensatory mechanism in an edible estuarine oyster. Marine Pollution Bulletin, 139, 141-149. https://doi.org/10.1016/j.marpolbul.2018.12.030
+
+Olson, C. E., & Roberts, S. B. (2014). Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Frontiers in Physiology, 5, 224. https://doi.org/10.3389/fphys.2014.00224
+
+Parker, L. M., Ross, P. M., & O'Connor, W. A. (2009). The effect of ocean acidification and temperature on the fertilization and embryonic development of the Sydney rock oyster Saccostrea glomerata (Gould 1850). Global Change Biology, 15(9), 2123-2136. https://doi.org/10.1111/j.1365-2486.2009.01895.x
+
+Pechenik, J. A. (2006). Larval experience and latent effects- metamorphosis is not a new beginning. Integrative and Comparative Biology, 46(3), 323-333. https://doi.org/10.1093/icb/icj028
+
+Pechenik, J. A. (2017). Latent effects: Surprising consequences of embryonic and larval experience on life after metamorphosis. In T. J. Carrier, A. M. Reitzel, & A. Heyland (Eds.), Evolutionary ecology of marine invertebrate larvae (pp. 208-225). Oxford University Press. https://doi.org/10.1093/oso/9780198786962.003.0014
+
+Porte, C., Janer, G., Lorusso, L. C., Ortiz-Zarragoitia, M., Cajaraville, M. P., Fossi, M. C., & Canesi, L. (2006). Endocrine disruptors in marine organisms: Approaches and perspectives. Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology, 143(3), 303-315. https://doi.org/10.1016/j.cbpc.2006.03.004
+
+Putnam, H. M., Davidson, J. M., & Gates, R. D. (2016). Ocean acidification influences host DNA methylation and phenotypic plasticity in environmentally susceptible corals. Evolutionary Applications, 9, 1165-1178. https://doi.org/10.1111/eva.12408
+
+Rauluseviciute, I., Drabløs, F., & Rye, M. B. (2020). DNA hypermethylation associated with upregulated gene expression in prostate cancer demonstrates the diversity of epigenetic regulation. BMC Medical Genomics, 13(1), 6. https://doi.org/10.1186/s12920-020-0657-6
+
+Regev, A., Lamb, M. J., & Jablonka, E. (1998). The role of DNA methylation in invertebrates: Developmental regulation or genome defense? Molecular Biology and Evolution, 15(7), 880-891. https://doi.org/10.1093/oxfordjournals.molbev.a025992
+
+Riviere, G., Wu, G.-C., Fellous, A., Goux, D., Sourdaine, P., & Favrel, P. (2013). DNA methylation is crucial for the early development in the oyster C. gigas. Marine Biotechnology, 15, 739-753. https://doi.org/10.1007/s10126-013-9523-2
+
+Rodgers, K. B., Sabine, C. L., Sarmiento, J. L., Schlitzer, R., Slater, R. D., Totterdell, I. J., Weirig, M.-F., Yamanaka, Y., & Yool, A. (2005). Anthropogenic ocean acidification over the twenty-first century and its impact on calcifying organisms. Nature, 437, 681-686. https://doi.org/10.1038/nature04095
+
+Ross, P. M., Parker, L., & Byrne, M. (2016). Transgenerational responses of molluscs and echinoderms to changing ocean conditions. ICES Journal of Marine Science, 73, 537-549. https://doi.org/10.1093/icesjms/fsv254
+
+Strader, M. E., Kozal, L. C., Leach, T. S., Wong, J. M., Chamorro, J. D., Housh, M. J., & Hofmann, G. E. (2020). Examining the role of DNA methylation in transcriptomic plasticity of early stage sea urchins: Developmental and maternal effects in a kelp forest herbivore. Frontiers in Marine Science, 7, 205. https://doi.org/10.3389/fmars.2020.00205
+
+Sun, Y., Hou, R., Fu, X., Sun, C., Wang, S., Wang, C., Li, N., Zhang, L., & Bao, Z. (2014). Genome-wide analysis of DNA methylation in five tissues of Zhikong scallop, Chlamys farreri. PLoS One, 9, e86232. https://doi.org/10.1371/journal.pone.0086232
+
+Suzuki, M., & Bird, A. (2008). DNA methylation landscapes: Provocative insights from epigenomics. Nature Reviews Genetics, 9, 465-476. https://doi.org/10.1038/nrg2341
+
+Tan, K., & Zheng, H. (2019). Ocean acidification and adaptive bivalve farming. Science of the Total Environment, 701, 134794. https://doi.org/10.1016/j.scitotenv.2019.134794
+
+Todgham, A. E., & Hofmann, G. E. (2009). Transcriptomic response of sea urchin larvae Strongylocentrotus purpuratus to CO2-driven seawater acidification. Journal of Experimental Biology, 212(16), 2579-2594. https://doi.org/10.1242/jeb.032540
+
+Venkataraman, Y. R., Downey-Wall, A. M., Ries, J., Westfield, I., White, S. J., Roberts, S. B., & Lotterhos, K. E. (2020). General DNA methylation patterns and environmentally- induced differential methylation in the eastern oyster (Crassostrea virginica). Frontiers in Marine Science, 7, 225. https://doi.org/10.3389/fmars.2020.00225
+
+Videla, J. A., Chaparro, O. R., Thompson, R. J., & Concha, I. I. (1998). Role of biochemical energy reserves in the metamorphosis and early juvenile development of the oyster Ostrea chilensis. Marine Biology, 132, 635-640. https://doi.org/10.1007/s002270050428
+
+Wang, S., Lv, J., Zhang, L., Dou, J., Sun, Y., Li, X., Fu, X., Dou, H., Mao, J., Hu, X., & Bao, Z. (2015). MethylRAD: A simple and scalable method for genome-wide DNA methylation profiling using methylation-dependent restriction enzymes. Open Biology, 5(11), 150130. https://doi.org/10.1098/rsob.150130
+
+Wang, X., Li, A., Wang, W., Que, H., Zhang, G., & Li, L. (2021). DNA methylation mediates differentiation in thermal responses of Pacific oyster (Crassostrea gigas) derived from different tidal levels. Heredity, 126, 10-22. https://doi.org/10.1038/s41437-020-0351-7
+
+Wang, X., Wang, M., Wang, W., Liu, Z., Xu, J., Jia, Z., Chen, H., Qiu, L., Lv, Z., Wang, L., & Song, L. (2020). Transcriptional changes of Pacific oyster Crassostrea gigas reveal essential role of calcium signal pathway in response to CO2-driven acidification. Science of the Total Environment, 741, 140177. https://doi.org/10.1016/j.scitotenv.2020.140177
+
+Zeebe, R. E., Ridgwell, A., & Zachos, J. C. (2016). Anthropogenic carbon release rate unprecedented during the past 66 million years. Nature Geoscience, 9, 325-329. https://doi.org/10.1038/ngeo2681
+
+Zhang, H., Lang, Z., & Zhu, J.-K. (2018). Dynamics and function of DNA methylation in plants. Nature Reviews Molecular Cell Biology, 19, 489-506. https://doi.org/10.1038/s41580-018-0016-z
+
+Zhao, L., Liu, B., An, W., Deng, Y., Lu, Y., Liu, B., Wang, L., Cong, Y., & Sun, X. (2019). Assessing the impact of elevated pCO2 within and across generations in a highly invasive fouling mussel (Musculista senhousia). Science of the Total Environment, 689, 322-331. https://doi.org/10.1016/j.scitotenv.2019.06.466",No grants available
+35927609,Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification.,"There is a need to investigate mechanisms of phenotypic plasticity in marine invertebrates as negative effects of climate change, like ocean acidification, are experienced by coastal ecosystems. Environmentally-induced changes to the methylome may regulate gene expression, but methylome responses can be species- and tissue-specific. Tissue-specificity has implications for gonad tissue, as gonad-specific methylation patterns may be inherited by offspring. We used the Pacific oyster (Crassostrea gigas) - a model for understanding pH impacts on bivalve molecular physiology due to its genomic resources and importance in global aquaculture- to assess how low pH could impact the gonad methylome. Oysters were exposed to either low pH (7.31 ± 0.02) or ambient pH (7.82 ± 0.02) conditions for 7 weeks. Whole genome bisulfite sequencing was used to identify methylated regions in female oyster gonad samples. C- > T single nucleotide polymorphisms were identified and removed to ensure accurate methylation characterization.",BMC genomics,"Venkataraman, White, Roberts",2022,10.1186/s12864-022-08781-5,PMC9351233,https://pubmed.ncbi.nlm.nih.gov/35927609,"Eirin-Lopez JM, Putnam HM. Marine environmental epigenetics. Annu Rev Mar Sci. 2018. 10.1146/annurev-marine-010318-095114.
+
+Hofmann GE. Ecological epigenetics in marine metazoans. Front Mar Sci. 2017;4:4.
+
+Gavery MR, Roberts SB. A context dependent role for DNA methylation in bivalves. Brief Funct Genomics. 2014;13:217–222. doi: 10.1093/bfgp/elt054.
+
+Huang X, Li S, Ni P, Gao Y, Jiang B, Zhou Z, et al. Rapid response to changing environments during biological invasions: DNA methylation perspectives. Mol Ecol. 2017;26:6621–6633. doi: 10.1111/mec.14382.
+
+Ni P, Murphy KJ, Wyeth RC, Bishop CD, Li S, Zhan A. Significant population methylation divergence and local environmental influence in an invasive ascidian 
+
+van Oppen MJH, Oliver JK, Putnam HM, Gates RD. Building coral reef resilience through assisted evolution. Proc Natl Acad Sci U S A. 2015;112:2307–2313. doi: 10.1073/pnas.1422301112.
+
+Gavery MR, Roberts SB. Epigenetic considerations in aquaculture. PeerJ. 2017;5:e4147. doi: 10.7717/peerj.4147.
+
+Chandra Rajan K, Yuan M, Yu Z, Roberts SB, Thiyagarajan V. Oyster biomineralisation under ocean acidification: from genes to shell. Glob Chang Biol. 2021. 10.1111/gcb.15675.
+
+Bogan SN, Johnson KM, Hofmann GE. Changes in genome-wide methylation and gene expression in response to future pCO2 extremes in the Antarctic Pteropod Limacina helicina antarctica. Front Mar Sci. 2020;6:788. doi: 10.3389/fmars.2019.00788.
+
+Downey-Wall AM, Cameron LP, Ford BM, McNally EM, Venkataraman YR, Roberts SB, et al. Ocean acidification induces subtle shifts in gene expression and DNA methylation in mantle tissue of the eastern oyster (Crassostrea virginica) Front Mar Sci. 2020;7:828. doi: 10.3389/fmars.2020.566419.
+
+Lim Y-K, Cheung K, Dang X, Roberts SB, Wang X, Thiyagarajan V. DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, Crassostrea hongkongensis. Mar Environ Res. 2020;163:105214. doi: 10.1016/j.marenvres.2020.105214.
+
+Venkataraman YR, Downey-Wall AM, Ries J, Westfield I, White SJ, Roberts SB, et al. General DNA methylation patterns and environmentally-induced differential methylation in the eastern oyster (
+
+Liew YJ, Zoccola D, Li Y, Tambutté E, Venn AA, Michell CT, Cui G, Deutekom ES, Kaandorp JA, Voolstra CR, Forêt S, Allemand D, Tambutté S, Aranda M. Epigenome-associated phenotypic acclimatization to ocean acidification in a reef-building coral. Sci Adv. 2018;4:eaar8028.
+
+Arredondo-Espinoza R, Ibarra AM, Roberts SB, Sicard-Gonzalez MT, Escobedo-Fregoso C. Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster Crassostrea gigas. Aquaculture. 2021;543:736923. doi: 10.1016/j.aquaculture.2021.736923.
+
+Strader ME, Wong JM, Kozal LC, Leach TS, Hofmann GE. Parental environments alter DNA methylation in offspring of the purple sea urchin, Strongylocentrotus purpuratus. J Exp Mar Bio Ecol. 2019;517:54–64. doi: 10.1016/j.jembe.2019.03.002.
+
+Johnson KM, Sirovy KA, Casas SM, La Peyre JF, Kelly MW. Characterizing the epigenetic and transcriptomic responses to Perkinsus marinus infection in the eastern oyster Crassostrea virginica. Front. Mar. Sci. 2020;7:598.
+
+Johnson KM, Sirovy KA, Kelly MW. Differential DNA methylation across environments has no effect on gene expression in the eastern oyster. J Anim Ecol. 2021. 10.1111/1365-2656.13645.
+
+Rondon R, Grunau C, Fallet M, Charlemagne N, Sussarellu R, Chaparro C, et al. Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environ Epigenet. 2017;3:1-13.
+
+Liew YJ, Howells EJ, Wang X, Michell CT, Burt JA, Idaghdour Y, Aranda M. Intergenerational epigenetic inheritance in reef-building corals. Nat Clim Chang. 2020;10:254-9.
+
+Melzner F, Mark FC, Seibel BA, Tomanek L. Ocean acidification and coastal marine invertebrates: tracking CO
+
+Parker LM, Ross PM, O’Connor WA, Pörtner HO, Scanes E, Wright JM. Predicting the response of molluscs to the impact of ocean acidification. Biology. 2013;2:651–692. doi: 10.3390/biology2020651.
+
+Kroeker KJ, Kordas RL, Crim RN, Singh GG. Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms. Ecol Lett. 2010;13:1419–1434. doi: 10.1111/j.1461-0248.2010.01518.x.
+
+Gavery MR, Roberts SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ. 2013;1:e215. doi: 10.7717/peerj.215.
+
+Roberts SB, Gavery MR. Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates? Front Physiol. 2012;2:116.
+
+Riviere G, Wu G-C, Fellous A, Goux D, Sourdaine P, Favrel P. DNA methylation is crucial for the early development in the Oyster C. gigas. Mar Biotechnol. 2013;15:739–753. doi: 10.1007/s10126-013-9523-2.
+
+Olson CE, Roberts SB. Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Front Physiol. 2014;5:224. doi: 10.3389/fphys.2014.00224.
+
+Olson CE, Roberts SB. Indication of family-specific DNA methylation patterns in developing oysters. bioRxiv. 2015:012831.
+
+Saint-Carlier E, Riviere G. Regulation ofHoxorthologues in the oysterCrassostrea gigasevidences a functional role for promoter DNA methylation in an invertebrate. FEBS Lett. 2015;589:1459–1466. doi: 10.1016/j.febslet.2015.04.043.
+
+Riviere G, He Y, Tecchio S, Crowell E, Gras M, Sourdaine P, et al. Dynamics of DNA methylomes underlie oyster development. Plos Genet. 2017;13:e1006807. doi: 10.1371/journal.pgen.1006807.
+
+Song K, Li L, Zhang G. The association between DNA methylation and exon expression in the Pacific oyster Crassostrea gigas. Plos One. 2017;12:e0185224. doi: 10.1371/journal.pone.0185224.
+
+Venkataraman YR, Spencer LH, Roberts SB. Larval response to parental low pH exposure in the Pacific oyster Crassostrea gigas. J Shellfish Res. 2019;38:743. doi: 10.2983/035.038.0325.
+
+Griffith AW, Gobler CJ. Transgenerational exposure of North Atlantic bivalves to ocean acidification renders offspring more vulnerable to low pH and additional stressors. Sci Rep. 2017;7:11394. doi: 10.1038/s41598-017-11442-3.
+
+Dheilly NM, Lelong C, Huvet A, Kellner K, Dubos M-P, Riviere G, et al. Gametogenesis in the Pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes. Plos One. 2012;7:e36353. doi: 10.1371/journal.pone.0036353.
+
+Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH, Roberts SB. Shotgun proteomics reveals physiological response to ocean acidification in Crassostrea gigas. BMC Genomics. 2014;15:951. doi: 10.1186/1471-2164-15-951.
+
+Goncalves P, Jones DB, Thompson EL, Parker LM, Ross PM, Raftos DA. Transcriptomic profiling of adaptive responses to ocean acidification. Mol Ecol. 2017;26:5974–5988. doi: 10.1111/mec.14333.
+
+De Wit P, Durland E, Ventura A, Langdon CJ. Gene expression correlated with delay in shell formation in larval Pacific oysters (Crassostrea gigas) exposed to experimental ocean acidification provides insights into shell formation mechanisms. BMC Genomics. 2018;19:160. doi: 10.1186/s12864-018-4519-y.
+
+Broquard C, Saowaros S-A, Lepoittevin M, Degremont L, Lamy J-B, Morga B, et al. Gonadal transcriptomes associated with sex phenotypes provide potential male and female candidate genes of sex determination or early differentiation in Crassostrea gigas, a sequential hermaphrodite mollusc. BMC Genomics. 2021;22:609. doi: 10.1186/s12864-021-07838-1.
+
+de Lorgeril J, Zenagui R, Rosa RD, Piquemal D, Bachère E. Whole transcriptome profiling of successful immune response to Vibrio infections in the oyster Crassostrea gigas by digital gene expression analysis. Plos One. 2011;6:e23142. doi: 10.1371/journal.pone.0023142.
+
+Moreira A, Figueira E, Mestre NC, Schrama D, Soares AMVM, Freitas R, et al. Impacts of the combined exposure to seawater acidification and arsenic on the proteome of Crassostrea angulata and Crassostrea gigas. Aquat Toxicol. 2018;203:117–129. doi: 10.1016/j.aquatox.2018.07.021.
+
+Yao H, Lin Z, Dong Y, Kong X, He L, Xue L. Gonad transcriptome analysis of the razor clam (Sinonovacula constricta) revealed potential sex-related genes. Front Mar Sci. 2021;8:1246.
+
+Pauletto M, Milan M, Huvet A, Corporeau C, Suquet M, Planas JV, et al. Transcriptomic features of Pecten maximus oocyte quality and maturation. Plos One. 2017;12:e0172805. doi: 10.1371/journal.pone.0172805.
+
+Epelboin Y, Quintric L, Guévélou E, Boudry P, Pichereau V, Corporeau C. The Kinome of Pacific oyster Crassostrea gigas, its expression during development and in response to environmental factors. Plos One. 2016;11:e0155435. doi: 10.1371/journal.pone.0155435.
+
+Kingtong S, Kellner K, Bernay B, Goux D, Sourdaine P, Berthelin CH. Proteomic identification of protein associated to mature spermatozoa in the Pacific oyster Crassostrea gigas. J Proteome. 2013;82:81–91. doi: 10.1016/j.jprot.2013.02.009.
+
+Boonmee A, Heude Berthelin C, Kingtong S, Pauletto M, Bernay B, Adeline B, et al. Differential protein expression during sperm maturation and capacitation in an hermaphroditic bivalve, Pecten maximus (Linnaeus, 1758) J Molluscan Stud. 2016;82:575–584. doi: 10.1093/mollus/eyw028.
+
+Black RE. The concentrations of some enzymes of the citric acid cycle and Electron transport system in the large granule fraction of eggs and Trochophores of the oyster, Crassostrea Virginica. Biol Bull. 1962;123:71–79. doi: 10.2307/1539503.
+
+Silliman K. Population structure, genetic connectivity, and adaptation in the Olympia oyster (Ostrea lurida) along the west coast of North America. Evol Appl. 2019;12:923–939. doi: 10.1111/eva.12766.
+
+Nilsson B, Jepsen PM, Bucklin A, Hansen BW. Environmental stress responses and experimental handling artifacts of a model organism, the copepod 
+
+Sirotkin V, Seipel S, Krendel M, Bonder EM. Characterization of sea urchin unconventional myosins and analysis of their patterns of expression during early embryogenesis. Mol Reprod Dev. 2000;57:111–126. doi: 10.1002/1098-2795(200010)57:2<111::AID-MRD2>3.0.CO;2-T.
+
+Padilla-Gamiño JL, Kelly MW, Evans TG, Hofmann GE. Temperature and CO2 additively regulate physiology, morphology and genomic responses of larval sea urchins, Strongylocentrotus purpuratus. Proc R Soc B Biol Sci. 2013;280:20130155. doi: 10.1098/rspb.2013.0155.
+
+Evans TG, Pespeni MH, Hofmann GE, Palumbi SR, Sanford E. Transcriptomic responses to seawater acidification among sea urchin populations inhabiting a natural pH mosaic. Mol Ecol. 2017;26:2257–2275. doi: 10.1111/mec.14038.
+
+Zhang K-Y, Yuan W-J, Xu J-D, Wang J-X. Cation-dependent mannose-6-phosphate receptor functions as a pattern recognition receptor in anti-bacterial immunity of Marsupenaeus japonicus. Dev Comp Immunol. 2018;89:122–130. doi: 10.1016/j.dci.2018.08.011.
+
+Leprêtre M, Almunia C, Armengaud J, Salvador A, Geffard A, Palos-Ladeiro M. The immune system of the freshwater zebra mussel, Dreissena polymorpha, decrypted by proteogenomics of hemocytes and plasma compartments. J Proteome. 2019;202:103366. doi: 10.1016/j.jprot.2019.04.016.
+
+Tomanek L, Zuzow MJ, Ivanina AV, Beniash E, Sokolova IM. Proteomic response to elevated PCO2 level in eastern oysters, Crassostrea virginica: evidence for oxidative stress. J Exp Biol. 2011;214(Pt 11):1836–1844. doi: 10.1242/jeb.055475.
+
+Jiang G, Xu X, Jing Y, Wang R, Fan T. Comparative studies on sorting cells from Artemia sinica at different developmental stages for in vitro cell culture. In Vitro Cell Dev Biol Anim. 2011;47:341–345. doi: 10.1007/s11626-011-9389-4.
+
+Bogan SN, Strader ME, Hofmann GE. Gene regulation by DNA methylation is contingent on chromatin accessibility during transgenerational plasticity in the purple sea urchin. bioRxiv. 2021;2021:09.23.461091.
+
+Zhang X, Li Q, Kong L, Yu H. DNA methylation frequency and epigenetic variability of the Pacific oyster 
+
+Peñaloza C, Gutierrez AP, Eöry L, Wang S, Guo X, Archibald AL, et al. A chromosome-level genome assembly for the Pacific oyster 
+
+Quinlan AR, Hall IM. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 2010;26:841–842. doi: 10.1093/bioinformatics/btq033.
+
+Tarailo-Graovac M, Chen N. Using RepeatMasker to identify repetitive elements in genomic sequences. Curr Protoc Bioinformatics. 2009. Chapter 4, Unit 4.10. 10.1002/0471250953.bi0410s25.
+
+Smit AFA, Hubley R, Green P. RepeatMasker Open-4.0. 2013-2015. Available online at: http://www.repeatmasker.org.
+
+Martin M. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet J. 2011;17:10–12. doi: 10.14806/ej.17.1.200.
+
+FastQC AS. A quality control tool for high throughput sequence data. 2010.
+
+Ewels P, Magnusson M, Lundin S, Käller M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics. 2016;32:3047–3048. doi: 10.1093/bioinformatics/btw354.
+
+Langmead B, Salzberg SL. Fast gapped-read alignment with bowtie 2. Nat Methods. 2012;9:357–359. doi: 10.1038/nmeth.1923.
+
+Krueger F, Andrews SR. Bismark: a flexible aligner and methylation caller for bisulfite-Seq applications. Bioinformatics. 2011;27:1571–1572. doi: 10.1093/bioinformatics/btr167.
+
+Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, et al. The sequence alignment/map format and SAMtools. Bioinformatics. 2009;25:2078–2079.
+
+Gao S, Zou D, Mao L, Liu H, Song P, Chen Y, et al. BS-SNPer: SNP calling in bisulfite-seq data. Bioinformatics. 2015;31:4006–4008.
+
+R Core Team . R: a language and environment for statistical computing. 2019.
+
+Akalin A, Kormaksson M, Li S, Garrett-Bakelman FE, Figueroa ME, Melnick A, et al. methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles. Genome Biol. 2012;13:R87. doi: 10.1186/gb-2012-13-10-r87.
+
+Wang H-Q, Tuominen LK, Tsai C-J. SLIM: a sliding linear model for estimating the proportion of true null hypotheses in datasets with dependence structures. Bioinformatics. 2011;27:225–231. doi: 10.1093/bioinformatics/btq650.
+
+Thorvaldsdóttir H, Robinson JT, Mesirov JP. Integrative genomics viewer (IGV): high-performance genomics data visualization and exploration. Brief Bioinform. 2013;14:178–192. doi: 10.1093/bib/bbs017.
+
+UniProt Consortium UniProt: a worldwide hub of protein knowledge. Nucleic Acids Res. 2019;47:D506–D515. doi: 10.1093/nar/gky1049.
+
+Alexa A, Rahnenfuhrer J, Others . topGO: enrichment analysis for gene ontology. R package version. 2010. p. 2.
+
+Gu Z, Hübschmann D. simplifyEnrichment: an R/Bioconductor package for Clustering and Visualizing Functional Enrichment Results. bioRxiv. 2021;2020:10.27.312116.",No grants available
+35041105,Genome-Wide Differential DNA Methylomes Provide Insights into the Infertility of Triploid Oysters.,"Chromosomal incompatibility and gene expression changes would affect the development of polyploid gonad and gamete formation. The role of epigenetics like DNA methylation in reproductive development is fully demonstrated in diploid animals. The lack of polyploid species and the infertility of polyploid animals, especially the odd ploidy, limit the study of epigenetic regulation mechanism of polyploid reproduction. Fertile and infertile individuals exist in triploid Pacific oyster Crassostrea gigas, which provide an interesting model for studies on the effect of epigenetic regulation on gonadal development. The whole genome single base resolution DNA methylomes in gonads of triploid females α (F-3nα), triploid females β (F-3nβ), triploid males α (M-3nα), triploid hermaphrodite predominantly males (HPM-3n), diploid females (F-2n), and diploid males (M-2n) were generated by using bisulfite-sequencing. The overall DNA methylation profiles in gene regions and transposable regions of fertile and infertile triploid oysters were consistent with those of diploid oysters. The DNA methylation level of CG context decreased in infertile triploid oysters, with more hypomethylated than hypermethylated regions, and the opposite is true in fertile triploid oysters. Genes harbored with differentially methylated regions (DMRs) in infertile triploids were mainly related to the metabolism pathways and the signal pathways. Correlation analysis indicated that the expression of gene transcriptions was generally positively associated with DNA methylation in gene body regions, and DMRs in infertile triploid oysters played significant roles in gonadal development as a possible critical epigenetic regulator of gonadal development gene transcriptional activity. These findings indicate a potential relationship between DNA methylation variability and gene expression plasticity in newly formed polyploidy. As far as we know, this is the first study revealing the epigenetic regulation of gonadal development in invertebrates based on fertile and infertile models, meanwhile providing a new mentality to explore the regulatory mechanisms of infertility in triploids.","Marine biotechnology (New York, N.Y.)","Sun, Yu, Li",2022,10.1007/s10126-021-10083-y,,https://pubmed.ncbi.nlm.nih.gov/35041105,"Amoyel M, Anderson J, Suisse A, Glasner J, Bach EA (2016) Socs36E controls niche competition by repressing MAPK signaling in the Drosophila testis. PLoS Genet 12:e1005815
+
+Birchler JA, Yao H, Chudalayandi S (2007) Biological consequences of dosage dependent gene regulatory systems. Biochim Biophys Acta 1769:422–428
+
+Bogani D, Siggers P, Brixey R, Warr N, Beddow S, Edwards J, Williams D, Wilhelm D, Koopman P, Flavell R A, Chi H, Ostrer H, Wells S, Cheeseman M, Greenfield A (2009) Loss of mitogen-activated protein kinase kinase kinase 4 (MAP3K4) reveals a requirement for MAPK signaling in mouse sex determination. PLoS Biol 7:e1000196
+
+Bonasio R, Li Q, Lian J, Mutti NS, Jin L, Zhao H, Zhang P, Wen P, Xiang H, Ding Y, Jin Z, Shen SS, Wang Z, Wang W, Wang J, Berger SL, Liebig J, Zhang G, Reinberg D (2012) Genome-wide and caste-specific DNA methylomes of the ants Camponotus floridanus and Harpegnathos saltator. Curr Biol 22:1755–1764
+
+Busada JT, Niedenberger BA, Velte EK, Keiper BD, Geyer CB (2015) Mammalian target of rapamycin complex 1 (mTORC1) is required for mouse spermatogonial differentiation in vivo. Dev Biol 407:90–102
+
+Cavelier P, Cau J, Morin N, Delsert C (2017) Early gametogenesis in the Pacific oyster: new insights using stem cell and mitotic markers. J Exp Biol 220:3988–3996
+
+Comai L (2005) The advantages and disadvantages of being polyploid. Nat Rev Genet 6:836–846
+
+Conrad T, Akhtar A (2012) Dosage compensation in drosophila melanogaster: epigenetic fine-tuning of chromosome-wide transcription. Nat Rev Genet 13:123–134
+
+Dong WL, Tan FQ, Yang WX (2015) Wnt signaling in testis development: unnecessary or essential?. Gene 565:155–165
+
+De Riso G, Fiorillo DFG, Fierro A, Cuomo M, Chiariotti L, Miele G, Cocozza S (2020) Modeling DNA methylation profiles through a dynamic equilibrium between methylation and demethylation. Biomolecules 10:1271
+
+Dheilly NM, Jouaux A, Boudry P, Favrel P, Lelong C (2014) Transcriptomic profiling of gametogenesis in triploid Pacific oysters Crassostrea gigas: towards an understanding of partial sterility associated with triploidy. PLoS One 9:e112094
+
+Elango N, Yi SV (2008) DNA methylation and structural and functional bimodality of vertebrate promoters. Mol Biol Evol 25:1602–1608
+
+Fontana R, Della Torre S (2016) The deep correlation between energy metabolism and reproduction: a view on the effects of nutrition for women fertility. Nutrients 8:87
+
+Guo X, Allen SKJR (1994) Reproductive potential and genetics of triploid Pacific oysters, Crassostrea gigas (Thunberg). Biol Bull 187:309–318
+
+Guo X, DeBrosse GA, Allen SK (1996) All-triploid Pacific oysters (Crassostrea gigas Thunberg) produced by mating tetraploids and diploids. Aquaculture 142:149–161
+
+Hegarty MJ, Batstone T, Barker GL, Edwards KJ, Abbott RJ, Hiscock SJ (2011) Nonadditive changes to cytosine methylation as a consequence of hybridization and genome duplication in Senecio (Asteraceae). Mol Ecol 20:105–113
+
+Johnson MT, Freeman EA, Gardner DK, Hunt PA (2007) Oxidative metabolism of pyruvate is required for meiotic maturation of murine oocytes in vivo. Biol Reprod 77:2–8
+
+Jones PA (2012) Functions of DNA methylation: islands, start sites, gene bodies and beyond. Nat Rev Genet 13:484–492
+
+Jouaux A, Blin JL, Adeline B, Heude-Berthelin C, Sourdaine P, Mathieu M, Kellner K (2013) Impact of energy storage strategies on gametogenesis and reproductive effort in diploid and triploid Pacific oysters Crassostrea gigas - involvement of insulin signaling. Aquaculture 388–391:173–181
+
+Jouaux A, Heude-Berthelin C, Sourdaine P, Mathieu M, Kellner K (2010) Gametogenic stages in triploid oysters Crassostrea gigas: irregular locking of gonial proliferation and subsequent reproductive effort. J Exp Mar Biol Ecol 395:162–170
+
+Lang Z, Wang Y, Tang K, Tang D, Datsenka T, Cheng J, Zhang Y, Handa AK, Zhu JK (2017) Critical roles of DNA demethylation in the activation of ripening-induced genes and inhibition of ripening-repressed genes in tomato fruit. Proc Natl Acad Sci USA 114:E4511–E4519
+
+Lister R, Pelizzola M, Dowen RH, Hawkins RD, Hon G, Tonti-Filippini J, Nery JR, Lee L, Ye Z, Ngo QM, Edsall L, Antosiewicz-Bourget J, Stewart R, Ruotti V, Millar AH, Thomson JA, Ren B, Ecker JR (2009) Human DNA methylomes at base resolution show widespread epigenomic differences. Nature 462:315–322
+
+Liu C, Wang M, Wang L, Guo Q, Liang G (2018) Extensive genetic and DNA methylation variation contribute to heterosis in triploid loquat hybrids. Genome 61:437–447
+
+Mable BK (2004) ‘Why polyploidy is rarer in animals than in plants’: myths and mechanisms. Biol J Linn Soc 82:453–466
+
+Madlung A (2013) Polyploidy and its effect on evolutionary success: old questions revisited with new tools. Heredity (edinb) 110:99–104
+
+Manor ML, Weber GM, Cleveland BM, Yao J, Kenney PB (2015) Expression of genes associated with fatty acid metabolism during maturation in diploid and triploid female rainbow trout. Aquaculture 435:178–186
+
+Mao X, Tao CJGO, Wei L (2005) Automated genome annotation and pathway identification using the KEGG Orthology (KO) as a controlled vocabulary. Bioinformatics 21:3787–3793
+
+Matsui Y, Hayashi K (2007) Epigenetic regulation for the induction of meiosis. Cell Mol Life Sci 64:257–262
+
+Okano M, Bell DW, Haber DA, Li E (1999) DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo methylation and mammalian development. Cell 99:247–257
+
+Olson CE, Roberts SB (2014) Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Front Physiol 5:224
+
+Otto SP, Whitton J (2000) Polyploid incidence and evolution. Annu Rev Genet 34:401–437
+
+Pala I, Coelho MM, Schartl M (2008) Dosage compensation by gene-copy silencing in a triploid hybrid fish. Curr Biol 18:1344–1348
+
+Piferrer F, Beaumont A, Falguière JC, Flajšhans M, Haffray P, Colombo L (2009) Polyploid fish and shellfish: production, biology and applications to aquaculture for performance improvement and genetic containment. Aquaculture 293:125–156
+
+Ribas L, Vanezis K, Imues MA, Piferrer F (2017) Treatment with a DNA methyltransferase inhibitor feminizes zebrafish and induces long-term expression changes in the gonads. Epigenetics Chromatin 10:59
+
+Riviere G (2014) Epigenetic features in the oyster Crassostrea gigas suggestive of functionally relevant promoter DNA methylation in invertebrates. Front Physiol 5:129
+
+Riviere G, He Y, Tecchio S, Crowell E, Gras M, Sourdaine P, Guo X, Favrel P (2017) Dynamics of DNA methylomes underlie oyster development. PLoS Genet 13:e1006807
+
+Roberts SB, Gavery MR (2012) Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?. Front Physiol 2:116
+
+Sarda S, Zeng J, Hunt BG, Yi SV (2012) The evolution of invertebrate gene body methylation. Mol Biol Evol 29:1907–1916
+
+Schultz MD, He Y, Whitaker JW, Hariharan M, Mukamel EA, Leung D, Rajagopal N, Nery JR, Urich MA, Chen H, Lin S, Lin Y, Jung I, Schmitt AD, Selvaraj S, Ren B, Sejnowski TJ, Wang W, Ecker JR (2015) Human body epigenome maps reveal noncanonical DNA methylation variation. Nature 523:212–216
+
+Siegfried Z, Simon I (2010) DNA methylation and gene expression. Wiley Interdiscip Rev Syst Biol Med 2:362–371
+
+Soltis DE, Soltis PS (1999) Polyploidy: recurrent formation and genome evolution. Trends Ecol Evol 14:348–352
+
+Spangenberg V, Arakelyan M, Galoyan E, Matveevsky S, Petrosyan R, Bogdanov Y, Danielyan F, Kolomiets O (2017) Reticulate evolution of the rock lizards: meiotic chromosome dynamics and spermatogenesis in diploid and triploid males of the genus Darevskia. Genes (basel) 8:149
+
+Suzuki MM, Kerr AR, De Sousa D, Bird A (2007) CpG methylation is targeted to transcription units in an invertebrate genome. Genome Res 17:625–631
+
+Todd EV, Ortega-Recalde O, Liu H, Lamm MS, Rutherford KM, Cross H, Black MA, Kardailsky O, Marshall Graves JA, Hore TA, Godwin JR, Gemmell NJ (2019) Stress, novel sex genes, and epigenetic reprogramming orchestrate socially controlled sex change. Sci Adv 5:eaaw7006
+
+Wang X, Li Q, Lian J, Li L, Jin L, Cai H, Xu F, Qi H, Zhang L, Wu F, Meng J, Que H, Fang X, Guo X, Zhang G (2014) Genome-wide and single-base resolution DNA methylomes of the Pacific oyster Crassostrea gigas provide insight into the evolution of invertebrate CpG methylation. BMC Genomics 15:1119
+
+Wang X, Li A, Wang W, Que H, Zhang G, Li L (2021) DNA methylation mediates differentiation in thermal responses of Pacific oyster (Crassostrea gigas) derived from different tidal levels. Heredity (edinb) 126:10–22
+
+Wertheim B, Beukeboom LW, van de Zande L (2013) Polyploidy in animals: effects of gene expression on sex determination, evolution and ecology. Cytogenet Genome Res 140:256–269
+
+Xiao J, Song C, Liu S, Tao M, Hu J, Wang J, Liu W, Zeng M, Liu Y (2013) DNA methylation analysis of allotetraploid hybrids of red crucian carp (Carassius auratus red var.) and common carp (Cyprinus carpio L.). PLoS One 8:e56409
+
+Xi Y, Li W (2009) BSMAP: whole genome bisulfite sequence MAPping program. BMC Bioinformatics 10:232
+
+Yamaguchi S, Hong K, Liu R, Shen L, Inoue A, Diep D, Zhang K, Zhang Y (2012) Tet1 controls meiosis by regulating meiotic gene expression. Nature 492:443–447
+
+Yan H, Bombarely A, Xu B, Wu B, Frazier TP, Zhang X, Chen J, Chen P, Sun M, Feng G, Wang C, Cui C, Li Q, Zhao B, Huang L (2019) Autopolyploidization in switchgrass alters phenotype and flowering time via epigenetic and transcription regulation. J Exp Bot 70:5673–5686
+
+Yue C, Li Q, Yu H (2018) Gonad transcriptome analysis of the Pacific oyster Crassostrea gigas identifies potential genes regulating the sex determination and differentiation process. Mar Biotechnol 20:206–219
+
+Zhong S, Fei Z, Chen YR, Zheng Y, Huang M, Vrebalov J, McQuinn R, Gapper N, Liu B, Xiang J, Shao Y, Giovannoni JJ (2013) Single-base resolution methylomes of tomato fruit development reveal epigenome modifications associated with ripening. Nat Biotechnol 31:154–159
+
+Zhang H, Zhu JK (2012) Active DNA demethylation in plants and animals. Cold Spring Harb Symp Quant Biol 77:161–173
+
+Zhang X, Li Q, Kong L, Yu H (2018) DNA methylation frequency and epigenetic variability of the Pacific oyster Crassostrea gigas in relation to the gametogenesis. Fish Sci 84:789–797
+
+Zhang X, Nie Y, Cai S, Ding S, Fu B, Wei H, Chen L, Liu X, Liu M, Yuan R, Qiu B, He Z, Cong P, Chen Y, Mo D (2019) Earlier demethylation of myogenic genes contributes to embryonic precocious terminal differentiation of myoblasts in miniature pigs. FASEB J 33:9638–9655",
+34882793,Differential DNA methylation across environments has no effect on gene expression in the eastern oyster.,"It has been hypothesized that environmentally induced changes to gene body methylation could facilitate adaptive transgenerational responses to changing environments. We compared patterns of global gene expression (Tag-seq) and gene body methylation (reduced representation bisulfite sequencing) in 80 eastern oysters Crassostrea virginica from six full-sib families, common gardened for 14 months at two sites in the northern Gulf of Mexico that differed in mean salinity. At the time of sampling, oysters from the two sites differed in mass by 60% and in parasite loads by nearly two orders of magnitude. They also differentially expressed 35% of measured transcripts. However, we observed differential methylation at only 1.4% of potentially methylated loci in comparisons between individuals from these different environments, and little correspondence between differential methylation and differential gene expression. Instead, methylation patterns were largely driven by genetic differences among families, with a PERMANOVA analysis indicating nearly a two orders of magnitude greater number of genes differentially methylated between families than between environments. An analysis of CpG observed/expected values (CpG O/E) across the C. virginica genome showed a distinct bimodal distribution, with genes from the first cluster showing the lower CpG O/E values, greater methylation and higher and more stable gene expression, while genes from the second cluster showed lower methylation, and lower and more variable gene expression. Taken together, the differential methylation results suggest that only a small portion of the C. virginica genome is affected by environmentally induced changes in methylation. At this point, there is little evidence to suggest that environmentally induced methylation states would play a leading role in regulating gene expression responses to new environments.",The Journal of animal ecology,"Johnson, Sirovy, Kelly",2022,10.1111/1365-2656.13645,,https://pubmed.ncbi.nlm.nih.gov/34882793,"Akalin, A., Kormaksson, M., Li, S., Garrett-Bakelman, F. E., Figueroa, M. E., Melnick, A., & Mason, C. E. (2012). methylKit: A comprehensive R package for the analysis of genome-wide DNA methylation profiles. Genome Biology, 13(10), 1-9.
+
+Alvarez, M., Schrey, A. W., & Richards, C. L. (2014). Ten years of transcriptomics in wild populations: What have we learned about their ecology and evolution? Molecular Ecology. https://doi.org/10.1111/mec.13055
+
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach to multiple testing. Journal of the Royal Statistical Society. Series B, 57, 289-300. https://doi.org/10.2307/2346101
+
+Bewick, A. J., Ji, L., Niederhuth, C. E., Willing, E.-M., Hofmeister, B. T., Shi, X., Wang, L. I., Lu, Z., Rohr, N. A., Hartwig, B., Kiefer, C., Deal, R. B., Schmutz, J., Grimwood, J., Stroud, H., Jacobsen, S. E., Schneeberger, K., Zhang, X., & Schmitz, R. J. (2016). On the origin and evolutionary consequences of gene body DNA methylation. Proceedings of the National Academy of Sciences of the United States of America, 113(32), 9111-9116. https://doi.org/10.1073/pnas.1604666113
+
+Bewick, A. J., Zhang, Y., Wendte, J. M., Zhang, X., & Schmitz, R. J. (2019). Evolutionary and experimental loss of gene body methylation and its consequence to gene expression. G3: Genes, Genomes, Genetics, 9(8), 2441-2445. https://doi.org/10.1534/g3.119.400365
+
+Bird, A. P. (1986). CpG-rich islands and the function of DNA methylation. Nature, 321(6067), 209-213. https://doi.org/10.1038/321209a0
+
+Bogan, S. N., Johnson, K. M., & Hofmann, G. E. (2020). Changes in genome-wide methylation and gene expression in response to Future pCO2 extremes in the antarctic pteropod Limacina helicina antarctica. Frontiers in Marine Science, 6(January), 1-13. https://doi.org/10.3389/fmars.2019.00788
+
+Bolger, A. M., Lohse, M., & Usadel, B. (2014). Trimmomatic: A flexible trimmer for Illumina sequence data. Bioinformatics, 30(15), 2114-2120. https://doi.org/10.1093/bioinformatics/btu170
+
+Choi, J., Lyons, D. B., Kim, M. Y., Moore, J. D., & Zilberman, D. (2020). DNA methylation and histone H1 jointly repress transposable elements and aberrant intragenic transcripts. Molecular Cell, 77(2), 310-323.e7. https://doi.org/10.1016/j.molcel.2019.10.011
+
+Clark, M. S., Thorne, M. A. S., King, M., Hipperson, H., Hoffman, J. I., & Peck, L. S. (2018). Life in the intertidal: Cellular responses, methylation and epigenetics. Functional Ecology, 32(8), 1982-1994. https://doi.org/10.1111/1365-2435.13077
+
+Coulondre, C., Miller, J. H., Farabaugh, P. J., & Gilbert, W. (1978). Molecular basis of base substitution hotspots in Escherichia coli. Nature, 274(5673), 775-780.
+
+Dahlet, T., Argüeso Lleida, A., Al Adhami, H., Dumas, M., Bender, A., Ngondo, R. P., Tanguy, M., Vallet, J., Auclair, G., Bardet, A. F., & Weber, M. (2020). Genome-wide analysis in the mouse embryo reveals the importance of DNA methylation for transcription integrity. Nature Communications, 11(1), 1-14. https://doi.org/10.1038/s41467-020-16919-w
+
+DeBiasse, M. B., & Kelly, M. W. (2016). Plastic and evolved responses to global change: What can we learn from comparative transcriptomics? Journal of Heredity, 107(1), 71-81.
+
+Dimond, J. L., & Roberts, S. B. (2016). Germline DNA methylation in reef corals: Patterns and potential roles in response to environmental change. Molecular Ecology, 25(8), 1895-1904. https://doi.org/10.1111/mec.13414
+
+Dimond, J. L., & Roberts, S. B. (2020). Convergence of DNA methylation profiles of the reef coral Porites Astreoides in a novel environment. Frontiers in Marine Science, 6(January), 1-12. https://doi.org/10.3389/fmars.2019.00792
+
+Dixon, G. B., Bay, L. K., & Matz, M. V. (2014a). Bimodal signatures of germline methylation are linked with gene expression plasticity in the coral Acropora millepora. BMC Genomics, 15(1), 1109. https://doi.org/10.1186/1471-2164-15-1109
+
+Dixon, G. B., Bay, L. K., & Matz, M. V. (2014b). Bimodal signatures of germline methylation are linked with gene expression plasticity in the coral Acropora millepora. BMC Genomics, 15(1), 1109. https://doi.org/10.1186/1471-2164-15-1109
+
+Dixon, G. B., Bay, L. K., & Matz, M. V. (2016). Evolutionary consequences of DNA methylation in a basal metazoan. Molecular Biology and Evolution, 33(9), 2285-2293. https://doi.org/10.1093/molbev/msw100
+
+Dixon, G., Liao, Y., Bay, L. K., & Matz, M. V. (2018). Role of gene body methylation in acclimatization and adaptation in a basal metazoan. Proceedings of the National Academy of Sciences of the United States of America, 115(52), 13342-13346. https://doi.org/10.1073/pnas.1813749115
+
+Dixon, G., & Matz, M. (2021). Benchmarking DNA methylation assays in a reef-building coral. Molecular Ecology Resources, 21(2), 464-477. https://doi.org/10.1111/1755-0998.13282
+
+Dobin, A., Davis, C. A., Schlesinger, F., Drenkow, J., Zaleski, C., Jha, S., Batut, P., Chaisson, M., & Gingeras, T. R. (2013). STAR: Ultrafast universal RNA-seq aligner. Bioinformatics, 29(1), 15-21. https://doi.org/10.1093/bioinformatics/bts635
+
+Downey-Wall, A. M., Cameron, L. P., Ford, B. M., McNally, E. M., Venkataraman, Y. R., Roberts, S. B., Ries, J. B., & Lotterhos, K. E. (2020). Ocean acidification induces subtle shifts in gene expression and DNA methylation in mantle tissue of the eastern oyster (Crassostrea virginica). Frontiers in Marine Science, 7(November), 1-22. https://doi.org/10.3389/fmars.2020.566419
+
+Eirin-Lopez, J. M., & Putnam, H. M. (2019). Marine environmental epigenetics. Annual Review of Marine Science, 11(June 2018), 335-368. https://doi.org/10.1146/annurev-marine-010318-095114
+
+Evans, T. G., & Hofmann, G. E. (2012). Defining the limits of physiological plasticity: How gene expression can assess and predict the consequences of ocean change. Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 367(1596), 1733-1745. https://doi.org/10.1098/rstb.2012.0019
+
+Flores, K., Wolschin, F., Corneveaux, J. J., Allen, A. N., Huentelman, M. J., & Amdam, G. V. (2012). Genome-wide association between DNA methylation and alternative splicing in an invertebrate. BMC Genomics, 13(1), https://doi.org/10.1186/1471-2164-13-480
+
+Gavery, M. R., & Roberts, S. B. (2013). Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ, 1, e215. https://doi.org/10.7717/peerj.215
+
+Glastad, K. M., Hunt, B. G., & Goodisman, M. A. (2019). Epigenetics in insects: Genome regulation and the generation of phenotypic diversity. Annual Review of Entomology, 64, 185-203. https://doi.org/10.1146/annurev-ento-011118-111914
+
+Glenn, T. C., Nilsen, R. A., Kieran, T. J., Sanders, J. G., Bayona-Vásquez, N. J., Finger, J. W., Pierson, T. W., Bentley, K. E., Hoffberg, S. L., Louha, S., García-De León, F. J., Del Río-Portilla, M. A., Reed, K. D., Anderson, J. L., Meece, J. K., Aggrey, S. E., Rekaya, R., Alabady, M., Belanger, M. J., … Faircloth, B. C. (2019). Adapterama I: Universal stubs and primers for 384 unique dual-indexed or 147,456 combinatorially-indexed Illumina libraries (iTru & iNext). PeerJ, 7, e7755.
+
+Gómez-Chiarri, M., Guo, X., Tanguy, A., He, Y., & Proestou, D. (2015). The use of-omic tools in the study of disease processes in marine bivalve mollusks. Journal of Invertebrate Pathology, 131, 137-154.
+
+Gómez-Chiarri, M., Warren, W. C., Guo, X., & Proestou, D. (2015). Developing tools for the study of molluscan immunity: The sequencing of the genome of the eastern oyster, Crassostrea Virginica. Fish & Shellfish Immunology, 46(1), 2-4. https://doi.org/10.1016/j.fsi.2015.05.004
+
+Griffiths, J. S., Johnson, K. M., Sirovy, K. A., Yeats, M. S., Pan, F. T. C., La Peyre, J. F., & Kelly, M. W. (2021). Transgenerational plasticity and the capacity to adapt to low salinity in the eastern oyster, Crassostrea virginica. Proceedings of the Royal Society B: Biological Sciences, 288(1951), 20203118. https://doi.org/10.1098/rspb.2020.3118
+
+Harris, K. D., Lloyd, J. P. B., Domb, K., Zilberman, D., & Zemach, A. (2019). DNA methylation is maintained with high fidelity in the honey bee germline and exhibits global non-functional fluctuations during somatic development. Epigenetics and Chromatin, 12(1), 1-18. https://doi.org/10.1186/s13072-019-0307-4
+
+Hearn, J., Plenderleith, F., & Little, T. J. (2021). DNA methylation differs extensively between strains of the same geographical origin and changes with age in Daphnia magna. Epigenetics & Chromatin, 14, 4. https://doi.org/10.1186/s13072-020-00379-z
+
+Johnson, K. M., & Kelly, M. W. (2020). Population epigenetic divergence exceeds genetic divergence in the Eastern oyster Crassostrea virginica in the Northern Gulf of Mexico. Evolutionary Applications, 13(5), 945-959.
+
+Johnson, K. M., Sirovy, K. A., Casas, S. M., La Peyre, J. F., & Kelly, M. W. (2020). Characterizing the epigenetic and transcriptomic responses to Perkinsus marinus infection in the eastern oyster Crassostrea virginica. Frontiers in Marine Science, 7. https://doi.org/10.3389/fmars.2020.00598
+
+Johnson, K. M., Sirovy, K. A., & Kelly, M. W. Data from: Differential DNA methylation across environments has no effect on gene expression in the eastern oyster. Dryad Digital Repository. https://doi.org/10.5061/dryad.q573n5tk4
+
+Jones, P. A., & Takai, D. (2001). The role of DNA methylation in mammalian epigenetics. Science, 293(5532), 1068-1070.
+
+Korneliussen, T. S., Albrechtsen, A., & Nielsen, R. (2014). ANGSD: Analysis of next generation sequencing data. BMC Bioinformatics, 15, 356. https://doi.org/10.1186/s12859-014-0356-4
+
+Krueger, F., & Andrews, S. R. (2011). Bismark: A flexible aligner and methylation caller for Bisulfite-Seq applications. Bioinformatics, 27(11), 1571-1572.
+
+La Peyre, M. K., Eberline, B. S., Soniat, T. M., & La Peyre, J. F. (2013). Differences in extreme low salnity timing and duration differentially affect easter oyster (Crassostrea virginica) size class growth and mortality in Breton Sound, LA. Estuarine, Coastal and Shelf Science, 135, 146-157. https://doi.org/10.1016/j.ecss.2013.10.001
+
+Lawrence, M., Huber, W., Pagès, H., Aboyoun, P., Carlson, M., Gentleman, R., Morgan, M., & Carey, V. (2013). Software for computing and annotating genomic ranges. PLoS Computational Biology, 9. https://doi.org/10.1371/journal.pcbi.1003118; http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003118
+
+Liew, Y. J., Howells, E. J., Wang, X., Michell, C. T., Burt, J. A., Idaghdour, Y., & Aranda, M. (2020). Intergenerational epigenetic inheritance in reef-building corals. Nature Climate Change, 10(3), 254-259. https://doi.org/10.1038/s41558-019-0687-2
+
+Lowe, M., Sehlinger, T., Soniat, T., & La Peyre, M. (2017). Interactive effects of water temperature and salinity on growth and mortality of eastern oysters, Crassostrea virginica: A meta-analysis using 40 years of monitoring data. Journal of Shellfish Research, 36(3), 683-697.
+
+McGuigan, K., Hoffmann, A. A., & Sgrò, C. M. (2021). How is epigenetics predicted to contribute to climate change adaptation? What evidence do we need? Philosophical Transactions of the Royal Society B: Biological Sciences, 376(1826), 20200119. https://doi.org/10.1098/rstb.2020.0119
+
+McRae, A. F., Powell, J. E., Henders, A. K., Bowdler, L., Hemani, G., Shah, S., Painter, J. N., Martin, N. G., Visscher, P. M., & Montgomery, G. W. (2014). Contribution of genetic variation to transgenerational inheritance of DNA methylation. Genome Biology, 15(5), 1-10. https://doi.org/10.1186/gb-2014-15-5-r73
+
+Meng, J., Zhu, Q., Zhang, L., Li, C., Li, L. I., She, Z., Huang, B., & Zhang, G. (2013). Genome and transcriptome analyses provide insight into the Euryhaline adaptation mechanism of Crassostrea gigas. PLoS ONE, 8(3). https://doi.org/10.1371/journal.pone.0058563
+
+Meyer, E., Aglyamova, G. V., & Matz, M. V. (2011). Profiling gene expression responses of coral larvae (Acropora millepora) to elevated temperature and settlement inducers using a novel RNA-Seq procedure. Molecular Ecology, 20(17), 3599-3616.
+
+Mlura, A., Yonebayashi, S., Watanabe, K., Toyama, T., Shimada, H., & Kakutani, T. (2001). Mobilization of transposons by a mutation abolishing full DNA methylation in Arabidopsis. Nature, 411(6834), 212-214. https://doi.org/10.1038/35075612
+
+Neri, F., Rapelli, S., Krepelova, A., Incarnato, D., Parlato, C., Basile, G., Maldotti, M., Anselmi, F., & Oliviero, S. (2017). Intragenic DNA methylation prevents spurious transcription initiation. Nature, 543(7643), 72-77. https://doi.org/10.1038/nature21373
+
+Nguyen, T. V., Alfaro, A. C., & Merien, F. (2019). Omics approaches to investigate host-pathogen interactions in mass mortality outbreaks of Crassostrea gigas. Reviews in Aquaculture, 11(4), 1308-1324. https://doi.org/10.1111/raq.12294
+
+Olson, C., & Roberts, S. (2015). Indication of family-specific DNA methylation patterns in developing oysters. BioRxiv, 012831. https://doi.org/10.1101/012831
+
+Putnam, H. M., Davidson, J. M., & Gates, R. D. (2016). Ocean acidification influences host DNA methylation and phenotypic plasticity in environmentally susceptible corals. Evolutionary Applications, 9(9), 1165-1178. https://doi.org/10.1111/eva.12408
+
+R Core Team. (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/
+
+Robinson, M. D., & Oshlack, A. (2010). A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biology, 11(3), R25. https://doi.org/10.1186/gb-2010-11-3-r25
+
+Rondon, R., Grunau, C., Fallet, M., Charlemagne, N., Sussarellu, R., Chaparro, C., Montagnani, C., Mitta, G., Bachère, E., Akcha, F., & Cosseau, C. (2017). Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environmental Epigenetics, 3(1), 1-13. https://doi.org/10.1093/eep/dvx004
+
+Sarda, S., Zeng, J., Hunt, B. G., & Yi, S. V. (2012). The evolution of invertebrate gene body methylation. Molecular Biology and Evolution, 29(8), 1907-1916. https://doi.org/10.1093/molbev/mss062
+
+Sharma, H. B., Panigrahi, S., Sarmah, A. K., Dubey, B. K., Wang, X., Li, A., & Li, L. (2021). Direct and heritable effects of natural tidal environments on DNA methylation in Pacific oysters (Crassostrea gigas). Environmental Research, 111058, https://doi.org/10.1016/j.envres.2021.111058
+
+Sirovy, K. A., Johnson, K. M., Casas, S. M., La Peyre, J. F., & Kelly, M. W. (2021). Lack of genotype-by-environment interaction suggests limited potential for evolutionary changes in plasticity in the eastern oyster, Crassostrea virginica. Molecular Ecology. https://doi.org/10.1111/mec.16156
+
+Song, K., Li, L., & Zhang, G. (2017). The association between DNA methylation and exon expression in the Pacific oyster Crassostrea gigas. PLoS ONE, 12(9), 1-12. https://doi.org/10.1371/journal.pone.0185224
+
+Strader, M. E., Kozal, L. C., Leach, T. S., Wong, J. M., Chamorro, J. D., Housh, M. J., & Hofmann, G. E. (2020). Examining the role of DNA methylation in transcriptomic plasticity of early stage sea urchins: Developmental and maternal effects in a kelp forest herbivore. Frontiers in Marine Science, 7, 205. https://doi.org/10.3389/fmars.2020.00205
+
+Strader, M. E., Wong, J. M., Kozal, L. C., Leach, T. S., & Hofmann, G. E. (2019). Parental environments alter DNA methylation in offspring of the purple sea urchin, Strongylocentrotus purpuratus. Journal of Experimental Marine Biology and Ecology, 517(March), 54-64. https://doi.org/10.1016/j.jembe.2019.03.002
+
+Sturm, A. B., Eckert, R. J., Méndez, J. G., González-Díaz, P., & Voss, J. D. (2020). Population genetic structure of the great star coral, Montastraea cavernosa, across the Cuban archipelago with comparisons between microsatellite and SNP markers. Scientific Reports, 10, 15432. https://doi.org/10.1038/s41598-020-72112-5
+
+Trigg, S. A., Venkataraman, Y. R., Gavery, M. R., Roberts, S. B., Bhattacharya, D., Downey-Wall, A., Eirin-Lopez, J. M., Johnson, K. M., Lotterhos, K. E., Puritz, J. B., & Putnam, H. M. (2021). Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. BioRxiv, 53(9), 1689-1699. https://doi.org/10.1111/1755-0998.13542
+
+Van Gurp, T. P., Wagemaker, N. C. A. M., Wouters, B., Vergeer, P., Ouborg, J. N. J., & Verhoeven, K. J. F. (2016). EpiGBS: Reference-free reduced representation bisulfite sequencing. Nature Methods, 13(4), 322-324. https://doi.org/10.1038/nmeth.3763
+
+Wang, X., Li, A., Wang, W., Que, H., Zhang, G., & Li, L. (2021). DNA methylation mediates differentiation in thermal responses of Pacific oyster (Crassostrea gigas) derived from different tidal levels. Heredity, 126(1), 10-22. https://doi.org/10.1038/s41437-020-0351-7
+
+Wright, R. M., Aglyamova, G. V., Meyer, E., & Matz, M. V. (2015). Gene expression associated with white syndromes in a reef building coral, Acropora hyacinthus. BMC Genomics, 16, 371. https://doi.org/10.1186/s12864-015-1540-2
+
+Yagound, B., Smith, N. M., Buchmann, G., Oldroyd, B. P., & Remnant, E. J. (2019). Unique DNA methylation profiles are associated with cis-variation in honey bees. Genome Biology and Evolution, 11(9), 2517-2530. https://doi.org/10.1093/gbe/evz177
+
+Zemach, A., & Zilberman, D. (2010). Evolution of eukaryotic DNA methylation and the pursuit of safer sex. Current Biology, 20(17), R780-R785. https://doi.org/10.1016/j.cub.2010.07.007
+
+Zhu, L., Gazin, C., Lawson, N., Pagès, H., Lin, S., Lapointe, D., & Green, M. (2010). ChIPpeakAnno: A Bioconductor package to annotate ChIP-seq and ChIP-chip data. BMC Bioinformatics, 11(1), 237. ISSN 1471-2105. https://doi.org/10.1186/1471-2105-11-237. http://www.biomedcentral.com/1471-2105/11/237
+
+Zilberman, D. (2017). An evolutionary case for functional gene body methylation in plants and animals. Genome Biology, 18(1), 17-19. https://doi.org/10.1186/s13059-017-1230-2",
+34702322,The methylome of Biomphalaria glabrata and other mollusks: enduring modification of epigenetic landscape and phenotypic traits by a new DNA methylation inhibitor.,"5-Methylcytosine (5mC) is an important epigenetic mark in eukaryotes. Little information about its role exists for invertebrates. To investigate the contribution of 5mC to phenotypic variation in invertebrates, alteration of methylation patterns needs to be produced. Here, we apply new non-nucleoside DNA methyltransferase inhibitors (DNMTi) to introduce aleatory changes into the methylome of mollusk species.",Epigenetics & chromatin,"Luviano, Lopez, Gawehns, Chaparro, Arimondo, Ivanovic, David, Verhoeven, Cosseau, Grunau",2021,10.1186/s13072-021-00422-7,PMC8549274,https://pubmed.ncbi.nlm.nih.gov/34702322,"Adema CM, Hillier LW, Jones CS, Loker ES, Knight M, Minx P, Oliveira G, Raghavan N, Shedlock A, L. R. do Amaral, H. D. Arican-Goktas, J. G. Assis, E. H. Baba, O. L. Baron, C. J. Bayne, U. Bickham-Wright, K. K. Biggar, M. Blouin, B. C. Bonning, C. Botka, J. M. Bridger, K. M. Buckley, S. K. Buddenborg, R. Lima Caldeira, J. Carleton, O. S. Carvalho, M. G. Castillo, I. W. Chalmers, M. Christensens, S. Clifton, C. Cosseau, C. Coustau, R. M. Cripps, Y. Cuesta-Astroz, S. F. Cummins, L. di Stephano, N. Dinguirard, D. Duval, S. Emrich, C. Feschotte, R. Feyereisen, P. FitzGerald, C. Fronick, L. Fulton, R. Galinier, S. G. Gava, M. Geusz, K. K. Geyer, G. I. Giraldo-Calderón, M. de Souza Gomes, M. A. Gordy, B. Gourbal, C. Grunau, P. C. Hanington, K. F. Hoffmann, D. Hughes, J. Humphries, D. J. Jackson, L. K. Jannotti-Passos, W. de Jesus Jeremias, S. Jobling, B. Kamel, A. Kapusta, S. Kaur, J. M. Koene, A. B. Kohn, D. Lawson, S. P. Lawton, D. Liang, Y. Limpanont, S. Liu, A. E. Lockyer, T. L. Lovato, F. Ludolf, V. Magrini, D. P. McManus, M. Medina, M. Misra, G. Mitta, G. M. Mkoji, M. J. Montague, C. Montelongo, L. L. Moroz, M. C. Munoz-Torres, U. Niazi, L. R. Noble, F. S. Oliveira, F. S. Pais, A. T. Papenfuss, R. Peace, J. J. Pena, E. A. Pila, T. Quelais, B. J. Raney, J. P. Rast, D. Rollinson, I. C. Rosse, B. Rotgans, E. J. Routledge, K. M. Ryan, L. L. S. Scholte, K. B. Storey, M. Swain, J. A. Tennessen, C. Tomlinson, D. L. Trujillo, E. V. Volpi, A. J. Walker, T. Wang, I. Wannaporn, W. C. Warren, X. J. Wu, T. P. Yoshino, M. Yusuf, S. M. Zhang, M. Zhao, and R. K. Wilson. Whole genome analysis of a schistosomiasis-transmitting freshwater snail. Nat Commun. 2017;8:15451. doi: 10.1038/ncomms15451.
+
+Akalin A, Kormaksson M, Li S, Garrett-Bakelman FE, Figueroa ME, Melnick A, Mason CE. methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles. Genome Biol. 2012;13(10):R87. doi: 10.1186/gb-2012-13-10-r87.
+
+Aliaga B, Bulla I, Mouahid G, Duval D, Grunau C. Universality of the DNA methylation codes in Eucaryotes. Sci Rep. 2019;9(1):173. doi: 10.1038/s41598-018-37407-8.
+
+Allan ERO, Bollmann S, Peremyslova E, Blouin M. Neither heat pulse, nor multigenerational exposure to a modest increase in water temperature, alters the susceptibility of Guadeloupean. PeerJ. 2020;8:e9059. doi: 10.7717/peerj.9059.
+
+Athanasio CG, Sommer U, Viant MR, Chipman JK, Mirbahai L. Use of 5-azacytidine in a proof-of-concept study to evaluate the impact of pre-natal and post-natal exposures, as well as within generation persistent DNA methylation changes in Daphnia. Ecotoxicology. 2018;27(5):556–568. doi: 10.1007/s10646-018-1927-3.
+
+Baccarelli A, Bollati V. Epigenetics and environmental chemicals. Curr Opin Pediatr. 2009;21(2):243–251. doi: 10.1097/MOP.0b013e32832925cc.
+
+Bal N, Kumar A, Nugegoda D. Assessing multigenerational effects of prednisolone to the freshwater snail, Physa acuta (Gastropoda: Physidae) J Hazard Mater. 2017;339:281–291. doi: 10.1016/j.jhazmat.2017.06.024.
+
+Baubec T, Pecinka A, Rozhon W, Mittelsten Scheid O. Effective, homogeneous and transient interference with cytosine methylation in plant genomic DNA by zebularine. Plant J. 2009;57(3):542–554. doi: 10.1111/j.1365-313X.2008.03699.x.
+
+Bossdorf O, Richards CL, Pigliucci M. Epigenetics for ecologists. Ecol Lett. 2008;11(2):106–115. doi: 10.1111/j.1461-0248.2007.01130.x.
+
+Boyd VL, Zon G. Bisulfite conversion of genomic DNA for methylation analysis: protocol simplification with higher recovery applicable to limited samples and increased throughput. Anal Biochem. 2004;326(2):278–280. doi: 10.1016/j.ab.2003.11.020.
+
+Capuano F, Mülleder M, Kok R, Blom HJ, Ralser M. Cytosine DNA methylation is found in Drosophila melanogaster but absent in Saccharomyces cerevisiae, Schizosaccharomyces pombe, and other yeast species. Anal Chem. 2014;86(8):3697–3702. doi: 10.1021/ac500447w.
+
+Carvalho S, Caldeira RL, Simpson AJ, Vidigal TH. Genetic variability and molecular identification of Brazilian Biomphalaria species (Mollusca: Planorbidae) Parasitology. 2001;123(Suppl):S197–209. doi: 10.1017/s0031182001008058.
+
+Ceccaldi A, Rajavelu A, Champion C, Rampon C, Jurkowska R, Jankevicius G, Senamaud-Beaufort C, Ponger L, Gagey N, Ali HD, Tost J, Vriz S, Ros S, Dauzonne D, Jeltsch A, Guianvarc'h D, Arimondo PB. C5-DNA methyltransferase inhibitors: from screening to effects on zebrafish embryo development. ChemBioChem. 2011;12(9):1337–1345. doi: 10.1002/cbic.201100130.
+
+Champion C, Guianvarc'h D, Sénamaud-Beaufort C, Jurkowska RZ, Jeltsch A, Ponger L, Guieysse-Peugeot AL. Mechanistic insights on the inhibition of c5 DNA methyltransferases by zebularine. PLoS ONE. 2010;5(8):e12388. doi: 10.1371/journal.pone.0012388.
+
+Chen T. Mechanistic and functional links between histone methylation and DNA methylation. Prog Mol Biol Transl Sci. 2011;101:335–348. doi: 10.1016/B978-0-12-387685-0.00010-X.
+
+Cheng JC, Weisenberger DJ, Gonzales FA, Liang G, Xu GL, Hu YG, Marquez VE, Jones PA. Continuous zebularine treatment effectively sustains demethylation in human bladder cancer cells. Mol Cell Biol. 2004;24(3):1270–1278. doi: 10.1128/MCB.24.3.1270-1278.2004.
+
+Cosseau C, Wolkenhauer O, Padalino G, Geyer KK, Hoffmann KF, Grunau C. (Epi)genetic Inheritance in Schistosoma mansoni: A Systems Approach. Trends Parasitol. 2017;33(4):285–294. doi: 10.1016/j.pt.2016.12.002.
+
+Cosseau C, Azzi A, Rognon A, Boissier J, Gourbiere S, Roger E, Mitta G, Grunau C. Epigenetic and phenotypic variability in populations of Schistosoma mansoni–a possible kick-off for adaptive host/parasite evolution. Oikos. 2010;119(4):669–678. doi: 10.1111/j.1600-0706.2009.18040.x.
+
+de Lorgeril J, Lucasson A, Petton B, Toulza E, Montagnani C, Clerissi C, Vidal-Dupiol J, Chaparro C, Galinier R, J.-Michel Escoubas, P. Haffner, L. Dégremont, G. M. Charrière, M. Lafont, A. Delort, A. Vergnes, M. Chiarello, N. Faury, T. Rubio, M. A. Leroy, A. Pérignon, D. Régler, B. Morga, M. Alunno-Bruscia, P. Boudry, F. Le Roux, D. Destoumieux-Garzόn, Y. Gueguen, and G. Mitta. Immune-suppression by OsHV-1 viral infection causes fatal bacteraemia in Pacific oysters. Nat Commun. 2018;9(1):4215. doi: 10.1038/s41467-018-06659-3.
+
+Diala ES, Hoffman RM. Hypomethylation of HeLa cell DNA and the absence of 5-methylcytosine in SV40 and adenovirus (type 2) DNA: analysis by HPLC. Biochem Biophys Res Commun. 1982;107(1):19–26. doi: 10.1016/0006-291X(82)91663-1.
+
+Dreyfuss G, Vignoles P, Abrous M, Rondelaud D. Unusual snail species involved in the transmission of Fasciola hepatica in watercress beds in central France. Parasite. 2002;9(2):113–120. doi: 10.1051/parasite/2002092113.
+
+Dupont C, Armant DR, Brenner CA. Epigenetics: definition, mechanisms and clinical perspective. Semin Reprod Med. 2009;27(5):351–357. doi: 10.1055/s-0029-1237423.
+
+Erdmann A, Halby L, Fahy J, Arimondo PB. Targeting DNA Methylation with Small Molecules: What’s Next? J Med Chem. 2015;58(6):2569–2583. doi: 10.1021/jm500843d.
+
+Fallet M, Luquet E, David P, Cosseau C. Epigenetic inheritance and intergenerational effects in mollusks. Gene. 2020;729:144166. doi: 10.1016/j.gene.2019.144166.
+
+Feng S, Cokus SJ, Zhang X, Chen PY, Bostick M, Goll MG, Hetzel J, Jain J, Strauss SH, Halpern ME, Ukomadu C, Sadler KC, Pradhan S, Pellegrini M, Jacobsen SE. Conservation and divergence of methylation patterning in plants and animals. Proc Natl Acad Sci U S A. 2010;107(19):8689–8694. doi: 10.1073/pnas.1002720107.
+
+Flotho C, Claus R, Batz C, Schneider M, Sandrock I, Ihde S, Plass C, Niemeyer CM, Lübbert M. The DNA methyltransferase inhibitors azacitidine, decitabine and zebularine exert differential effects on cancer gene expression in acute myeloid leukemia cells. Leukemia. 2009;23(6):1019–1028. doi: 10.1038/leu.2008.397.
+
+Fneich S, Dheilly N, Adema C, Rognon A, Reichelt M, Bulla J, Grunau C, Cosseau C. 5-methyl-cytosine and 5-hydroxy-methyl-cytosine in the genome of Biomphalaria glabrata, a snail intermediate host of Schistosoma mansoni. Parasit Vectors. 2013;6(1):167. doi: 10.1186/1756-3305-6-167.
+
+Frommer M, McDonald LE, Millar DS, Collis CM, Watt F, Grigg GW, Molloy PL, Paul CL. A genomic sequencing protocol that yields a positive display of 5-methylcytosine residues in individual DNA strands. Proc Natl Acad Sci U S A. 1992;89(5):1827–1831. doi: 10.1073/pnas.89.5.1827.
+
+Ganesan A, Arimondo PB, Rots MG, Jeronimo C, Berdasco M. The timeline of epigenetic drug discovery: from reality to dreams. Clin Epigenetics. 2019;11(1):174. doi: 10.1186/s13148-019-0776-0.
+
+Gawehns F, Postuma M, van Gurp TP, Wagemaker CAM, Fatma S, Van Antro M, Mateman C, Milanovic-Ivanovic S, van Oers K, Große I. epiGBS2: an improved protocol and automated snakemake workflow for highly multiplexed reduced representation bisulfite sequencing. bioRxiv. 2020.
+
+Geyer KK, Munshi SE, Vickers M, Squance M, Wilkinson TJ, Berrar D, Chaparro C, Swain MT, Hoffmann KF. The anti-fecundity effect of 5-azacytidine (5-AzaC) on Schistosoma mansoni is linked to dis-regulated transcription, translation and stem cell activities. Int J Parasitol Drugs Drug Resist. 2018;8(2):213–222. doi: 10.1016/j.ijpddr.2018.03.006.
+
+Geyer KK, Niazi UH, Duval D, Cosseau C, Tomlinson C, Chalmers IW, Swain MT, Cutress DJ, Bickham-Wright U, Munshi SE, Grunau C, Yoshino TP, Hoffmann KF. The Biomphalaria glabrata DNA methylation machinery displays spatial tissue expression, is differentially active in distinct snail populations and is modulated by interactions with Schistosoma mansoni. PLoS Negl Trop Dis. 2017;11(5):e0005246. doi: 10.1371/journal.pntd.0005246.
+
+Geyer KK, Rodríguez López CM, Chalmers IW, Munshi SE, Truscott M, Heald J, Wilkinson MJ, Hoffmann KF. Cytosine methylation regulates oviposition in the pathogenic blood fluke Schistosoma mansoni. Nat Commun. 2011;2:424. doi: 10.1038/ncomms1433.
+
+Glastad KM, Hunt BG, Yi SV, Goodisman MA. DNA methylation in insects: on the brink of the epigenomic era. Insect Mol Biol. 2011;20(5):553–565. doi: 10.1111/j.1365-2583.2011.01092.x.
+
+Gnyszka A, Jastrzebski Z, Flis S. DNA methyltransferase inhibitors and their emerging role in epigenetic therapy of cancer. Anticancer Res. 2013;33(8):2989–2996.
+
+Gowher H, Leismann O, Jeltsch A. DNA of Drosophila melanogaster contains 5-methylcytosine. EMBO J. 2000;19(24):6918–6923. doi: 10.1093/emboj/19.24.6918.
+
+Gros C, Fahy J, Halby L, Dufau I, Erdmann A, Gregoire JM, Ausseil F, Vispé S, Arimondo PB. DNA methylation inhibitors in cancer: recent and future approaches. Biochimie. 2012;94(11):2280–2296. doi: 10.1016/j.biochi.2012.07.025.
+
+Grunau C, Clark SJ, Rosenthal A. Bisulfite genomic sequencing: systematic investigation of critical experimental parameters. Nucleic Acids Res. 2001;29(13):E65–E75. doi: 10.1093/nar/29.13.e65.
+
+Halby L, Menon Y, Rilova E, Pechalrieu D, Masson V, Faux C, Bouhlel MA, David-Cordonnier MH, Novosad N, Aussagues Y, Samson A, Lacroix L, Ausseil F, Fleury L, Guianvarc'h D, Ferroud C, Arimondo PB. Rational Design of Bisubstrate-Type Analogues as Inhibitors of DNA Methyltransferases in Cancer Cells. J Med Chem. 2017;60(11):4665–4679. doi: 10.1021/acs.jmedchem.7b00176.
+
+Hendrich B, Tweedie S. The methyl-CpG binding domain and the evolving role of DNA methylation in animals. Trends Genet. 2003;19(5):269–277. doi: 10.1016/S0168-9525(03)00080-5.
+
+Jablonka E, Lamb MJ. Epigenetic inheritance in evolution. J Evol Biol. 1998;11(2):159–183. doi: 10.1046/j.1420-9101.1998.11020159.x.
+
+Jablonka E, Lamb MJ. Epigenetic inheritance and evolution: the Lamarckian dimension. Oxford: Oxford University Press on Demand; 1999.
+
+Jiang M, Zhang Y, Fei J, Chang X, Fan W, Qian X, Zhang T, Lu D. Rapid quantification of DNA methylation by measuring relative peak heights in direct bisulfite-PCR sequencing traces. Lab Invest. 2010;90(2):282–290. doi: 10.1038/labinvest.2009.132.
+
+Johannes F, Porcher E, Teixeira FK, Saliba-Colombani V, Simon M, Agier N, Bulski A, Albuisson J, Heredia F, Audigier P, Bouchez D, Dillmann C, Guerche P, Hospital F, Colot V. Assessing the impact of transgenerational epigenetic variation on complex traits. PLoS Genet. 2009;5(6):e1000530. doi: 10.1371/journal.pgen.1000530.
+
+Johnson KM, Kelly MW. Population epigenetic divergence exceeds genetic divergence in the Eastern oyster Crassostrea virginica in the Northern Gulf of Mexico. Evol Appl. 2020;13(5):945–959. doi: 10.1111/eva.12912.
+
+Jozefczuk J, James A. Quantitative real-time PCR-based analysis of gene expression. In: Methods in enzymology. Elsevier; 2011. p. 99–109.
+
+Kanev I. Life-cycle, delimitation and redescription of Echinostoma revolutum (Froelich, 1802)(Trematoda: Echinostomatidae) Syst Parasitol. 1994;28(2):125–144. doi: 10.1007/BF00009591.
+
+Keller TE, Han P, Yi SV. Evolutionary Transition of Promoter and Gene Body DNA Methylation across Invertebrate-Vertebrate Boundary. Mol Biol Evol. 2016;33(4):1019–1028. doi: 10.1093/molbev/msv345.
+
+Knight M, Ittiprasert W, Arican-Goktas HD, Bridger JM. Epigenetic modulation, stress and plasticity in susceptibility of the snail host, Biomphalaria glabrata, to Schistosoma mansoni infection. Int J Parasitol. 2016;46(7):389–394. doi: 10.1016/j.ijpara.2016.03.003.
+
+Krueger F. Trim Galore: a wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files, with some extra functionality for MspI-digested RRBS-type (Reduced Representation Bisufite-Seq) libraries. 2012. http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/. Accessed 28 Apr 2016.
+
+Lee TF, Zhai J, Meyers BC. « Conservation and divergence in eukaryotic DNA methylation”. Proc Natl Acad Sci. 2010;107(20):9027–9028. doi: 10.1073/pnas.1005440107.
+
+Li E, Zhang Y. DNA methylation in mammals. Cold Spring Harb Perspect Biol. 2014;6(5):a019133. doi: 10.1101/cshperspect.a019133.
+
+Li LC, Dahiya R. MethPrimer: designing primers for methylation PCRs. Bioinformatics. 2002;18(11):1427–1431. doi: 10.1093/bioinformatics/18.11.1427.
+
+Lopez M, Halby L, Arimondo PB. DNA Methyltransferase Inhibitors: Development and Applications. Adv Exp Med Biol. 2016;945:431–473. doi: 10.1007/978-3-319-43624-1_16.
+
+Luchtel D. Gonadal development and sex determination in pulmonate molluscs. I. Arion circumscriptus. Z Zellforsch Mikrosk Anat. 1972;130(3):279–301. doi: 10.1007/bf00306943.
+
+Luviano N, Diaz-Palma S, Cosseau C, Grunau C. A simple Dot Blot Assay for population scale screening of DNA methylation. Biorxiv. 2018 doi: 10.1101/454439.
+
+Maharajan P, Maharajan V, Branno M, Scarano E. Effects of 5 azacytidine on DNA methylation and early development of sea urchins and ascidia. Differentiation. 1986;32(3):200–207. doi: 10.1111/j.1432-0436.1986.tb00574.x.
+
+McManus DP. Defeating Schistosomiasis. N Engl J Med. 2019;381(26):2567–2568. doi: 10.1056/NEJMe1913771.
+
+Meng H, Cao Y, Qin J, Song X, Zhang Q, Shi Y, Cao L. DNA methylation, its mediators and genome integrity. Int J Biol Sci. 2015;11(5):604–617. doi: 10.7150/ijbs.11218.
+
+Meröndun J, Murray DL, Shafer ABA. Genome-scale sampling suggests cryptic epigenetic structuring and insular divergence in Canada lynx. Mol Ecol. 2019;28(13):3186–3196. doi: 10.1111/mec.15131.
+
+Moore LD, Le T, Fan G. DNA methylation and its basic function. Neuropsychopharmacology. 2013;38(1):23–38. doi: 10.1038/npp.2012.112.
+
+Müller R, Charaf S, Scherer C, Oppold A, Oehlmann J, Wagner M. Phenotypic and epigenetic effects of vinclozolin in the gastropod Physella acuta. J Molluscan Studies. 2016;82(2):320–327. doi: 10.1093/mollus/eyv069.
+
+Nicoglou A, Merlin F. Epigenetics: A way to bridge the gap between biological fields. Stud Hist Philos Biol Biomed Sci. 2017;66:73–82. doi: 10.1016/j.shpsc.2017.10.002.
+
+Pechalrieu D, Etievant C, Arimondo PB. DNA methyltransferase inhibitors in cancer: From pharmacology to translational studies. Biochem Pharmacol. 2017;129:1–13. doi: 10.1016/j.bcp.2016.12.004.
+
+Pechalrieu D, Dauzonne D, Arimondo PB, Lopez M. Synthesis of novel 3-halo-3-nitroflavanones and their activities as DNA methyltransferase inhibitors in cancer cells. Eur J Med Chem. 2020;186:111829. doi: 10.1016/j.ejmech.2019.111829.
+
+Prokopuk L, Hogg K, Western PS. Pharmacological inhibition of EZH2 disrupts the female germline epigenome. Clin Epigenetics. 2018;10:33. doi: 10.1186/s13148-018-0465-4.
+
+Reamon-Buettner SM, Mutschler V, Borlak J. The next innovation cycle in toxicogenomics: environmental epigenetics. Mutat Res. 2008;659(1–2):158–165. doi: 10.1016/j.mrrev.2008.01.003.
+
+Rivière G. Epigenetic features in the oyster Crassostrea gigas suggestive of functionally relevant promoter DNA methylation in invertebrates. Front Physiol. 2014;5:129.
+
+Roberts SB, Gavery MR. Is There a Relationship between DNA Methylation and Phenotypic Plasticity in Invertebrates? Front Physiol. 2012;2:116. doi: 10.3389/fphys.2011.00116.
+
+Rondon R, Grunau C, Fallet M, Charlemagne N, Sussarellu R, Chaparro C, Montagnani C, Mitta G, Bachère E, Akcha F, Cosseau C. Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environ Epigenet. 2017;3(1):004. doi: 10.1093/eep/dvx004.
+
+Sarda S, Zeng J, Hunt BG, Yi V, Soojin. The evolution of invertebrate gene body methylation. Mol Biol Evol. 2012;29(8):1907–1916. doi: 10.1093/molbev/mss062.
+
+Schübeler D. Function and information content of DNA methylation. Nature. 2015;517(7534):321–326. doi: 10.1038/nature14192.
+
+Seeland A, Albrand J, Oehlmann J, Müller R. Life stage-specific effects of the fungicide pyrimethanil and temperature on the snail Physellaacuta (Draparnaud, 1805) disclose the pitfalls for the aquatic risk assessment under global climate change. Environ Pollut. 2013;174:1–9. doi: 10.1016/j.envpol.2012.10.020.
+
+Sullivan J. Reversal of schistosome resistance in Biomphalaria glabrata by heat shock may be dependent on snail genotype. J Parasitol. 2018 doi: 10.1645/17-110.
+
+Suzuki MM, Bird A. DNA methylation landscapes: provocative insights from epigenomics. Nat Rev Genet. 2008;9(6):465–476. doi: 10.1038/nrg2341.
+
+Takiguchi M, Achanzar WE, Qu W, Li G, Waalkes MP. Effects of cadmium on DNA-(Cytosine-5) methyltransferase activity and DNA methylation status during cadmium-induced cellular transformation. Exp Cell Res. 2003;286(2):355–365. doi: 10.1016/S0014-4827(03)00062-4.
+
+Tan W, Zhou W, Yu HG, Luo HS, Shen L. The DNA methyltransferase inhibitor zebularine induces mitochondria-mediated apoptosis in gastric cancer cells in vitro and in vivo. Biochem Biophys Res Commun. 2013;430(1):250–255. doi: 10.1016/j.bbrc.2012.10.143.
+
+Theron A, Rognon A, Gourbal B, Mitta G. Multi-parasite host susceptibility and multi-host parasite infectivity: a new approach of the Biomphalaria glabrata/Schistosoma mansoni compatibility polymorphism. Infect Genet Evol. 2014;26:80–88. doi: 10.1016/j.meegid.2014.04.025.
+
+Thornhill JA, Jones JT, Kusel JR. Increased oviposition and growth in immature Biomphalaria glabrata after exposure to Schistosomamansoni. Parasitology. 1986;93(Pt 3):443–450. doi: 10.1017/S0031182000081166.
+
+Tran H, Zhu H, Wu X, Kim G, Clarke CR, Larose H, Zhang L. Identification of Differentially Methylated Sites with Weak Methylation Effects. Genes. 2018;9(2):75. doi: 10.3390/genes9020075.
+
+Ueno M, Katayama K, Nakayama H, Doi K. Mechanisms of 5-azacytidine (5AzC)-induced toxicity in the rat foetal brain. Int J Exp Pathol. 2002;83(3):139–150. doi: 10.1046/j.1365-2613.2002.00225.x.
+
+van Gurp TP, Wagemaker NC, Wouters B, Vergeer P, Ouborg JN, Verhoeven KJ. epiGBS: reference-free reduced representation bisulfite sequencing. Nat Methods. 2016;13(4):322–324. doi: 10.1038/nmeth.3763.
+
+Vinarski MV. The history of an invasion: phases of the explosive spread of the physid snail Physella acuta through Europe, Transcaucasia and Central Asia. Biol Invasions. 2017;19(4):1299–1314. doi: 10.1007/s10530-016-1339-3.
+
+Weber M, Davies JJ, Wittig D, Oakeley EJ, Haase M, Lam WL, Schuebeler D. Chromosome-wide and promoter-specific analyses identify sites of differential DNA methylation in normal and transformed human cells. Nat Genet. 2005;37(8):853–862. doi: 10.1038/ng1598.
+
+Western PS. Epigenomic drugs and the germline: Collateral damage in the home of heritability? Mol Cell Endocrinol. 2018;468:121–133. doi: 10.1016/j.mce.2018.02.008.
+
+Xi Y, Li W. BSMAP: whole genome bisulfite sequence MAPping program. BMC Bioinformatics. 2009;10:232. doi: 10.1186/1471-2105-10-232.
+
+Xiang H, Zhu J, Chen Q, Dai F, Li X, Li M, Zhang H, Zhang G, Li D, Dong Y, Zhao L, Lin Y, Cheng D, Yu J, Sun J, Zhou X, Ma K, He Y, Zhao Y, Guo S, Ye M, Guo G, Li Y, Li R, Zhang X, Ma L, Kristiansen K, Guo Q, Jiang J, Beck S, Xia Q, Wang W, Wang J. Single base-resolution methylome of the silkworm reveals a sparse epigenomic map. Nat Biotechnol. 2010;28(5):516–520. doi: 10.1038/nbt.1626.
+
+Zemach A, McDaniel IE, Silva P, Zilberman D. Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science. 2010;328(5980):916–919. doi: 10.1126/science.1186366.
+
+Zilberman D. The evolving functions of DNA methylation. Curr Opin Plant Biol. 2008;11(5):554–559. doi: 10.1016/j.pbi.2008.07.004.",
+32807851,DNA methylation mediates differentiation in thermal responses of Pacific oyster (Crassostrea gigas) derived from different tidal levels.,"Epigenetic mechanisms such as DNA methylation have the potential to affect organism acclimatization and adaptation to environmental changes by influencing their phenotypic plasticity; however, little is known about the role of methylation in the adaptive phenotypic divergence of marine invertebrates. Therefore, in this study, a typical intertidal species, the Pacific oyster (Crassostrea gigas), was selected to investigate the epigenetic mechanism of phenotypic plasticity in marine invertebrates. Intertidal and subtidal oysters subjected to one-generation common garden experiments and exhibited phenotypic divergence were used. The methylation landscape of both groups of oysters was investigated under temperate and high temperature. The two tidal oysters exhibited divergent methylation patterns, regardless of the temperature, which was mainly original environment-induced. Intertidal samples exhibited significant hypomethylation and more plasticity of methylation in response to heat shock, while subtidal samples showed hypermethylation and less plasticity. Combined with RNA-seq data, a positive relationship between methylation and expression in gene bodies was detected on a genome-wide scale. In addition, approximately 11% and 7% of differentially expressed genes showed significant methylation variation under high temperatures in intertidal and subtidal samples, respectively. Genes related to apoptosis and organism development may be regulated by methylation in response to high temperature in intertidal oysters, whereas oxidation-reduction and ion homeostasis-related genes were involved in subtidal oysters. The results also suggest that DNA methylation mediates phenotypic divergence in oysters adapting to different environments. This study provides new insight into the epigenetic mechanisms underlying phenotypic plasticity in adaptation to rapid climate change in marine organisms.",Heredity,"Wang, Li, Wang, Que, Zhang, Li",2021,10.1038/s41437-020-0351-7,PMC7852555,https://pubmed.ncbi.nlm.nih.gov/32807851,"Andrews S. Babraham bioinformatics. Cambridge, United Kingdom: Babraham Institute; 2010.
+
+Aran D, Toperoff G, Rosenberg M, Hellman A. Replication timing-related and gene body-specific methylation of active human genes. Hum Mol Genet. 2011;20(4):670–680.
+
+Bhatia G, Patterson N, Sankararaman S, Price AL. Estimating and interpreting FST: the impact of rare variants. Genome Res. 2013;23(9):1514–1521.
+
+Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 2014;30(15):2114–2120.
+
+Deans C, Maggert KA. What do you mean, “epigenetic”? Genetics. 2015;199(4):887–896.
+
+Diederich CM, Pechenik JA. Thermal tolerance of Crepidula fornicata (Gastropoda) life history stages from intertidal and subtidal subpopulations. Mar Ecol-Prog Ser. 2013;486:173–187.
+
+Dixon G, Liao Y, Bay LK, Matz MV. Role of gene body methylation in acclimatization and adaptation in a basal metazoan. Proc Natl Acad Sci USA. 2018;115(52):13342–13346.
+
+Dixon GB, Bay LK, Matz MV. Evolutionary consequences of DNA methylation in a basal metazoan. Mol Biol Evol. 2016;33(9):2285–2293.
+
+Ellison A, Rodriguez Lopez CM, Moran P, Breen J, Swain M, Megias M, et al. Epigenetic regulation of sex ratios may explain natural variation in self-fertilization rates. Proc Biol Sci. 2015;282:1819.
+
+Felix K, Andrews SR. Bismark: a flexible aligner and methylation caller for Bisulfite-Seq applications. Bioinformatics. 2011;11:11.
+
+Fernandez-Reiriz MJ, Irisarri J, Labarta U. Flexibility of physiological traits underlying inter-individual growth differences in intertidal and subtidal Mussels Mytilus galloprovincialis. PLoS ONE. 2016;11(2):e0148245.
+
+Gao G, Li J, Li H, Li F, Xu K, Yan G, et al. Comparison of the heat stress induced variations in DNA methylation between heat-tolerant and heat-sensitive rapeseed seedlings. Breed Sci. 2014;64(2):125–133.
+
+Gavery MR, Roberts SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ. 2013;1:e215.
+
+Guo X, Li Q, Wang QZ, Kong LF. Genetic mapping and QTL analysis of growth-related traits in the Pacific oyster. Mar Biotechnol. 2012;14(2):218–226.
+
+Han Z, Truong QA, Park S, Breslow JL. Two Hsp70 family members expressed in atherosclerotic lesions. Proc Natl Acad Sci USA. 2003;100(3):1256–1261.
+
+Hao F, Conneely KN, Hao W. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. Nucleic Acids Res. 2014;42(8):e69.
+
+Hao W, Tianlei X, Hao F, Li C, Ben L, Bing Y, et al. Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. Nucleic Acids Res. 2015;43(21):e141.
+
+Hawes NA, Tremblay LA, Pochon X, Dunphy B, Fidler AE, Smith KF. Effects of temperature and salinity stress on DNA methylation in a highly invasive marine invertebrate, the colonial ascidian Didemnum vexillum. Peer J. 2018;6:e5003.
+
+Holloway GJ. Phenotypic Plasticity: Beyond Nature and Nurture. Heredity. 2002;89(6):410.
+
+Ittiprasert W, Miller A, Knight M, Tucker M, Hsieh MH. Evaluation of cytosine DNA methylation of the Biomphalaria glabratahe at shock protein 70 locus after biological and physiological stresses. J Parasitol Vector Biol. 2015;7(10):182–193.
+
+Jaenisch R, Bird A. Epigenetic regulation of gene expression: how the genome integrates intrinsic and environmental signals. Nat Genet. 2003;33(Suppl):245–254.
+
+Jombart T, Devillard S, Balloux F. Discriminant analysis of principal components: a new method for the analysis of genetically structured populations. BMC Genet. 2010;11:94.
+
+Kvitt H, Rosenfeld H, Tchernov D. The regulation of thermal stress induced apoptosis in corals reveals high similarities in gene expression and function to higher animals. Sci Rep. 2016;6:30359.
+
+Langmead B, Salzberg SL. Fast gapped-read alignment with Bowtie 2. Nat Methods. 2012;9(4):357–359.
+
+Li A, Li L, Wang W, Song K, Zhang G. Transcriptomics and fitness data reveal adaptive plasticity of thermal tolerance in oysters inhabiting different tidal zones. Front Physiol. 2018;9:825.
+
+Liew YJ, Howells EJ, Wang X, Michell CT, Burt JA, Idaghdour Y, et al. Intergenerational epigenetic inheritance in reef-building corals. Nat Clim Change. 2020;10(3):254–259.
+
+Liew YJ, Zoccola D, Li Y, Tambutte E, Venn AA, Michell CT, et al. Epigenome-associated phenotypic acclimatization to ocean acidification in a reef-building coral. Sci Adv. 2018;4(6):eaar8028.
+
+Lira-Medeiros CF, Parisod C, Fernandes RA, Mata CS, Cardoso MA, Ferreira PC. Epigenetic variation in mangrove plants occurring in contrasting natural environment. PLoS ONE. 2010;5(4):e10326.
+
+Lister R, Mukamel EA, Nery JR, Urich M, Puddifoot CA, Johnson ND, et al. Global epigenomic reconfiguration during mammalian brain development. Science. 2013;341(6146):1237905.
+
+Liu Y, Siegmund KD, Laird PW, Berman BP. Bis-SNP: combined DNA methylation and SNP calling for Bisulfite-seq data. Genome Biol. 2012;13(7):R61.
+
+Lyko F, Foret S, Kucharski R, Wolf S, Falckenhayn C, Maleszka R. The Honey Bee Epigenomes: Differential Methylation of Brain DNA in Queens and Workers. PLoS Biol. 2010;8(11):e1000506.
+
+Mao X, Tao CJGO, Wei L. Automated genome annotation and pathway identification using the KEGG Orthology (KO) as a controlled vocabulary. Bioinformatics. 2005;21(19):3787–3793.
+
+Marsh AG, Pasqualone AA. DNA methylation and temperature stress in an Antarctic polychaete, Spiophanes tcherniai. Front Physiol. 2014;5:173.
+
+Masoudi AA, Uchida K, Yokouchi K, Ohwada K, Abbasi AR, Tsuji T, et al. Linkage mapping of the locus responsible for forelimb-girdle muscular anomaly of Japanese black cattle on bovine chromosome 26. Anim Genet. 2008;39(1):46–50.
+
+Metzger DCH, Schulte PM. Persistent and plastic effects of temperature on DNA methylation across the genome of threespine stickleback (Gasterosteus aculeatus) Proc Biol Sci. 2017;284:1864.
+
+Mondol MR, Kim C-W, Kang C-K, Park SR, Noseworthy RG, Choi K-S. Growth and reproduction of early grow-out hardened juvenile Pacific oysters, Crassostrea gigas in Gamakman Bay, off the south coast of Korea. Aquaculture. 2016;463:224–233.
+
+Moore LD, Le T, Fan G. DNA methylation and its basic function. Neuropsychopharmacology. 2013;38(1):23–38.
+
+Olson CE, Roberts SB. Genome-wide profiling of DNA methylation and gene expression in Crassostreagigas male gametes. Front Physiol. 2014;5:224.
+
+Park Y, Wu H. Differential methylation analysis for BS-seq data under general experimental design. Bioinformatics. 2016;32(10):1–10.
+
+Pernice M, Dunn SR, Miard T, Dufour S, Dove S, Hoegh-Guldberg O. Regulation of apoptotic mediators reveals dynamic responses to thermal stress in the reef building coral Acropora millepora. PLoS ONE. 2011;6(1):e16095.
+
+Place SP, Menge BA, Hofmann GE. Transcriptome profiles link environmental variation and physiological response of Mytilus californianus between Pacific tides. Funct Ecol. 2012;26(1):144–155.
+
+Pörtner HO, Lloyd P, George S. Thermal limits and adaptation in marine Antarctic ectotherms: an integrative view. Philos Trans R Soc Lond. 2007;362(1488):2233–2258.
+
+Putnam HM, Davidson JM, Gates RD. Ocean acidification influences host DNA methylation and phenotypic plasticity in environmentally susceptible corals. Evol Appl. 2016;9(9):1165–1178.
+
+Riviere G, Wu GC, Fellous A, Goux D, Sourdaine P, Favrel P. DNA methylation is crucial for the early development in the Oyster C. gigas. Mar Biotechnol. 2013;15(6):739–753.
+
+Rondon R, Grunau C, Fallet M, Charlemagne N, Sussarellu R, Chaparro C, et al. Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environ Epigenet. 2017;3(1):dvx004.
+
+Sanford E, Kelly MW. Local adaptation in marine invertebrates. Ann Rev Mar Sci. 2011;3:509–535.
+
+Schmidt PS, Rand DM. Adaptive maintenance of genetic polymorphism in an intertidal barnacle: habitat- and life-stage-specific survivorship of Mpi genotypes. Evolution. 2001;55(7):1336–1344.
+
+Schulte PM, Healy TM, Fangue NA. Thermal performance curves, phenotypic plasticity, and the time scales of temperature exposure. Integr Comp Biol. 2011;51(5):691–702.
+
+Somero GN. The physiology of climate change: how potentials for acclimatization and genetic adaptation will determine ‘winners’ and ‘losers’. J Exp Biol. 2010;213(6):912–920.
+
+Southward JA. Note on the temperature tolerances of some intertidal animals in relation to environmental temperatures and geographical distribution. J Mar Biol Assoc UK. 1958;37(01):49.
+
+Sunday JM, Bates AE, Dulvy NK. Thermal tolerance and the global redistribution of animals. Nat Clim Change. 2012;2:686.
+
+Venegas D, Marmolejo-Valencia A, Valdes-Quezada C, Govenzensky T, Recillas-Targa F, Merchant-Larios H. Dimorphic DNA methylation during temperature-dependent sex determination in the sea turtle Lepidochelys olivacea. Gen Comp Endocrinol. 2016;236:35–41.
+
+Williams SE, Shoo LP, Isaac JL, Hoffmann AA, Langham G. Towards an integrated framework for assessing the vulnerability of species to climate change. PLoS Biol. 2008;6(12):2621–2626.
+
+You L, Ning X, Liu F, Zhao J, Wang Q, Wu H. The response profiles of HSPA12A and TCTP from Mytilus galloprovincialis to pathogen and cadmium challenge. Fish Shellfish Immunol. 2013;35(2):343–350.
+
+Young MD, Wakefield MJ, Smyth GK, Oshlack A. Gene ontology analysis for RNA-seq: accounting for selection bias. Genome Biol. 2010;11(2):R14.
+
+Zemach A, McDaniel IE, Silva P, Zilberman D. Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science. 2010;328(5980):916–919.
+
+Zhang G, Fang X, Guo X, Li L, Luo R, Xu F, et al. The oyster genome reveals stress adaptation and complexity of shell formation. Nature. 2012;490(7418):49–54.
+
+Zhang X, Li Q, Kong L, Yu H. DNA methylation changes detected by methylation-sensitive amplified polymorphism in the Pacific oyster (Crassostrea gigas) in response to salinity stress. Genes Genomics. 2017;39(11):1173–1181.
+
+Zhang X, Li Q, Yu H, Kong L. Effects of air exposure on genomic DNA methylation in the Pacific oyster (Crassostrea gigas). J Fish Sci China. 2017;24(4):690–697.
+
+Zhu Y, Ren C, Wan X, Zhu Y, Zhu J, Zhou H, et al. Gene expression of Hsp70, Hsp90 and Hsp110 families in normal palate and cleft palate during mouse embryogenesis. Toxicol Ind Health. 2013;29(10):915–930.",No grants available
+32431745,Population epigenetic divergence exceeds genetic divergence in the Eastern oyster ,"Populations may respond to environmental heterogeneity via evolutionary divergence or phenotypic plasticity. While evolutionary divergence occurs through DNA sequence differences among populations, plastic divergence among populations may be generated by changes in the epigenome. Here, we present the results of a genome-wide comparison of DNA methylation patterns and genetic structure among four populations of Eastern oyster (",Evolutionary applications,"Johnson, Kelly",2020,10.1111/eva.12912,PMC7232765,https://pubmed.ncbi.nlm.nih.gov/32431745,"Akalin, A. , Kormaksson, M. , Li, S. , Garrett‐Bakelman, F. E. , Figueroa, M. E. , Melnick, A. , & Mason, C. E. (2012). methylKit: A comprehensive R package for the analysis of genome‐wide DNA methylation profiles. Genome Biology, 13, R87–R87. 10.1186/gb-2012-13-10-r87
+
+Anderson, J. D. , Karel, W. J. , Mace, C. E. , Bartram, B. L. , & Hare, M. P. (2014). Spatial genetic features of eastern oysters (Crassostrea virginica Gmelin) in the Gulf of Mexico: Northward movement of a secondary contact zone. Ecology and Evolution, 4, 1671–1685.
+
+Ardura, A. , Zaiko, A. , Morán, P. , Planes, S. , & Garcia‐Vazquez, E. (2017). Epigenetic signatures of invasive status in populations of marine invertebrates. Scientific Reports, 7, 42193 10.1038/srep42193
+
+Artemov, A. V. , Mugue, N. S. , Rastorguev, S. M. , Zhenilo, S. , Mazur, A. M. , Tsygankova, S. V. , … Prokhortchouk, E. B. (2017). Genome‐wide DNA methylation profiling reveals epigenetic adaptation of stickleback to marine and freshwater conditions. Molecular Biology and Evolution, 34, 2203–2213. 10.1093/molbev/msx156
+
+Barnes, T. K. , Volety, A. K. , Chartier, K. , Mazzotti, F. J. , & Pearlstine, L. (2007). A habitat suitability index model for the Eastern Oyster (Crassostrea Virginica), a tool for restoration of the Caloosahatchee Estuary, Florida. Journal of Shellfish Research, 26, 949–959. 10.2983/0730-8000(2007)26[949:AHSIMF]2.0.CO;2
+
+Bayona‐Vásquez, N. J. , Glenn, T. C. , Kieran, T. J. , Pierson, T. W. , Hoffberg, S. L. , Scott, P. A. , … Faircloth, B. C. (2019). Adapterama III: Quadruple‐indexed, double/triple‐enzyme RADseq libraries (2RAD/3RAD). bioRxiv, 205799.
+
+Bernatchez, S. , Xuereb, A. , Laporte, M. , Benestan, L. , Steeves, R. , Laflamme, M. , … Mallet, M. A. (2019). Seascape genomics of eastern oyster (Crassostrea virginica) along the Atlantic coast of Canada. Evolutionary Applications, 12, 587–609.
+
+Bradburd, G. S. , Coop, G. M. , & Ralph, P. L. (2018). Inferring continuous and discrete population genetic structure across space. Genetics, 210, 33 10.1534/genetics.118.301333
+
+Catchen, J. , Hohenlohe, P. A. , Bassham, S. , Amores, A. , & Cresko, W. A. (2013). Stacks: an analysis tool set for population genomics. Mol Ecology, 22(11), 3124–3140. 10.1111/mec.12354
+
+Chapman, R. W. , Mancia, A. , Beal, M. , Veloso, A. , Rathburn, C. , Blair, A. , … Sanger, D. (2011). The transcriptomic responses of the eastern oyster, Crassostrea virginica, to environmental conditions. Molecular Ecology, 20, 1431–1449. 10.1111/j.1365-294X.2011.05018.x
+
+Das, A. , Justic, D. , Inoue, M. , Hoda, A. , Huang, H. , & Park, D. (2012). Impacts of Mississippi River diversions on salinity gradients in a deltaic Louisiana estuary: Ecological and management implications. Estuarine, Coastal and Shelf Science, 111, 17–26. 10.1016/j.ecss.2012.06.005
+
+DeBiasse, M. B. , & Kelly, M. W. (2016). Plastic and evolved responses to global change: What can we learn from comparative transcriptomics? Journal of Heredity, 107, 71–81.
+
+Eastern Oyster Biological Review Team (2007). Status review of the eastern oyster (Crassostrea virginica). vol. NOAA Tech. Memo. NMFS F/SPO‐88 eds. N. Report. to the National Marine Fisheries Service and R. Office), p. 105.
+
+Eirin‐Lopez, J. M. , & Putnam, H. M. (2018). Marine environmental epigenetics. Annual Review of Marine Science, 11, 335–368.
+
+Evans, T. G. , & Hofmann, G. E. (2012). Defining the limits of physiological plasticity: How gene expression can assess and predict the consequences of ocean change. Philosophical Transactions of the Royal Society B: Biological Sciences, 367, 1733–1745.
+
+Feng, D. , Li, Q. , Yu, H. , Zhao, X. , & Kong, L. (2015). Comparative transcriptome analysis of the pacific oyster Crassostrea gigas characterized by shell colors: Identification of genetic bases potentially involved in pigmentation. PLoS ONE, 10(12), e0145257 10.1371/journal.pone.0145257
+
+Gavery, M. R. , & Roberts, S. B. (2013). Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ, 1, e215 10.7717/peerj.215
+
+Glenn, T. C. , Nilsen, R. , Kieran, T. J. , Finger, J. W. , Pierson, T. W. , Bentley, K. E. , … Reed, K. (2016). Adapterama I: Universal stubs and primers for thousands of dual‐indexed Illumina libraries (iTru & iNext). bioRxiv, 049114
+
+Gómez‐Chiarri, M. (2018). Crassostrea virginica genome sequencing and assembly, (ed. M. G. I.‐W. U. S. o. Medicine). National Center for Biotechnology Information.
+
+Gómez‐Chiarri, M. , Warren, W. C. , Guo, X. , & Proestou, D. (2015). Developing tools for the study of molluscan immunity: The sequencing of the genome of the eastern oyster, Crassostrea virginica . Fish & Shellfish Immunology, 46, 2–4.
+
+Harding, J. M. , Powell, E. N. , Mann, R. , & Southworth, M. (2013). Variations in Eastern oyster (Crassostrea virginica) sex‐ratios from three Virginia estuaries: protandry, growth and demographics. Journal of Marine Biological Association of the United Kingdom. 93, 519–531.
+
+Hofmann, G. E. (2017). Ecological epigenetics in marine metazoans. Frontiers in Marine Science, 4, 4 10.3389/fmars.2017.00004
+
+Hu, J. , & Barrett, R. D. H. (2017). Epigenetics in natural animal populations. Journal of Evolutionary Biology, 30, 1612–1632. 10.1111/jeb.13130
+
+Jones, H. R. , Johnson, K. M. , & Kelly, M. W. (2019). Synergistic effects of temperature and salinity on the gene expression and physiology of Crassostrea virginica . Integrative and Comparative Biology, 59(2), 306–319.
+
+Keller, T. E. , Han, P. , & Yi, S. V. (2016). Evolutionary Transition of promoter and gene body DNA methylation across invertebrate‐vertebrate boundary. Molecular Biology and Evolution, 33(4), 1019–1028. 10.1093/molbev/msv345
+
+Kilvitis, H. J. , Alvarez, M. , Foust, C. M. , Schrey, A. W. , Robertson, M. , & Richards, C. L. (2014). Ecological epigenetics. Advances in Experimental Medicine and Biology, 191–210.
+
+Klironomos, F. D. , Berg, J. , & Collins, S. (2016). How epigenetic mutations can affect genetic evolution: Model and mechanism. BioEssays, 35, 571–578. 10.1002/bies.201200169
+
+Kronholm, I. , & Collins, S. (2016). Epigenetic mutations can both help and hinder adaptive evolution. Molecular Ecology, 25, 1856–1868. 10.1111/mec.13296
+
+Krueger, F. (2015). Trim Galore!: A wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files.
+
+Krueger, F. , & Andrews, S. R. (2011). Bismark: A flexible aligner and methylation caller for Bisulfite‐Seq applications. Bioinformatics, 27, 1571–1572. 10.1093/bioinformatics/btr167
+
+Langmead, B. , & Salzberg, S. (2012). Fast gapped‐read alignment with Bowtie 2. Nature Methods, 9, 357–359.
+
+Leinonen, T. , McCairns, R. J. S. , O’Hara, R. B. , & Merilä, J. (2013). Q(ST)‐F(ST) comparisons: Evolutionary and ecological insights from genomic heterogeneity. Nature Reviews Genetics, 14, 179–190. 10.1038/nrg3395
+
+Leonhardt, E. R. (2013). Monitoring the survival of hatchery‐produced spat and larvae on Louisiana public oyster reefs. LSU Master's Theses, 4028.
+
+Leonhardt, J. M. , Casas, S. , Supan, J. E. , & La Peyre, J. F. (2017). Stock assessment for eastern oyster seed production and field grow‐out in Louisiana. Aquaculture, 466, 9–19. 10.1016/j.aquaculture.2016.09.034
+
+Liu, S. , Sun, K. , Jiang, T. , & Feng, J. (2015). Natural epigenetic variation in bats and its role in evolution. Journal of Experimental Biology, 218, 100–106. 10.1242/jeb.107243
+
+Massicotte, R. , Whitelaw, E. , & Angers, B. (2011). DNA methylation: A source of random variation in natural populations. Epigenetics, 6, 421–427. 10.4161/epi.6.4.14532
+
+Mathers, T. C. , Mugford, S. T. , Percival‐Alwyn, L. , Chen, Y. , Kaithakottil, G. , Swarbreck, D. , … van Oosterhout, C. (2019). Sex‐specific changes in the aphid DNA methylation landscape. Molecular Ecology, 28, 4228–4241.
+
+Metzger, D. C. , & Schulte, P. M. (2016). Epigenomics in marine fishes. Marine Genomics, 30, 43–54. 10.1016/j.margen.2016.01.004.
+
+Meyer, D. L. , Townsend, E. C. , & Thayer, G. W. (1997). Stabilization and erosion control value of oyster cultch for intertidal marsh. Restoration Ecology, 5, 93–99. 10.1046/j.1526-100X.1997.09710.x
+
+Müller, G. A. S. , Lüchmann, K. H. , Razzera, G. , Toledo‐Silva, G. , Bebianno, M. J. , Marques, M. R. F. , & Bainy, A. C. D. (2018). Proteomic response of gill microsomes of Crassostrea brasiliana exposed to diesel fuel water‐accommodated fraction. Aquatjc Toxicology, 201, 109–118. 10.1016/j.aquatox.2018.06.001
+
+Olson, C. E. , & Roberts, S. B. (2014). Genome‐wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Frontiers in Physiology, 5, 224 10.3389/fphys.2014.00224
+
+Platt, A. , Gugger, P. F. , Pellegrini, M. , & Sork, V. L. (2015). Genome‐wide signature of local adaptation linked to variable CpG methylation in oak populations. Molecular Ecology, 24, 3823–3830. 10.1111/mec.13230
+
+Plunket, J. , & La Peyre, M. K. (2005). Oyster beds as fish and macroinvertebrate habitat in Barataria Bay, Louisiana. Bulletin of Marine Science, 77, 155–164.
+
+Powell, E. J. , & Keim, B. D. (2015). Trends in daily temperature and precipitation extremes for the Southeastern United States: 1948–2012. Journal of Climate, 28, 1592–1612. 10.1175/JCLI-D-14-00410.1
+
+Riviere, G. (2014). Epigenetic features in the oyster Crassostrea gigas suggestive of functionally relevant promoter DNA methylation in invertebrates. Frontiers in Physiology, 5, 129 10.3389/fphys.2014.00129
+
+Riviere, G. , Wu, G.‐C. , Fellous, A. , Goux, D. , Sourdaine, P. , & Favrel, P. (2013). DNA methylation is crucial for the early development in the Oyster C. gigas . Marine Biotechnology, 15, 739–753. 10.1007/s10126-013-9523-2
+
+Rondon, R. , Grunau, C. , Fallet, M. , Charlemagne, N. , Sussarellu, R. , Chaparro, C. , … Cosseau, C. (2017). Effects of a parental exposure to diuron on Pacific oyster spat methylome. Environmental Epigenetics, 3, dvx004 10.1093/eep/dvx004
+
+Sanford, E. , & Kelly, M. W. (2011). Local Adaptation in marine invertebrates. Annual Review of Marine Science, 3, 509–535. 10.1146/annurev-marine-120709-142756
+
+Schrey, A. W. , Alvarez, M. , Foust, C. M. , Kilvitis, H. J. , Lee, J. D. , Liebl, A. L. , … Robertson, M. (2013). Ecological epigenetics: Beyond MS‐AFLP. Integrative and Comparative Biology, 53, 340–350. 10.1093/icb/ict012
+
+Shumway, S. (1996). Natural environmental factors in the Eastern Oyster Crassostrea virginica (pp. 467–513). Maryland: Maryland Sea Grant College.
+
+Silliman, K. (2019). Population structure, genetic connectivity, and adaptation in the Olympia oyster (Ostrea lurida) along the west coast of North America. Evolutionary Applications, 12, 923–939.
+
+Skinner, M. K. , Gurerrero‐Bosagna, C. , Haque, M. M. , Nilsson, E. E. , Koop, J. A. , Knutie, S. A. , & Clayton, D. H. (2014). Epigenetics and the evolution of Darwin’s finches. Genome Biology and Evolution, 6, 1972–1989. 10.1093/gbe/evu158
+
+Somero, G. N. (2010). The physiology of climate change: How potentials for acclimatization and genetic adaptation will determine 'winners' and 'losers'. Journal of Experimental Biology, 213, 912–920. 10.1242/jeb.037473
+
+Song, K. , Li, L. , & Zhang, G. (2017). The association between DNA methylation and exon expression in the Pacific oyster Crassostrea gigas . PLoS ONE, 12, e0185224 10.1371/journal.pone.0185224
+
+Stillman, J. H. , & Armstrong, E. (2015). Genomics are transforming our understanding of responses to climate change. BioScience, 65, 237–246. 10.1093/biosci/biu219
+
+Tanguy, A. , Boutet, I. , & Moraga, D. (2005). Molecular characterization of the glutamine synthetase gene in the Pacific oyster Crassostrea gigas: Expression study in response to xenobiotic exposure and developmental stage. Biochimica Et Biophysica Acta, 1681, 116–125. 10.1016/j.bbaexp.2004.10.010
+
+Trucchi, E. , Mazzarella, A. B. , Gilfillan, G. D. , Lorenzo, M. T. , Schonswetter, P. , & Paun, O. (2016). BsRADseq: Screening DNA methylation in natural populations of non‐model species. Molecular Ecology, 25, 1697–1713. 10.1111/mec.13550
+
+Van Gurp, T. P. , Wagemaker, N. C. , Wouters, B. , Vergeer, P. , Ouborg, J. N. , & Verhoeven, K. J. (2016). epiGBS: Reference‐free reduced representation bisulfite sequencing. Nature Methods, 13, 322–324. 10.1038/nmeth.3763
+
+Varney, R. L. , Galindo‐Sánchez, C. E. , Cruz, P. , & Gaffney, P. M. (2009). Population genetics of the Eastern Oyster Crassostrea Virginica (Gmelin, 1791) in the Gulf of Mexico. Journal of Shellfish Research, 28, 855–865. 10.2983/035.028.0415
+
+Verhoeven, K. J. , vonHoldt, B. M. , & Sork, V. L. (2016). Epigenetics in ecology and evolution: What we know and what we need to know. Molecular Ecology, 25, 1631–1638.
+
+Vu, W. T. , Chang, P. L. , Moriuchi, K. S. , & Friesen, M. L. (2015). Genetic variation of transgenerational plasticity of offspring germination in response to salinity stress and the seed transcriptome of Medicago truncatula . BMC Evolutionary Biology, 15, 59 10.1186/s12862-015-0322-4
+
+Wan, Z. Y. , Xia, J. H. , Lin, G. , Wang, L. , Lin, V. C. , & Yue, G. H. (2016). Genome‐wide methylation analysis identified sexually dimorphic methylated regions in hybrid tilapia. Scientific Reports, 6, 35903 10.1038/srep35903
+
+Wong, J. M. , Johnson, K. M. , Kelly, M. W. , & Hofmann, G. E. (2018). Transcriptomics reveal transgenerational effects in purple sea urchins exposed to upwelling conditions, and the response of their progeny to differential pCO2 levels. Molecular Ecology, 27, 1120–1137
+
+Wright, R. M. , Aglyamova, G. V. , Meyer, E. , & Matz, M. V. (2016). Gene expression associated with white syndromes in a reef‐building coral, Acropora Hyacinthus . BMC Genomics, 16, 371.
+
+Xuereb, A. , Benestan, L. , Normandeau, É. , Daigle, R. M. , Curtis, J. M. R. , Bernatchez, L. , & Fortin, M.‐J. (2018). Asymmetric oceanographic processes mediate connectivity and population genetic structure, as revealed by RADseq, in a highly dispersive marine invertebrate (Parastichopus californicus). Molecular Ecology, 27, 2347–2364.
+
+Yaish, M. W. , Peng, M. , & Rothstein, S. J. (2014). Global DNA methylation analysis using methyl‐sensitive amplification polymorphism (MSAP). Methods in Molecular Biology, 1062, 285–298.
+
+Zhu, L. J. , Gazin, C. , Lawson, N. D. , Pagès, H. , Lin, S. M. , Lapointe, D. S. , & Green, M. R. (2010). ChIPpeakAnno: A Bioconductor package to annotate ChIP‐seq and ChIP‐chip data. BMC Bioinformatics, 11, 237 10.1186/1471-2105-11-237",No grants available
+28945769,The association between DNA methylation and exon expression in the Pacific oyster Crassostrea gigas.,"DNA methylation is one of the most important epigenetic modifications of eukaryotic genomes and is believed to play integral roles in diverse biological processes. Although DNA methylation has been well studied in mammals, data are limited in invertebrates, particularly Mollusca. The Pacific oyster Crassostrea gigas is an emerging genetic model for functional analysis of DNA methylation in Mollusca. Recent studies have shown that there is a positive association between methylation status and gene expression in C. gigas; however, whether this association exists at the exon level remains to be determined.",PloS one,"Song, Li, Zhang",2017,10.1371/journal.pone.0185224,PMC5612690,https://pubmed.ncbi.nlm.nih.gov/28945769,"Zhang X, Yazaki J, Sundaresan A, Cokus S, Chan SW, Chen H, et al.
+Genome-wide high-resolution mapping and functional analysis of DNA methylation in Arabidopsis. Cell. 2006;126(6):1189–201. doi: 10.1016/j.cell.2006.08.003
+
+
+Shukla S, Kavak E, Gregory M, Imashimizu M, Shutinoski B, Kashlev M, et al.
+CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing. Nature. 2011;479(7371):74–9. doi: 10.1038/nature10442
+
+
+Ap B. Gene number, noise reduction and biological complexity. Trends in Genetics. 1995;11(3):94–100. doi: 10.1016/S0168-9525(00)89009-5
+
+
+Wolffe AP, Matzke MA. Epigenetics: Regulation Through Repression. Science. 1999;286(5439):págs. 481–6.
+
+Lister R, Pelizzola M, Dowen RH, Hawkins RD, Hon G, Tonti-Filippini J, et al.
+Human DNA methylomes at base resolution show widespread epigenomic differences. Nature. 2009;462(7271):: 315–22. doi: 10.1038/nature08514
+
+
+Li Y, Zhu J, Tian G, Li N, Li Q, Ye M, et al.
+The DNA methylome of human peripheral blood mononuclear cells. PLoS Biol. 2010;8(11):e1000533
+doi: 10.1371/journal.pbio.1000533 ; PubMed Central PMCID: PMC2976721.
+
+Lyko F, Foret S, Kucharski R, Wolf S, Falckenhayn C, Maleszka R. The honey bee epigenomes: differential methylation of brain DNA in queens and workers. PLoS Biology. 2010;8(11):e1000506
+doi: 10.1371/journal.pbio.1000506 ; PubMed Central PMCID: PMC2970541.
+
+Xiang H, Zhu J, Chen Q, Dai F, Li X, Li M, et al. Single base–resolution methylome of the silkworm reveals a sparse epigenomic map. Nature Biotechnology. 2010;28(5):756–.
+
+Bonasio R, Li Q, Lian J, Mutti NS, Jin L, Zhao H, et al.
+Genome-wide and caste-specific DNA methylomes of the ants Camponotus floridanus and Harpegnathos saltator. Current Biology. 2012;22(19):1755–64. doi: 10.1016/j.cub.2012.07.042
+
+
+Suzuki MM, Bird A. DNA methylation landscapes: provocative insights from epigenomics. Nat Rev Genet. 2008;9(6):465–76. doi: 10.1038/nrg2341 .
+
+Elango N, Hunt BG, Goodisman MAD, Yi SV. DNA methylation is widespread and associated with differential gene expression in castes of the honeybee, Apis mellifera. Proceedings Of the National Academy Of Sciences Of the United States Of America. 2009;106(27):11206–11. doi: 10.1073/pnas.0900301106
+
+
+Gavery MR, Roberts SB. DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas). BMC Genomics. 2010;11
+doi: 10.1186/1471-2164-11-483
+
+
+Xiang H, Zhu J, Chen Q, Dai F, Li X, Li M, et al.
+Single base-resolution methylome of the silkworm reveals a sparse epigenomic map. Nat Biotechnol. 2010;28(5):516–20. doi: 10.1038/nbt.1626 .
+
+Zemach A, McDaniel IE, Silva P, Zilberman D. Genome-Wide Evolutionary Analysis of Eukaryotic DNA Methylation. Science. 2010;328(5980):916–9. doi: 10.1126/science.1186366
+
+
+Glastad KM, Hunt BG, Yi SV, Goodisman MA. DNA methylation in insects: on the brink of the epigenomic era. Insect Mol Biol. 2011;20(5):553–65. doi: 10.1111/j.1365-2583.2011.01092.x .
+
+Park J, Peng Z, Zeng J, Elango N, Park T, Wheeler D, et al. Comparative analyses of DNA methylation and sequence evolution using Nasonia genomes. Molecular Biology & Evolution. 2011;28(12):3345–54(10).
+
+Zhang X, Yazaki J, Sundaresan A, Cokus S, Chan SW, Chen H, et al.
+Genome-wide high-resolution mapping and functional analysis of DNA methylation in Arabidopsis. Cell. 2006;126(6):1189–201. doi: 10.1016/j.cell.2006.08.003 .
+
+Zilberman D, Gehring M, Tran RK, Ballinger T, Henikoff S. Genome-wide analysis of Arabidopsis thaliana DNA methylation uncovers an interdependence between methylation and transcription. Nature Genetics. 2007;39(1):61–9. doi: 10.1038/ng1929 .
+
+Wang X, Wheeler D, Avery A, Rago A, Choi JH, Colbourne JK, et al.
+Function and Evolution of DNA Methylation in Nasonia vitripennis. PLOS Genet. 2013;9(10). doi: 10.1371/journal.pgen.1003872
+
+
+Cokus SJ, Feng S, Zhang X, Chen Z, Merriman B, Haudenschild CD, et al.
+Shotgun bisulphite sequencing of the Arabidopsis genome reveals DNA methylation patterning. Nature. 2008;452(7184):215–9. doi: 10.1038/nature06745 ; PubMed Central PMCID: PMC2377394.
+
+Feng SH, Cokus SJ, Zhang XY, Chen PY, Bostick M, Goll MG, et al.
+Conservation and divergence of methylation patterning in plants and animals. Proceedings Of the National Academy Of Sciences Of the United States Of America. 2010;107(19):8689–94. doi: 10.1073/pnas.1002720107
+
+
+Gerdol M, Venier P, Pallavicini A. The genome of the Pacific oyster Crassostrea gigas brings new insights on the massive expansion of the C1 q gene family in Bivalvia. Developmental And Comparative Immunology. 2015;49(1):59–71. doi: 10.1016/j.dci.2014.11.007
+
+
+Rosa RD, Alonso P, Santini A, Vergnes A, Bachere E. High polymorphism in big defensin gene expression reveals presence-absence gene variability (PAV) in the oyster Crassostrea gigas. Developmental And Comparative Immunology. 2015;49(2):231–8. doi: 10.1016/j.dci.2014.12.002
+
+
+Wang WL, Liu R, Zhang T, Zhang R, Song X, Wang LL, et al.
+A novel phagocytic receptor (CgNimC) from Pacific oyster Crassostrea gigas with lipopolysaccharide and gram-negative bacteria binding activity. Fish & Shellfish Immunology. 2015;43(1):103–10. doi: 10.1016/j.fsi.2014.12.019
+
+
+Zhang LL, Li L, Guo XM, Litman GW, Dishaw LJ, Zhang GF. Massive expansion and functional divergence of innate immune genes in a protostome. Sci Rep-Uk. 2015;5
+doi: 10.1038/Srep08693
+
+
+Meng J, Zhu QH, Zhang LL, Li CY, Li L, She ZC, et al.
+Genome and Transcriptome Analyses Provide Insight into the Euryhaline Adaptation Mechanism of Crassostrea gigas. PLOS ONE. 2013;8(3). doi: 10.1371/journal.pone.0058563
+
+
+Anderson K, Taylor DA, Thompson EL, Melwani AR, Nair SV, Raftos DA. Meta-Analysis of Studies Using Suppression Subtractive Hybridization and Microarrays to Investigate the Effects of Environmental Stress on Gene Transcription in Oysters. PLOS ONE. 2015;10(3). doi: 10.1371/journal.pone.0118839
+
+
+Zhang Y, Sun J, Mu HW, Li J, Zhang YH, Xu FJ, et al.
+Proteomic Basis of Stress Responses in the Gills of the Pacific Oyster Crassostrea gigas. J Proteome Res. 2015;14(1):304–17. doi: 10.1021/pr500940s
+
+
+Zhang G, Fang X, Guo X, Li L, Luo R, Xu F, et al.
+The oyster genome reveals stress adaptation and complexity of shell formation. Nature. 2012;490(7418):49–54. doi: 10.1038/nature11413 .
+
+Roberts SB, Gavery MR. Is There a Relationship between DNA Methylation and Phenotypic Plasticity in Invertebrates? Front Physiol. 2011;2:116.
+
+Gavery MR, Roberts SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ. 2013;1:e215–e. doi: 10.7717/peerj.215
+
+
+Olson CE, Roberts SB. Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Front Physiol. 2014;5
+doi: 10.3389/Fphys.2014.00224
+
+
+Wang XT, Li QY, Lian JM, Li L, Jin LJ, Cai HM, et al.
+Genome-wide and single-base resolution DNA methylomes of the Pacific oyster Crassostrea gigas provide insight into the evolution of invertebrate CpG methylation. BMC Genomics. 2014;15
+doi: 10.1186/1471-2164-15-1119
+
+
+Flores K, Wolschin F, Corneveaux JJ, Allen AN, Huentelman MJ, Amdam GV. Genome-wide association between DNA methylation and alternative splicing in an invertebrate. BMC Genomics. 2012;13
+doi: 10.1186/1471-2164-13-480
+
+
+Krueger F, Andrews SR. Bismark: a flexible aligner and methylation caller for Bisulfite-Seq applications. Bioinformatics. 2011;27(11):1571–2. doi: 10.1093/bioinformatics/btr167
+
+
+Chuang TJ, Chen FC, Chen YZ. Position-dependent correlations between DNA methylation and the evolutionary rates of mammalian coding exons. Proceedings Of the National Academy Of Sciences Of the United States Of America. 2012;109(39):15841–6. doi: 10.1073/pnas.1208214109
+
+
+Schultz MD, Schmitz RJ, Ecker JR. 'Leveling' the playing field for analyses of single-base resolution DNA methylomes. Trends Genet. 2012;28(12):583–5. doi: 10.1016/j.tig.2012.10.012
+
+
+Kim D, Langmead B, Salzberg SL. HISAT: a fast spliced aligner with low memory requirements. Nature Methods. 2015;12(4):357–60. doi: 10.1038/nmeth.3317 ; PubMed Central PMCID: PMC4655817.
+
+Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, et al.
+The Sequence Alignment/Map format and SAMtools. Bioinformatics. 2009;25(16):2078–9. doi: 10.1093/bioinformatics/btp352
+
+
+Pertea M, Pertea GM, Antonescu CM, Chang TC, Mendell JT, Salzberg SL. StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. Nat Biotechnol. 2015;33(3):290–5. doi: 10.1038/nbt.3122 ; PubMed Central PMCID: PMC4643835.
+
+Pertea M, Kim D, Pertea GM, Leek JT, Salzberg SL. Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown. Nature Protocols. 2016;11(9):1650–67. doi: 10.1038/nprot.2016.095
+",No grants available
+25943713,Regulation of Hox orthologues in the oyster Crassostrea gigas evidences a functional role for promoter DNA methylation in an invertebrate.,"DNA methylation within promoter regions (PRDM) controls vertebrate early gene transcription and thereby development, but is neglected outside this group. However, epigenetic features in the oyster Crassostrea gigas suggest functional significance of PDRM in invertebrates. To investigate this, reporter constructs containing in vitro methylated oyster Hox gene promoters were transfected into oyster embryos. The influence of in vivo methylation was studied using bisulfite sequencing and DNA methyltransferase inhibition during development. Our results demonstrate that methylation controls the transcriptional activity of the promoters investigated, unraveling a functional role for PRDM in a lophotrochozoan, an important finding regarding the evolution of epigenetic regulation.",FEBS letters,"Saint-Carlier, Riviere",2015,10.1016/j.febslet.2015.04.043,,https://pubmed.ncbi.nlm.nih.gov/25943713,No references available,No grants available
+25514978,Genome-wide and single-base resolution DNA methylomes of the Pacific oyster Crassostrea gigas provide insight into the evolution of invertebrate CpG methylation.,"Studies of DNA methylomes in a wide range of eukaryotes have revealed both conserved and divergent characteristics of DNA methylation among phylogenetic groups. However, data on invertebrates particularly molluscs are limited, which hinders our understanding of the evolution of DNA methylation in metazoa. The sequencing of the Pacific oyster Crassostrea gigas genome provides an opportunity for genome-wide profiling of DNA methylation in this model mollusc.",BMC genomics,"Wang, Li, Lian, Li, Jin, Cai, Xu, Qi, Zhang, Wu, Meng, Que, Fang, Guo, Zhang",2014,10.1186/1471-2164-15-1119,PMC4378273,https://pubmed.ncbi.nlm.nih.gov/25514978,"Zhang X, Yazaki J, Sundaresan A, Cokus S, Chan SW, Chen H, Henderson IR, Shinn P, Pellegrini M, Jacobsen SE, Ecker JR. Genome-wide high-resolution mapping and functional analysis of DNA methylation in arabidopsis. Cell. 2006;126:1189–1201. doi: 10.1016/j.cell.2006.08.003.
+
+Shukla S, Kavak E, Gregory M, Imashimizu M, Shutinoski B, Kashlev M, Oberdoerffer P, Sandberg R, Oberdoerffer S. CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing. Nature. 2011;479:74–79. doi: 10.1038/nature10442.
+
+Bird AP. Gene number, noise reduction and biological complexity. Trends Genet. 1995;11:94–100. doi: 10.1016/S0168-9525(00)89009-5.
+
+Wolffe AP, Matzke MA. Epigenetics: regulation through repression. Science. 1999;286:481–486. doi: 10.1126/science.286.5439.481.
+
+Zemach A, McDaniel IE, Silva P, Zilberman D. Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science. 2010;328:916–919. doi: 10.1126/science.1186366.
+
+Feng S, Cokus SJ, Zhang X, Chen PY, Bostick M, Goll MG, Hetzel J, Jain J, Strauss SH, Halpern ME, Ukomadu C, Sadler KC, Pradhan S, Pellegrini M, Jacobsen SE. Conservation and divergence of methylation patterning in plants and animals. Proc Natl Acad Sci U S A. 2010;107:8689–8694. doi: 10.1073/pnas.1002720107.
+
+Lister R, Pelizzola M, Dowen RH, Hawkins RD, Hon G, Tonti-Filippini J, Nery JR, Lee L, Ye Z, Ngo Q-M. Human DNA methylomes at base resolution show widespread epigenomic differences. Nature. 2009;462:315–322. doi: 10.1038/nature08514.
+
+Xiang H, Zhu J, Chen Q, Dai F, Li X, Li M, Zhang H, Zhang G, Li D, Dong Y, Zhao L, Lin Y, Cheng D, Yu J, Sun J, Zhou X, Ma K, He Y, Zhao Y, Guo S, Ye M, Guo G, Li Y, Li R, Zhang X, Ma L, Kristiansen K, Guo Q, Jiang J, Beck S, et al. Single base-resolution methylome of the silkworm reveals a sparse epigenomic map. Nat Biotechnol. 2010;28:516–520. doi: 10.1038/nbt.1626.
+
+Lyko F, Foret S, Kucharski R, Wolf S, Falckenhayn C, Maleszka R. The honey bee epigenomes: differential methylation of brain DNA in queens and workers. PLoS Biol. 2010;8:e1000506. doi: 10.1371/journal.pbio.1000506.
+
+Bonasio R, Li Q, Lian J, Mutti NS, Jin L, Zhao H, Zhang P, Wen P, Xiang H, Ding Y, Jin Z, Shen SS, Wang Z, Wang W, Wang J, Berger SL, Liebig J, Zhang G, Reinberg D. Genome-wide and caste-specific DNA methylomes of the ants Camponotus floridanus and Harpegnathos saltator. Curr Biol. 2012;22:1755–1764. doi: 10.1016/j.cub.2012.07.042.
+
+Li Y, Zhu J, Tian G, Li N, Li Q, Ye M, Zheng H, Yu J, Wu H, Sun J, Zhang H, Chen Q, Luo R, Chen M, He Y, Jin X, Zhang Q, Yu C, Zhou G, Sun J, Huang Y, Zheng H, Cao H, Zhou X, Guo S, Hu X, Li X, Kristiansen K, Bolund L, Xu J, et al. The DNA methylome of human peripheral blood mononuclear cells. PLoS Biol. 2010;8:e1000533. doi: 10.1371/journal.pbio.1000533.
+
+Zilberman D, Gehring M, Tran RK, Ballinger T, Henikoff S. Genome-wide analysis of Arabidopsis thaliana DNA methylation uncovers an interdependence between methylation and transcription. Nat Genet. 2006;39:61–69. doi: 10.1038/ng1929.
+
+Yang X, Han H, De Carvalho DD, Lay FD, Jones PA, Liang G. Gene body methylation can alter gene expression and is a therapeutic target in cancer. Cancer Cell. 2014;26:577–590. doi: 10.1016/j.ccr.2014.07.028.
+
+Gavery MR, Roberts SB. DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas) BMC Genomics. 2010;11:483. doi: 10.1186/1471-2164-11-483.
+
+Fneich S, Dheilly N, Adema C, Rognon A, Reichelt M, Bulla J, Grunau C, Cosseau C. 5-methyl-cytosine and 5-hydroxy-methyl-cytosine in the genome of Biomphalaria glabrata, a snail intermediate host of Schistosoma mansoni. Parasit Vectors. 2013;6:167. doi: 10.1186/1756-3305-6-167.
+
+Riviere G, Wu G-C, Fellous A, Goux D, Sourdaine P, Favrel P. DNA methylation is crucial for the early development in the oyster C. gigas. Marine Biotechnol. 2013;15:739–753. doi: 10.1007/s10126-013-9523-2.
+
+Gavery MR, Roberts SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. Peer J. 2013;1:e215. doi: 10.7717/peerj.215.
+
+Sun Y, Hou R, Fu X, Sun C, Wang S, Wang C, Li N, Zhang L, Bao Z. Genome-wide analysis of DNA methylation in five tissues of Zhikong scallop, Chlamys farreri. PLoS One. 2014;9:e86232. doi: 10.1371/journal.pone.0086232.
+
+Fleury E, Huvet A, Lelong C, De Lorgeril J, Boulo V, Gueguen Y, Bachère E, Tanguy A, Moraga D, Fabioux C. Generation and analysis of a 29,745 unique Expressed Sequence Tags from the Pacific oyster (Crassostrea gigas) assembled into a publicly accessible database: the GigasDatabase. BMC Genomics. 2009;10:341. doi: 10.1186/1471-2164-10-341.
+
+Zhang G, Fang X, Guo X, Li L, Luo R, Xu F, Yang P, Zhang L, Wang X, Qi H, Xiong Z, Que H, Xie Y, Holland PW, Paps J, Zhu Y, Wu F, Chen Y, Wang J, Peng C, Meng J, Yang L, Liu J, Wen B, Zhang N, Huang Z, Zhu Q, Feng Y, Mount A, Hedgecock D, et al. The oyster genome reveals stress adaptation and complexity of shell formation. Nature. 2012;490:49–54. doi: 10.1038/nature11413.
+
+Olson CE, Roberts SB. Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Front Physiol. 2014;5:224. doi: 10.3389/fphys.2014.00224.
+
+Goll MG, Bestor TH. Eukaryotic cytosine methyltransferases. Annu Rev Biochem. 2005;74:481–514. doi: 10.1146/annurev.biochem.74.010904.153721.
+
+Law JA, Jacobsen SE. Establishing, maintaining and modifying DNA methylation patterns in plants and animals. Nat Rev Genet. 2010;11:204–220. doi: 10.1038/nrg2719.
+
+Hendrich B, Tweedie S. The methyl-CpG binding domain and the evolving role of DNA methylation in animals. Trends Genet. 2003;19:269–277. doi: 10.1016/S0168-9525(03)00080-5.
+
+Kennedy VS, Breisch LL. Maryland’s oysters: research and management. Maryland: University of Maryland College Park; 1981.
+
+Suzuki MM, Bird A. DNA methylation landscapes: provocative insights from epigenomics. Nat Rev Genet. 2008;9:465–476. doi: 10.1038/nrg2341.
+
+Sarda S, Zeng J, Hunt BG, Yi SV. The evolution of invertebrate gene body methylation. Mol Biol Evol. 2012;29:1907–1916. doi: 10.1093/molbev/mss062.
+
+Foret S, Kucharski R, Pittelkow Y, Lockett GA, Maleszka R. Epigenetic regulation of the honey bee transcriptome: unravelling the nature of methylated genes. BMC Genomics. 2009;10:472. doi: 10.1186/1471-2164-10-472.
+
+Domazet-Loso T, Brajkovic J, Tautz D. A phylostratigraphy approach to uncover the genomic history of major adaptations in metazoan lineages. Trends Genet. 2007;23:533–539. doi: 10.1016/j.tig.2007.08.014.
+
+Terrapon N, Li C, Robertson HM, Ji L, Meng X, Booth W, Chen Z, Childers CP, Glastad KM, Gokhale K, Gowin J, Gronenberg W, Hermansen RA, Hu H, Hunt BG, Huylmans AK, Khalil SM, Mitchell RD, Munoz-Torres MC, Mustard JA, Pan H, Reese JT, Scharf ME, Sun F, Vogel H, Xiao J, Yang W, Yang Z, Yang Z, Zhou J, et al. Molecular traces of alternative social organization in a termite genome. Nat Commun. 2014;5:3636. doi: 10.1038/ncomms4636.
+
+Gelfman S, Cohen N, Yearim A, Ast G. DNA-methylation effect on cotranscriptional splicing is dependent on GC architecture of the exon–intron structure. Genome Res. 2013;23:789–799. doi: 10.1101/gr.143503.112.
+
+Li-Byarlay H, Li Y, Stroud H, Feng S, Newman TC, Kaneda M, Hou KK, Worley KC, Elsik CG, Wickline SA, Jacobsen SE, Ma J, Robinson GE. RNA interference knockdown of DNA methyl-transferase 3 affects gene alternative splicing in the honey bee. Proc Natl Acad Sci U S A. 2013;110:12750–12755. doi: 10.1073/pnas.1310735110.
+
+Altschul SF, Madden TL, Schaffer AA, Zhang J, Zhang Z, Miller W, Lipman DJ. Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Res. 1997;25:3389–3402. doi: 10.1093/nar/25.17.3389.
+
+Birney E, Clamp M, Durbin R. GeneWise and Genomewise. Genome Res. 2004;14:988–995. doi: 10.1101/gr.1865504.
+
+Finn RD, Bateman A, Clements J, Coggill P, Eberhardt RY, Eddy SR, Heger A, Hetherington K, Holm L, Mistry J, Sonnhammer EL, Tate J, Punta M. Pfam: the protein families database. Nucleic Acids Res. 2014;42:D222–D230. doi: 10.1093/nar/gkt1223.
+
+Trapnell C, Pachter L, Salzberg SL. TopHat: discovering splice junctions with RNA-Seq. Bioinformatics. 2009;25:1105–1111. doi: 10.1093/bioinformatics/btp120.
+
+Mortazavi A, Williams BA, McCue K, Schaeffer L, Wold B. Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nat Methods. 2008;5:621–628. doi: 10.1038/nmeth.1226.
+
+Robinson MD, Oshlack A. A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biol. 2010;11:R25. doi: 10.1186/gb-2010-11-3-r25.
+
+Hayatsu H, Tsuji K, Negishi K. Does urea promote the bisulfite-mediated deamination of cytosine in DNA? Investigation aiming at speeding-up the procedure for DNA methylation analysis. Nucleic Acids Symp Ser. 2006;50:69–70. doi: 10.1093/nass/nrl034.
+
+Li R, Yu C, Li Y, Lam TW, Yiu SM, Kristiansen K, Wang J. SOAP2: an improved ultrafast tool for short read alignment. Bioinformatics. 2009;25:1966–1967. doi: 10.1093/bioinformatics/btp336.
+
+Benjamini Y, Drai D, Elmer G, Kafkafi N, Golani I. Controlling the false discovery rate in behavior genetics research. Behav Brain Res. 2001;125:279–284. doi: 10.1016/S0166-4328(01)00297-2.
+
+Domazet-Loso T, Tautz D. Phylostratigraphic tracking of cancer genes suggests a link to the emergence of multicellularity in metazoa. BMC Biol. 2010;8:66. doi: 10.1186/1741-7007-8-66.
+
+Beißbarth T, Speed TP. GOstat: find statistically overrepresented Gene Ontologies within a group of genes. Bioinformatics. 2004;20:1464–1465. doi: 10.1093/bioinformatics/bth088.",No grants available
+24987376,Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes.,"DNA methylation patterns and functions are variable across invertebrate taxa. In order to provide a better understanding of DNA methylation in the Pacific oyster (Crassostrea gigas), we characterized the genome-wide DNA methylation profile in male gamete cells using whole-genome bisulfite sequencing. RNA-Seq analysis was performed to examine the relationship between DNA methylation and transcript expression. Methylation status of over 7.6 million CpG dinucleotides was described with a majority of methylated regions occurring among intragenic regions. Overall, 15% of the CpG dinucleotides were determined to be methylated and the mitochondrial genome lacked DNA methylation. Integrative analysis of DNA methylation and RNA-Seq data revealed a positive association between methylation status, both in gene bodies and putative promoter regions, and expression. This study provides a comprehensive characterization of the distribution of DNA methylation in the oyster male gamete tissue and suggests that DNA methylation is involved in gene regulatory activity.",Frontiers in physiology,"Olson, Roberts",2014,10.3389/fphys.2014.00224,PMC4060414,https://pubmed.ncbi.nlm.nih.gov/24987376,"Bell A. C., Felsenfeld G. (2000). Methylation of a CTCF-dependent boundary controls imprinted expression of the Igf2 gene. Nature 405, 482–485 10.1038/35013100
+
+Berthelin C., Kellner K., Mathieu M. (2000). Storage metabolism in the Pacific oyster (Crassostrea gigas) in relation to summer mortalities and reproductive cycle (West Coast of France). Comp. Biochem. Physiol. B Biochem. Mol. Biol. 125, 359–369 10.1016/S0305-0491(99)00187-X
+
+Bird A. (1980). DNA methylation and the frequency of CpG in animal DNA. Nucleic Acids Res. 8, 1499–1504 10.1093/nar/8.7.1499
+
+Bird A. (2002). DNA methylation patterns and epigenetic memory. Genes Dev. 16, 6–21 10.1101/gad.947102
+
+Bird A. P., Taggart M. H., Smith B. A. (1979). Methylated and unmethylated DNA compartments in the sea urchin genome. Cell 17, 889–901 10.1016/0092-8674(79)90329-5
+
+del Gaudio R., Di Giamio R., Geraci G. (1997). Genome methylation of the marine annelid worm Chaetopterus variopedatus: methylation of a CpG in an expressed H1 histone gene. FEBS Lett. 417, 48–52 10.1016/S0014-5793(97)01262-3
+
+Dheilly N. M., Lelong C., Huvet A., Kellner K., Dubos M., Riviere G., et al. (2012). Gametogenesis in the pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes. PLoS ONE 7:e36353 10.1371/journal.pone.0036353
+
+Elsik C. G., Worley K. C., Bennett A. K., Beye M., Camara F., Childers C. P., et al. (2014). Finding the missing honey bee genes: lessons learned from a genome upgrade. BMC Genomics 15:86 10.1186/1471-2164-15-86
+
+Ewing B., Green P. (1998). Base-calling of automated sequencer traces using phred. II. error probabilities. Genome Res. 8, 186–194 10.1101/gr.8.3.175
+
+Ewing B., Hillier L., Wendl M. C., Green P. (1998). Base-calling of automated sequencer traces using phred. I. accuracy assessment. Genome Res. 8, 175–185 10.1101/gr.8.3.175
+
+Fang X., Li L., Luo R., Xu F., Wang X., Zhu Y., et al. (2012). Genomic data from the Pacific oyster (Crassostrea gigas). GigaScience. 10.5524/100030
+
+Fneich S., Dheilly N., Adema C., Rognon A., Reichelt M., Bulla J., et al. (2013). 5-methyl-cytosine and 5-hydroxy-methyl-cytosine in the genome of Biomphalaria glabrata, a snail intermediate host of Schistosoma mansoni. Parasit. Vectors 6:167 10.1186/1756-3305-6-167
+
+Franco A., Heude-Berthelin C., Goux D., Sourdaine P., Mathieu M. (2008). Fine structure of the early stages of spermatogenesis in the Pacific oyster, Crassostrea gigas (Mollusca, Bivalvia). Tissue Cell 40, 251–260 10.1016/j.tice.2007.12.006
+
+Gavery M. R., Roberts S. B. (2010). DNA methylation patterns provide insight into epigenetic regulation in the Pacific Oyster (Crassostrea gigas). BMC Genomics 11:483 10.1186/1471-2164-11-483
+
+Gavery M. R., Roberts S. B. (2013). Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ 1:e215 10.7717/peerj.215
+
+Gavery M. R., Roberts S. B. (2014). A context dependent role for DNA methylation in bivalves. Brief. Funct. Genomics 13, 1–6 10.1093/bfgp/elt054
+
+Glude J. B., Chew K. K. (1982). Shellfish Aquaculture in the Pacific Northwest. Alaska Sea Grant Report, 82-2 Anchorage: University of Alaska
+
+Gowher H., Leismann O., Jeltsch A. (2000). DNA of Drosophila melanogaster contains 5-methylcytosine. Eur. Mol. Biol. Organ. J. 19, 6918–6923 10.1093/emboj/19.24.6918
+
+Hong E. E., Okitsu C. Y., Smith A. D., Hsieh C. L. (2013). Regionally specific and genome-wide analyses conclusively demonstrate the absence of CpG methylation in human mitochondrial DNA. Mol. Cell. Biol. 33, 2683–2690 10.1128/MCB.00220-13
+
+Howe B., Cole G., Souroush E., Koutris P., Key A., Khoussainova N., et al. (2011). Database-as-a-service for long-tail science. Sci. Stat. Database Manag. 6809, 480–489 10.1007/978-3-642-22351-8_31
+
+Jiang Q., Li Q., Yu H., Kong L. F. (2013). Genetic and epigenetic variation in mass selection populations of Pacific oyster Crassostrea gigas. Genes Genomics 35, 641–647 10.1007/s13258-013-0114-4
+
+Lyko F., Foret S., Kucharski R., Wolf S., Falckenhayn C., Maleszka R. (2010). The honey bee epigenomes: differential methylation of brain DNA in queens and workers. PLoS ONE 8:1000506 10.1371/journal.pbio.1000506
+
+Lyko F., Whittaker A. J., Orr-Weaver T. L., Jaenisch R. (2000). The putative Drosophila methyltransferase gene dDnmt2 is contained in a transposon-like element and is expressed specifically in ovaries. Mech. Dev. 95, 215–217 10.1016/S0925-4773(00)00325-7
+
+Mortazavi A., Williams B. A., McCue K., Schaeffer L., Wold B. (2008). Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nat. Methods 5, 621–628 10.1038/nmeth.1226
+
+Olson C., Roberts S. (2014). Crassostrea gigas male gonad transcriptome data comparison. Figshare. 10.6084/m9.figshare.1004464
+
+Quinlan A. R., Hall I. M. (2010). BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics 26, 841–842 10.1093/bioinformatics/btq033
+
+Rice P., Longden I., Bleasby A. (2000). EMBOSS: the european molecular biology open software suite. Trends Genetics 16, 276–272 10.1016/S0168-9525(00)02024-2
+
+Riviere G., Wu G. C., Fellous A., Goux D., Sourdaine P., Favrel P. (2013). DNA methylation is crucial for the early development in the oyster C. gigas. Mar. Biotechnol. 15, 739–753 10.1007/s10126-013-9523-2
+
+Roberts S. B., Gavery M. R. (2012). Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates? Front. Physiol. 2:116 10.3389/fphys.2011.00116
+
+Smit A. F. A., Hubley R., Green P. (1996–2010). RepeatMasker Open-3.0. Available online at http://www.repeatmasker.org
+
+Sun Y., Hou R., Fu X., Sun C., Wang S., Wang C., et al. (2014). Genome-wide analysis of DNA methylation in five tissues of zhikong scallop, Chlamys farreri. PLoS ONE 9:e86232 10.1371/journal.pone.0086232
+
+Suzuki M. M., Bird A. (2008). DNA methylation landscapes: provocative insights from epigenomics. Nat. Rev. Genetics 9, 465–476 10.1038/nrg2341
+
+Suzuki M. M., Kerr A. R., De Sousa D., Bird A. (2007). CpG methylation is targeted to transcription units in an invertebrate genome. Genome Res. 17, 625–631 10.1101/gr.6163007
+
+Suzuki M. M., Yoshinari A., Obara M., Takuno S., Shigenobu S., Sasakura Y., et al. (2013). Identical sets of methylated and nonmethylated genes in Ciona intestinalis sperm and muscle cells. Epigenetics Chromatin 6:38 10.1186/1756-8935-6-38
+
+Xi Y., Li W. (2009). BSMAP: whole genome bisulfite sequence MAPping program. BMC Bioinformatics 10:232 10.1186/1471-2105-10-232
+
+Zhang G., Fang X., Guo X., Li L., Luo R., Xu F., et al. (2012). The oyster genome reveals stress adaptation and complexity of shell formation. Nature 490, 49–54 10.1038/nature11413
+
+Zilberman D., Gehring M., Tran R. K., Ballinger T., Henikoff S. (2007). Genome-wide analysis of Arabidopsis thaliana DNA methylation uncovers an interdependence between methylation and transcription. Nat. Genetics 39, 61–69 10.1038/ng1929",No grants available
+24778620,Epigenetic features in the oyster Crassostrea gigas suggestive of functionally relevant promoter DNA methylation in invertebrates.,"DNA methylation is evolutionarily conserved. Vertebrates exhibit high, widespread DNA methylation whereas invertebrate genomes are less methylated, predominantly within gene bodies. DNA methylation in invertebrates is associated with transcription level, alternative splicing, and genome evolution, but functional outcomes of DNA methylation remain poorly described in lophotrochozoans. Recent genome-wide approaches improve understanding in distant taxa such as molluscs, where the phylogenetic position, and life traits of Crassostrea gigas make this bivalve an ideal model to study the physiological and evolutionary implications of DNA methylation. We review the literature about DNA methylation in invertebrates and focus on DNA methylation features in the oyster. Indeed, though our MeDIP-seq results confirm predominant intragenic methylation, the profiles depend on the oyster's developmental and reproductive stage. We discuss the perspective that oyster DNA methylation could be biased toward the 5'-end of some genes, depending on physiological status, suggesting important functional outcomes of putative promoter methylation from cell differentiation during early development to sustained adaptation of the species to the environment.",Frontiers in physiology,Rivière,2014,10.3389/fphys.2014.00129,PMC3985014,https://pubmed.ncbi.nlm.nih.gov/24778620,"Antequera F. (2003). Structure, function and evolution of CpG island promoters. Cell. Mol. Life Sci. 60, 1647–1658 10.1007/s00018-003-3088-6
+
+Antequera F., Tamame M., Vilanueva J. R., Santos T. (1985). Developmental modulation of DNA methylation in the fungus Phycomyces blakesleeanus. Nucleic Acids Res. 13, 6545–6558 10.1093/nar/13.18.6545
+
+Badeaux A. I., Shi Y. (2013). Emerging roles for chromatin as a signal integration and storage platform. Nat. Rev. Mol. Cell Biol. 14, 211–224 10.1038/nrm3545
+
+Ball M. P., Li J. B., Gao Y., Lee J., Leproust E. M., Park I., et al. (2009). Targeted and genome-scale strategies reveal gene-body methylation signatures in human cells. Nat. Biotechnol. 27, 361–369 10.1038/nbt.1533
+
+Bird A. (1992). The Essentials of DNA methylation Minireview. Cell 70, 5–8 10.1016/0092-8674(92)90526-I
+
+Bird A. P. (1980). DNA methylation and the frequency of CpG in animal DNA. Nucleic Acid Res. 8, 1499–1504 10.1093/nar/8.7.1499
+
+Bonasio R., Li Q., Lian J., Mutti N. S., Jin L., Zhao H., et al. (2012). Genome-wide and caste-specific DNA methylomes of the ants Camponotus floridanus and Harpegnathos saltator. Curr. Biol. 22, 1755–1764 10.1016/j.cub.2012.07.042
+
+Cedar H., Bergman Y. (2009). Linking DNA methylation and histone modification: patterns and paradigms. Nat. Rev. Genet. 10, 295–304 10.1038/nrg2540
+
+Chuang T. J., Chen F. C. (2014). DNA methylation is associated with an increased level of conservation at nondegenerate nucleotides in mammals. Mol. Biol. Evol. 31, 387–396 10.1093/molbev/mst208
+
+Cokus S. J., Feng S., Zhang X., Chen Z., Merriman B., Haudenschild C. D., et al. (2008). Shotgun bisulphite sequencing of the Arabidopsis genome reveals DNA methylation patterning. Nature 452, 215–219 10.1038/nature06745
+
+Collier J. (2009). Epigenetic regulation of the bacterial cell cycle. Curr. Opin. Microbiol. 12, 722–729 10.1016/j.mib.2009.08.005
+
+Cooper D. N., Krawczak M. (1989). Cytosine methylation and the fate of CpG dinucleotides in vertebrate genomes. Hum. Genet. 83, 181–188 10.1007/BF00286715
+
+Deaton A. M., Bird A., Deaton M. (2011). CpG islands and the regulation of transcription. Genes Dev. 25, 1010–1022 10.1101/gad.2037511
+
+Doskočil J., Šorm F. (1962). Distribution of 5-methylcytosine in pyrimidine sequences of deoxyribonucleic acids. Biochim. Biophys. Acta 55, 953–959 10.1016/0006-3002(62)90909-5
+
+Ebert A., Lein S., Schotta G., Reuter G. (2006). Histone modification and the control of heterochromatic gene silencing in Drosophila. Chromosome Res. 14, 377–392 10.1007/s10577-006-1066-1
+
+Elango N., Hunt B. G., Goodisman M. A. D., Yi S. V. (2009). DNA methylation is widespread and associated with differential gene expression in castes of the honeybee, Apis mellifera. Proc. Natl. Acad. Sci. U.S.A. 106, 11206–11211 10.1073/pnas.0900301106
+
+Elango N., Kim S.-H., Vigoda E., Yi S. V. (2008). Mutations of different molecular origins exhibit contrasting patterns of regional substitution rate variation. PLoS Comput. Biol. 4:e1000015 10.1371/journal.pcbi.1000015
+
+Elango N., Yi S. V. (2008). DNA methylation and structural and functional bimodality of vertebrate promoters. Mol. Biol. Evol. 25, 1602–1608 10.1093/molbev/msn110
+
+Fellous A., Favrel P., Guo X., Riviere G. (2014). The Jumonji gene family in Crassostrea gigas suggests evolutionary conservation of Jmj-C histone demethylases orthologues in the oyster gametogenesis and development. Gene 538, 164–175 10.1016/j.gene.2013.12.016
+
+Feng S., Cokus S. J., Zhang X., Chen P., Bostick M., Goll M. G. (2010). Conservation and divergence of methylation patterning in plants and animals. Proc. Natl. Acad. Sci. U.S.A. 107, 8689–8694 10.1073/pnas.1002720107
+
+Flores K., Wolschin F., Corneveaux J. J., Allen A. N., Huentelman M. J., Amdam G. V. (2012). Genome-wide association between DNA methylation and alternative splicing in an invertebrate. BMC Genomics 13:480 10.1186/1471-2164-13-480
+
+Fneich S., Dheilly N., Adema C., Rognon A., Reichelt M., Bulla J., et al. (2013). 5-methyl-cytosine and 5-hydroxy-methyl-cytosine in the genome of Biomphalaria glabrata, a snail intermediate host of Schistosoma mansoni. Parasit. Vectors 6, 167–178 10.1186/1756-3305-6-167
+
+Gabory A., Attig L., Junien C. (2011). Epigenetic mechanisms involved in developmental nutritional programming. World J. Diabetes 2, 164–175 10.4239/wjd.v2.i10.164
+
+Gadau J., Helmkampf M., Nygaard S., Roux J., Simola D. F. (2012). The genomic impact of 100 million years of social evolution in seven ant species. Trends Genet. 28, 14–21 10.1016/j.tig.2011.08.005
+
+Gavery M. R., Roberts S. B. (2010). DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas). BMC Genomics 11:483 10.1186/1471-2164-11-483
+
+Gavery M. R., Roberts S. B. (2013). Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ 1:e215 10.7717/peerj.215
+
+Gavery M. R., Roberts S. B. (2014). A context dependent role for DNA methylation in bivalves. Brief. Funct. Genomics. [Epub ahead of print]. 10.1093/bfgp/elt054
+
+Heusipp G., Fälker S., Schmidt M. A. (2007). DNA adenine methylation and bacterial pathogenesis. Int. J. Med. Microbiol. 297, 1–7 10.1016/j.ijmm.2006.10.002
+
+Hsieh C. (1994). Dependence of transcriptional repression on CpG methylation density. Mol. Cell. Biol. 14, 5487–5494
+
+Hunt B. G., Brisson J. A., Yi S. V, Goodisman M. A. D. (2010). Functional Conservation of DNA methylation in the Pea Aphid and the Honeybee. Genome Biol. Evol. 2, 719–728 10.1093/gbe/evq057
+
+Jones P. A. (2012). Functions of DNA methylation: islands, start sites, gene bodies and beyond. Nat. Rev. Genet. 13, 484–492 10.1038/nrg3230
+
+Jouaux A., Heude-Berthelin C., Sourdaine P., Mathieu M., Kellner K. (2010). Gametogenic stages in triploid oysters Crassostrea gigas: irregular locking of gonial proliferation and subsequent reproductive effort. J. Exp. Mar. Biol. Ecol. 395, 162–170 10.1016/j.jembe.2010.08.030
+
+Keller S. R., Taylor D. R. (2008). History, chance and adaptation during biological invasion: separating stochastic phenotypic evolution from response to selection. Ecol. Lett. 11, 852–866 10.1111/j.1461-0248.2008.01188.x
+
+Kucharski R., Maleszka J., Foret S., Maleszka R. (2008). Nutritional control of reproductive status in honeybees via DNA methylation. Science 319, 1827–1830 10.1126/science.1153069
+
+Kupiec J. (2010). On the lack of speci fi city of proteins and its consequences for a theory of biological organization. Prog. Biophys. Mol. Biol. 102, 45–52 10.1016/j.pbiomolbio.2009.11.002
+
+Laforge B., Guez D., Martinez M., Kupiec J.-J. (2005). Modeling embryogenesis and cancer: an approach based on an equilibrium between the autostabilization of stochastic gene expression and the interdependence of cells for proliferation. Prog. Biophys. Mol. Biol. 89, 93–120 10.1016/j.pbiomolbio.2004.11.004
+
+Lister R., Pelizzola M., Dowen R. H., Hawkins R. D., Hon G., Tonti-filippini J., et al. (2009). Human DNA methylomes at base resolution show widespread epigenomic differences. Nature 462, 315–322 10.1038/nature08514
+
+Lyko F., Foret S., Kucharski R., Wolf S., Falckenhayn C., Maleszka R. (2010). The honey bee epigenomes: differential methylation of brain DNA in queens and workers. PLoS Biol. 8:e1000506 10.1371/journal.pbio.1000506
+
+Lyko F., Ramsahoye B. H., Jaenisch R. (2000). DNA methylation in Drosophila melanogaster. Nature 408, 538–540 10.1038/35046205
+
+Maresca B., Schwartz J. H. (2006). Sudden origins: a general mechanism of evolution based on stress protein concentration and rapid environmental change. Anat. Rec. B New Anat. 289, 38–46 10.1002/ar.b.20089
+
+Maunakea A. K., Chepelev I., Cui K., Zhao K. (2013). Intragenic DNA methylation modulates alternative splicing by recruiting MeCP2 to promote exon recognition. Cell Res. 11, 1–14 10.1038/cr.2013.110
+
+Maunakea A. K., Nagarajan R. P., Bilenky M., Ballinger T. J., Souza C. D., Fouse S. D., et al. (2010). Conserved role of intragenic DNA methylation in regulating alternative promoters. Nature 466, 253–257 10.1038/nature09165
+
+Park J., Peng Z., Zeng J., Elango N., Park T., Wheeler D., et al. (2011). Comparative analyses of DNA methylation and sequence evolution using Nasonia genomes. Mol. Biol. Evol. 28, 3345–3354 10.1093/molbev/msr168
+
+Petrovic V., Perez-Garcia C., Pasantes J., Satovic E., Prats E., Plohl M. (2009). A GC-rich satellite DNA and karyology of the bivalve mollusk Donax trunculus: a dominance of GC-rich heterochromatin. Cytogenet. Genome Res. 124, 63–71 10.1159/000200089
+
+Rach E. A., Winter D. R., Benjamin A. M., Corcoran D. L., Ni T. (2011). Transcription initiation patterns indicate divergent strategies for gene regulation at the chromatin level. PLoS Genet. 7:e100127 10.1371/journal.pgen.1001274
+
+Raj A., van Oudenaarden A. (2008). Nature, nurture, or chance: stochastic gene expression and its consequences. Cell 135, 216–226 10.1016/j.cell.2008.09.050
+
+Rajasethupathy P., Antonov I., Sheridan R., Frey S., Sander C., Tuschl T., et al. (2012). A role for neuronal piRNAs in the epigenetic control of memory-related synaptic plasticity. Cell 149, 693–707 10.1016/j.cell.2012.02.057
+
+Rivière G., Lienhard D., Andrieu T., Vieau D., Frey B. M., Frey F. J. (2011). Epigenetic regulation of somatic angiotensin-converting enzyme by DNA methylation and histone acetylation. Epigenetics 6, 478–489 10.4161/epi.6.4.14961
+
+Riviere G., Wu G., Fellous A., Goux D., Sourdaine P., Favrel P. (2013). DNA methylation is crucial for the early development in the Oyster C. gigas. Mar. Biotechnol. 15, 739–753 10.1007/s10126-013-9523-2
+
+Roberts S. B., Gavery M. R. (2012). Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates? Front. Physiol. 2:116 10.3389/fphys.2011.00116
+
+Rollo C. D. (2006). Radiation and the regulatory landscape of neo2-Darwinism. Mutat. Res. 597, 18–31 10.1016/j.mrfmmm.2005.09.009
+
+Sarda S., Zeng J., Hunt B. G., Yi S. V. (2012). The evolution of invertebrate gene body methylation. Mol. Biol. Evol. 29, 1907–1916 10.1093/molbev/mss062
+
+Selker E. U., Stevens J. N. (1987). Signal for DNA methylation associated with tandem duplication in Neurospora crassa. Mol. Cell. Biol. 7, 1032–1038
+
+Shimizu T. S., Takahashi K., Tomita M. (1997). CpG distribution patterns in methylated and non-methylated species. Gene 205, 103–107 10.1016/S0378-1119(97)00542-8
+
+Suzuki M. M., Bird A. (2008). DNA methylation landscapes: provocative insights from epigenomics. Nat. Rev. Genet. 9, 465–476 10.1038/nrg2341
+
+Suzuki M. M., Kerr A. R. W., De Sousa D., Bird A. (2007). CpG methylation is targeted to transcription units in an invertebrate genome. Genome Res. 17, 625–631 10.1101/gr.6163007
+
+Vandegehuchte M. B., Janssen C. R. (2013). Epigenetics in an ecotoxicological context. Mutat. Res. [Epub ahead of print]. 10.1016/j.mrgentox.2013.08.008
+
+Vandegehuchte M. B., Lemière F., Janssen C. R. (2009). Quantitative DNA-methylation in Daphnia magna and effects of multigeneration Zn exposure. Comp. Biochem. Physiol. C Toxicol. Pharmacol. 150, 343–348 10.1016/j.cbpc.2009.05.014
+
+Vandegehuchte M. B., Lemière F., Vanhaecke L., Vanden Berghe W., Janssen C. R. (2010). Direct and transgenerational impact on Daphnia magna of chemicals with a known effect on DNA methylation. Comp. Biochem. Physiol. C Toxicol. Pharmacol. 151, 278–285 10.1016/j.cbpc.2009.11.007
+
+Vinson C., Chatterjee R. (2012). CG methylation. Future Med. 4, 655–663 10.2217/epi.12.55
+
+Walsh T. K., Brisson J. A., Robertson H. M., Gordon K., Jobert-Possamai S., Tagu D., et al. (2010). A functional DNA methylation system in the pea aphid, Acyrthosiphon pisum. Insect Mol. Biol. 19, 215–228 10.1111/j.1365-2583.2009.00974.x
+
+Wang S., Bao Z., Hu X., Shao M., Zhang L., Hu J. (2008). Two novel elements (CFG1 and PYG1) of Mag lineage of Ty3/Gypsy retrotransposons from Zhikong scallop (Chlamys farreri) and Japanese scallop (Patinopecten yessoensis). Genetica 133, 37–46 10.1007/s10709-007-9180-3
+
+Wang X., Wheeler D., Avery A., Rago A., Choi J.-H., Colbourne J. K., et al. (2013). Function and evolution of DNA methylation in Nasonia vitripennis. PLoS Genet. 9:e1003872 10.1371/journal.pgen.1003872
+
+Xiang H., Zhu J., Chen Q., Dai F., Li X., Li M., et al. (2010). Single base-resolution methylome of the silkworm reveals a sparse epigenomic map. Nat. Biotechnol. 28, 516–520 10.1038/nbt.1626
+
+Yoder J. A., Walsh C. P., Bestor T. H. (1997). Cytosine methylation and the ecology of intragenomic parasites. Trends Genet. 13, 335–340 10.1016/S0168-9525(97)01181-5
+
+Zaleski P., Wojciechowski M., Piekarowicz A. (2005). The role of Dam methylation in phase variation of Haemophilus influenzae genes involved in defence against phage infection. Microbiology 151, 3361–3369 10.1099/mic.0.28184-0
+
+Zemach A., McDaniel I. E., Silva P., Zilberman D. (2010). Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science 328, 916–919 10.1126/science.1186366
+
+Zentner G. E., Henikoff S. (2013). REVIEW Regulation of nucleosome dynamics by histone modifications. Nat. Struct. Mol. Biol. 20, 259–266 10.1038/nsmb.2470
+
+Zhang G., Fang X., Guo X., Li L., Luo R., Xu F., et al. (2012). The oyster genome reveals stress adaptation and complexity of shell formation. Nature 490, 49–54 10.1038/nature11413
+
+Zwier M. V, Verhulst E. C., Zwahlen R. D., Beukeboom L. W., van de Zande L. (2012). DNA methylation plays a crucial role during early Nasonia development. Insect Mol. Biol. 21, 129–138 10.1111/j.1365-2583.2011.01121.x",No grants available
+24282674,Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc.,"Characterization of DNA methylation patterns in the Pacific oyster, Crassostrea gigas, indicates that this epigenetic mechanism plays an important functional role in gene regulation and may be involved in the regulation of developmental processes and environmental responses. However, previous studies have been limited to in silico analyses or characterization of DNA methylation at the single gene level. Here, we have employed a genome-wide approach to gain insight into how DNA methylation supports the regulation of the genome in C. gigas. Using a combination of methylation enrichment and high-throughput bisulfite sequencing, we have been able to map methylation at over 2.5 million individual CpG loci. This is the first high-resolution methylome generated for a molluscan species. Results indicate that methylation varies spatially across the genome with a majority of the methylated sites mapping to intra genic regions. The bisulfite sequencing data was combined with RNA-seq data to examine genome-wide relationships between gene body methylation and gene expression, where it was shown that methylated genes are associated with high transcript abundance and low variation in expression between tissue types. The combined data suggest DNA methylation plays a complex role in regulating genome activity in bivalves.",PeerJ,"Gavery, Roberts",2013,10.7717/peerj.215,PMC3840415,https://pubmed.ncbi.nlm.nih.gov/24282674,"Bell AC, Felsenfeld G. Methylation of a CTCF-dependent boundary controls imprinted expression of the Igf2 gene. Nature. 2000;405:482–485. doi: 10.1038/35013100.
+
+Bird A. Gene number, noise reduction and biological complexity. Trends in Genetics. 1995;11:94–100. doi: 10.1016/S0168-9525(00)89009-5.
+
+Bird AP, Taggart MH. Variable patterns of total DNA and rDNA methylation in animals. Nucleic Acids Research. 1980;8:1485–1497. doi: 10.1093/nar/8.7.1485.
+
+Bonasio R, Li Q, Lian J, Mutti NS, Jin L, Zhao H, Zhang P, Wen P, Xiang H, Ding Y, Jin Z, Shen S, Wang Z, Wang W, Wang J, Berger S, Liebig J, Zhang G. Genome-wide and caste-specific DNA methylomes of the ants Camponotus floridanus and Harpegnathos saltator. Current Biology. 2012;22:1755–1764. doi: 10.1016/j.cub.2012.07.042.
+
+Colot V, Rossignol JL. Eukaryotic DNA methylation as an evolutionary device. BioEssays. 1999;21:402–411. doi: 10.1002/(SICI)1521-1878(199905)21:5<402::AID-BIES7>3.0.CO;2-B.
+
+Ewing B, Hillier L, Wendl MC, Green P. Base-calling of automated sequencer traces using phred. I. Accuracy assessment. Genome Research. 1998;8:175–185. doi: 10.1101/gr.8.3.175.
+
+Ewing B, Green P. Base-calling of automated sequencer traces using phred. II. Error probabilities. Genome Research. 1998;8:186–194. doi: 10.1101/gr.8.3.175.
+
+Fang X, Li L, Luo R, Xu F, Wang X, Zhu Y, Yang L, Huang Z. Genomic data from the Pacific oyster (Crassostrea gigas) GigaScience. 2012 doi: 10.5524/100030.
+
+Feng S, Cokus SJ, Zhang X, Chen PY, Bostick M, Goll MG, Hetzel J, Jain J, Strauss SH, Halpern ME, Ukomadu C, Sadler KC, Pradhan S, Pellegrini M, Jacobsen SE. Conservation and divergence of methylation patterning in plants and animals. Proceedings of the National Academy of Sciences of the United States of America. 2010;107:8689–8694. doi: 10.1073/pnas.1002720107.
+
+Fneich S, Dheilly N, Adema C, Rognon A, Reichelt M, Bulla J, Grunau C, Cosseau C. 5-methyl-cytosine and 5-hydroxy-methyl-cytosine in the Genome of Biomphalaria Glabrata, a Snail Intermediate Host of Schistosoma Mansoni. Parasites & Vectors. 2013;6:167. doi: 10.1186/1756-3305-6-167.
+
+Foret S, Kucharski R, Pellegrini M, Feng S, Jacobsen SE, Robinson GE, Maleszka R. DNA methylation dynamics, metabolic fluxes, gene splicing, and alternative phenotypes in honey bees. Proceedings of the National Academy of Sciences of the United States of America. 2012;109:4968–4973. doi: 10.1073/pnas.1202392109.
+
+Gao F, Liu XS, Wu X-P, Wang X-L, Gong D, Lu H, Song Y, Wang J, Du J, Liu S, Han X, Tang Y, Yang H, Jin Q, Zhang X, Liu M. Differential methylation in discrete developmental stages of the parasitic nematode Trichinella spiralis. Genome Biology. 2012;13:R100. doi: 10.1186/gb-2012-13-10-r100.
+
+Gavery M, Roberts SB. DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas) BMC Genomics. 2010;11:483. doi: 10.1186/1471-2164-11-483.
+
+Gavery M, Roberts S. 2013.  Crassostrea gigas high-throughput bisulfite sequencing (gill tissue). figshare . Retrieved 18:44, Oct 21, 2013 (GMT) 
+
+Howe B, Cole G, Souroush E, Koutris P, Key A, Khoussainova N, Battle L. Database-as-a-service for long-tail science. In: Cushing JB, French J, Bowers S, editors. Proceedings of the 23rd international conference on scientific and statistical database management (SSDBM’11) Berlin, Heidelberg: Springer-Verlag; 2011. pp. 480–489.
+
+Hsieh CL. Dependence of transcriptional repression on CpG methylation density. Molecular and Cellular Biology. 1994;14:5487–5494.
+
+Huh I, Zeng J, Park T, Yi S. DNA methylation and transcriptional noise. Epigenetics & Chromatin. 2013;6:9. doi: 10.1186/1756-8935-6-9.
+
+Jjingo D, Conley AB, Yi SV, Lunyak VV, Jordan IK. On the presence and role of human gene-body DNA methylation. Oncotarget. 2013;3:462–474.
+
+Jones PA. The DNA methylation paradox. Trends in Genetics. 1999;15:34–37. doi: 10.1016/S0168-9525(98)01636-9.
+
+Kucharski R, Maleszka J, Foret S, Maleszka R. Nutritional control of reproductive status in honeybees via DNA methylation. Science. 2008;319:1827–1830. doi: 10.1126/science.1153069.
+
+Lechner M, Marz M, Ihling C, Sinz A, Stadler PF, Krauss V. The correlation of genome size and DNA methylation rate in metazoans. Theory in Biosciences. 2013;132:47–60. doi: 10.1007/s12064-012-0167-y.
+
+Li E, Bestor TH, Jaenisch R. Targeted mutation of the DNA methyltransferase gene results in embryonic lethality. Cell. 1992;69:915–926. doi: 10.1016/0092-8674(92)90611-F.
+
+Lyko F, Foret S, Kucharski R, Wolf S, Falckenhayn C, Maleszka R. The honey bee epigenomes: differential methylation of brain DNA in queens and workers. PLoS Biology. 2010;8:e1000506. doi: 10.1371/journal.pbio.1000506.
+
+Maunakea AK, Nagarajan RP, Bilenky M, Ballinger TJ, D’Souza C, Fouse SD, Johnson BE, Hang C, Nielsen C, Zhao Y, Turecki G, Delaney A, Varhol R, Thiessen N, Shchors K, Heine VM, Rowitch DH, Xing X, Fiore C, Schillebeeckx M, Jones SJM, Haussler D, Marra MA, Hirst M, Wang T, Costello JF. Conserved role of intragenic DNA methylation in regulating alternative promoters. Nature. 2010;466:253–257. doi: 10.1038/nature09165.
+
+Mortazavi A, Williams BA, McCue K, Schaeffer L, Wold B. Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nature Methods. 2008;5:621–628. doi: 10.1038/nmeth.1226.
+
+Okano M, Bell DW, Haber DA, Li E. DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo methylation and mammalian development. Cell. 1999;99:247–257. doi: 10.1016/S0092-8674(00)81656-6.
+
+Petrovic V, Perez-Garcia C, Pasantes JJ, Satovic E, Prats E, Plohl M. A GC-rich satellite DNA and karyology of the bivalve mollusk donax trunculus: a dominance of GC-rich heterochromatin. Cytogenetic and Genome Research. 2009;124:63–71. doi: 10.1159/000200089.
+
+Quinlan AR, Hall IM. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 2010;26:841–842. doi: 10.1093/bioinformatics/btq033.
+
+R Development Core Team  2012.  R: a language and environment for statistical computing. Available at http://www.R-project.org .
+
+Rice P, Longden I, Bleasby A. EMBOSS: the European molecular biology open software suite. Trends in Genetics. 2000;16:276–277. doi: 10.1016/S0168-9525(00)02024-2.
+
+Riviere G, Wu GC, Fellous A, Goux D, Sourdaine P, Favrel P. DNA methylation is crucial for the early development in the oyster C. gigas. Marine Biotechnology. 2013;15:739–753. doi: 10.1007/s10126-013-9523-2.
+
+Roberts SB, Gavery MR. Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates? Frontiers in Physiology. 2012;2:116. doi: 10.3389/fphys.2011.00116.
+
+Sati S, Tanwar VS, Kumar KA, Patowary A, Jain V, Ghosh S, Ahmad S, Singh M, Reddy SU, Chandak GR, Raghunath M, Sivasubbu S, Chakraborty K, Scaria V, Sengupta S. High resolution methylome map of rat indicates role of intragenic DNA methylation in identification of coding region. PLoS ONE. 2012;7:e31621. doi: 10.1371/journal.pone.0031621.
+
+Shukla S, Kavak E, Gregory M, Imashimizu M, Shutinoski B, Kashlev M, Oberdoerffer P, Sandberg R, Oberdoerffer S. CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing. Nature. 2011;479:74–79. doi: 10.1038/nature10442.
+
+Simmen MW, Leitgeb S, Charlton J, Jones SJM, Harris BR, Clark VH, Bird A. Nonmethylated transposable elements and methylated genes in a chordate genome. Science. 1999;283:1164–1167. doi: 10.1126/science.283.5405.1164.
+
+Smit AFA, Hubley R, Green P. 1996–2010.  RepeatMasker Open-3.0. Available at http://www.repeatmasker.org .
+
+Suzuki MM, Kerr ARW, De Sousa D, Bird A. CpG methylation is targeted to transcription units in an invertebrate genome. Genome Research. 2007;17:625–631. doi: 10.1101/gr.6163007.
+
+Tweedie S, Charlton J, Clark V, Bird A. Methylation of genomes and genes at the invertebrate–vertebrate boundary. Molecular and Cellular Biology. 1999;17:1469–1475.
+
+Wang S, Bao Z, Hu X, Shao M, Zhang L, Hu J. Two novel elements (CFG1 and PYG1) of mag lineage of Ty3/Gypsy retrotransposons from Zhikong Scallop (Chlamys Farreri) and Japanese Scallop (Patinopecten Yessoensis) Genetica. 2008;133:37–46. doi: 10.1007/s10709-007-9180-3.
+
+Wolffe AP, Matzke MA. Epigenetics: regulation through repression. Science. 1999;286:481–486. doi: 10.1126/science.286.5439.481.
+
+Xi Y, Li W. BSMAP: whole genome Bisulfite Sequence MAPping program. BMC Bioinformatics. 2009;10:232. doi: 10.1186/1471-2105-10-232.
+
+Yoder JA, Walsh CP, Bestor TH. Cytosine methylation and the ecology of intragenomic parasites. Trends in Genetics. 1997;8:335–340. doi: 10.1016/S0168-9525(97)01181-5.
+
+Zemach A, McDaniel IE, Silva P, Zilberman D. Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science. 2010;328:916–919. doi: 10.1126/science.1186366.
+
+Zhang G, Fang X, Guo X, Li L, Luo R, Xu F, Yang P, Zhang L, Wang X, Qi H, Xiong Z, Que H, Xie Y, Holland PWH, Paps J, Zhu Y, Wu F, Chen Y, Wang J, Peng C, Meng J, Yang L, Liu J, Wen B, Zhang N. The oyster genome reveals stress adaptation and complexity of shell formation. Nature. 2012;490:49–54. doi: 10.1038/nature11413.
+
+Zhang X, Yazaki J, Sundaresan A, Cokus S, Chan SW, Chen H, Henderson IR, Shinn P, Pellegrini M, Jacobsen SE, Ecker JR. Genome-wide high-resolution mapping and functional analysis of DNA methylation in Arabidopsis. Cell. 2006;126:1189–1201. doi: 10.1016/j.cell.2006.08.003.
+
+Zilberman D, Gehring M, Tran RK, Ballinger T, Henikoff S. Genome-wide analysis of Arabidopsis thaliana DNA methylation uncovers an interdependence between methylation and transcription. Nature Genetics. 2007;39:61–69. doi: 10.1038/ng1929.",No grants available
